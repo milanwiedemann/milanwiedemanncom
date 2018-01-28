@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "milanwiedemann.com/"
 languageCode = "en-us"
 title = "Milan"
 theme = "hugo-ivy"
