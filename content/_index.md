@@ -1,5 +1,6 @@
 ---
 title: Home
+disable_comments: true
 ---
 
 <img src="/images/portrait.png" style="max-width:20%;min-width:50px;float:right;"/>

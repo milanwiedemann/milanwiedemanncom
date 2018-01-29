@@ -1,5 +1,6 @@
 ---
 title: About me
+disable_comments: true
 ---
 
 I'm interested in the mechanisms of therapeutic change and recovery in psychological therapies for mental health problems.

@@ -21,12 +21,12 @@ footnotereturnlinkcontents = "↩"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Blog"
+    url = "/blog/"
     weight = 3
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "CV"
+    url = "/cv/"
     weight = 4
 #[[menu.main]]
 #    name = "Subscribe"
@@ -34,7 +34,7 @@ footnotereturnlinkcontents = "↩"
     
 [params]
     description = "Psychological Therapy, Open Science, Reproducibility, R"
-    footer = "&copy; Milan Wiedemann 2018 | [Twitter](https://twitter.com/milanwiedemann) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl) | [Github](https://github.com/milanwiedemann)"
+    footer = "&copy; Milan Wiedemann 2018 | [Twitter](https://twitter.com/milanwiedemann) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) | [Github](https://github.com/milanwiedemann)"
 
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"
