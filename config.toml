@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://milanwiedemann.netlify.com/"
 languageCode = "en-us"
 title = "Milan"
 theme = "hugo-ivy"
@@ -28,15 +28,22 @@ footnotereturnlinkcontents = "↩"
     name = "CV"
     url = "/cv/"
     weight = 4
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
 #[[menu.main]]
 #    name = "Subscribe"
 #    url = "/index.xml"
+
+
     
 [params]
     description = "Psychological Therapy, Open Science, Reproducibility, R"
-    footer = "&copy; Milan Wiedemann 2018 | [Twitter](https://twitter.com/milanwiedemann) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) | [Github](https://github.com/milanwiedemann)"
-
+    footer = "&copy; [Milan Wiedemann 2018](/) | [Twitter](https://twitter.com/milanwiedemann) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) | [Github](https://github.com/milanwiedemann)"
+    
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"
   highlightjsLang = ["r", "yaml", "tex"]
   highlightjsTheme = "github"
+  
