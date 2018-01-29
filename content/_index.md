@@ -3,7 +3,7 @@ title: Home
 disable_comments: true
 ---
 
-<img src="/images/portrait.png" style="max-width:20%;min-width:50px;float:right;"/>
+<img src="/images/portrait.png" style="max-width:20%;min-width:50px;float:top;"/>
 
 I'm a PhD student at the [Oxford Centre for Anxiety Disorders and Trauma](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma) at the Department of Experimental Psychology, University of Oxford. 
 
