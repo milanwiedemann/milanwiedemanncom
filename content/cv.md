@@ -6,24 +6,76 @@ disable_comments: true
 
 # Milan Wiedemann
 
-## Brief Biography
-
 ## Research Interests
+
+I am a second-year DPhil candidate investigating mechanisms of change in cognitive therapy for Posttraumatic Stress Disorder. 
+I possess strong research and clinical skills as well as creative filming and video editing experience in a professional environment.
+
+I am enthusiastic about innovative ways to make psychological therapies more widely available using digital technology.
 
 ## Education Background
 
-- 2013 ~ 2015, Master of Science in Psychology, Braunschweig University of Technology
-- 2011 ~ 2013, Bachelor of Science in Psychology, Braunschweig University of Technology
-- 2010 ~ 2011, Bachelor of Science in Psychology, University of Groningen
-
-
-## Honors & Awards
-
+- 08/2013 ~ 09/2015, MSc in Psychology, Braunschweig University of Technology
+- 09/2012 ~ 09/2013, BSc in Psychology, Braunschweig University of Technology
+- 09/2011 ~ 08/2012, BSc in Psychology, University of Groningen
 
 ## Publications
 
-See my [Google Scholar page](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) for a full list of publications.
+Wild, J., Warnock-Parkes, E., Grey, N., Stott, R., **Wiedemann, M.**, … Ehlers, A. (2016). 
+Internet-delivered cognitive therapy for PTSD: A development pilot series. 
+_European Journal of Psychotraumatology_. 
+[doi: 10.3402/ejpt.v7.31019](http://www.tandfonline.com/doi/full/10.3402/ejpt.v7.31019?scroll=top&needAccess=true)
 
-## Professional Experience
+Also see my [Google Scholar page](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) for a full list of my publications.
 
-## Presentations & Tutorials
+## Presentations
+**Wiedemann, M.**, Clark, D. M., Ehlers, A. (2017).
+Predictors and processes of sudden gains in cognitive therapy for PTSD.
+_European Association for Behavioural and Cognitive Therapies_.
+
+
+## Research and Clinical Experience
+
+Part-time Research Assistant, Oxford Centre for Anxiety Disorders and Trauma, University of Oxford. 
+Filming patient testimonies and videos with clinical psychologists for internet treatments. 
+Creating videos for training clinical psychologists in specialised cognitive behavioural treatments. Supervising Research Assistants in filming and editing techniques.
+	
+Research Assistant, Oxford Centre for Anxiety Disorders and Trauma, University of Oxford. 
+Filming patient testimonies and videos with clinical psychologists for an internet treatment for Posttraumatic Stress Disorder.
+Creating whiteboard videos and animating psychoeducational illustrations.
+Handling multiple projects simultaneously from start to final edit, working together with professors, clinical psychologists and research assistants.
+Uploading text, video and audio content to online therapy programmes for Posttraumatic Stress Disorder and Social Anxiety Disorder. Interviewing and assessing potential employees.
+	
+Research Assistant, Institute of Clinical Psychology, Technische Universität Braunschweig.
+Conducting clinical interviews with adolescents for a longitudinal study.
+Analysing quantitative data from a longitudinal study (e.g. multiple regression).
+Managing and setting up large databases for national and international research teams.
+
+
+## Teaching Experience
+
+Tutor, Institute of Clinical Psychology, Technische Universität Braunschweig.
+Module: Practical Course of Psychological Diagnostics.
+Teaching undergraduate students in basic diagnostic skills.
+Introducing students to diagnostic instruments used in the field of clinical and organisational psychology (e.g. CBCL, SCID I and II, IDCL, PHQ-9, GAD-7).
+	
+Teaching Assistant, Institute of Clinical Psychology, Technische Universität Braunschweig.
+Module: Fundamentals of Psychological Diagnostics.
+Teaching students in statistical analysis of questionnaire data.
+Creating and managing large datasets for questionnaire data.
+	
+Tutor, Institute of Methodology and Biopsychology, Technische Universität Braunschweig.
+Module: Laboratory Experience and Analysis with Statistical Software.
+Introducing students to the basics of SPSS and R.
+Teaching undergraduate students in significance testing and inferential tests.
+
+## Selection of Professional Developement
+
+- 2017, Multilevel modeling using Mplus, Falcon Training.
+- 2017, Testing for Mediation and Moderation using Mplus, Falcon Training.
+- 2016, Structural equation modeling using Mplus, Falcon Training.
+- 2016, Latent growth curve modeling using Mplus, Falcon Training.
+- 2016, Advanced structural equation modeling, University of Oxford.
+- 2016, Introduction to structural equation modeling, University of Oxford.
+- 2016, Multilevel analysis for longitudinal data using R, Universität Landau.
+- 2016, Structural equation models for longitudinal data using R, Universität Landau.
