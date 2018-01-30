@@ -21,25 +21,23 @@ I am enthusiastic about innovative ways to make psychological therapies more wid
 
 ## Publications
 
-Wild, J., Warnock-Parkes, E., Grey, N., Stott, R., **Wiedemann, M.**, … Ehlers, A. (2016). 
+- Wild, J., Warnock-Parkes, E., Grey, N., Stott, R., **Wiedemann, M.**, … Ehlers, A. (2016). 
 Internet-delivered cognitive therapy for PTSD: A development pilot series. 
 _European Journal of Psychotraumatology_. 
 [doi: 10.3402/ejpt.v7.31019](http://www.tandfonline.com/doi/full/10.3402/ejpt.v7.31019?scroll=top&needAccess=true)
 
-Also see my [Google Scholar page](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) for a full list of my publications.
+- Also see my [Google Scholar page](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) for a full list of my publications.
 
 ## Presentations
-**Wiedemann, M.**, Clark, D. M., Ehlers, A. (2017).
+- **Wiedemann, M.**, Clark, D. M., Ehlers, A. (2017).
 Predictors and processes of sudden gains in cognitive therapy for PTSD.
 _European Association for Behavioural and Cognitive Therapies_.
 
 
 ## Research and Clinical Experience
 
-Part-time Research Assistant, Oxford Centre for Anxiety Disorders and Trauma, University of Oxford. 
-Filming patient testimonies and videos with clinical psychologists for internet treatments. 
-Creating videos for training clinical psychologists in specialised cognitive behavioural treatments. Supervising Research Assistants in filming and editing techniques.
-	
+Alongside my PhD I am working as a part-time Research Assistant at the Oxford Centre for Anxiety Disorders and Trauma, University of Oxford. I am mainly involved in filming patient testimonies and videos with clinical psychologists for internet treatments as well as creating videos for training clinical psychologists in specialised cognitive behavioural treatments.
+
 Research Assistant, Oxford Centre for Anxiety Disorders and Trauma, University of Oxford. 
 Filming patient testimonies and videos with clinical psychologists for an internet treatment for Posttraumatic Stress Disorder.
 Creating whiteboard videos and animating psychoeducational illustrations.
