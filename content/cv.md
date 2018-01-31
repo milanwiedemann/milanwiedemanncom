@@ -1,11 +1,9 @@
 ---
 title: "Curriculum Vitae"
-date: '2018-01-27'
+author: "Milan Wiedemann"
 slug: "cv"
 disable_comments: true
 ---
-
-# Milan Wiedemann
 
 ## Research Interests
 
@@ -54,11 +52,10 @@ From 2012 to 2014 I was working as a Tutor in the module _Laboratory Experience 
 
 ## Selection of Professional Developement
 
-- 2017, Multilevel modeling using Mplus, Falcon Training.
-- 2017, Testing for Mediation and Moderation using Mplus, Falcon Training.
-- 2016, Structural equation modeling using Mplus, Falcon Training.
-- 2016, Latent growth curve modeling using Mplus, Falcon Training.
-- 2016, Advanced structural equation modeling, University of Oxford.
-- 2016, Introduction to structural equation modeling, University of Oxford.
-- 2016, Multilevel analysis for longitudinal data using R, Universität Landau.
-- 2016, Structural equation models for longitudinal data using R, Universität Landau.
+- 2017, Multilevel modeling using Mplus, [Figure it out](http://www.offbeat.group.shef.ac.uk/FIO/).
+- 2017, Testing for Mediation and Moderation using Mplus, [Figure it out](http://www.offbeat.group.shef.ac.uk/FIO/).
+- 2016, Structural equation modeling using Mplus, [Figure it out](http://www.offbeat.group.shef.ac.uk/FIO/).
+- 2016, Latent growth curve modeling using Mplus, [Figure it out](http://www.offbeat.group.shef.ac.uk/FIO/).
+- 2016, Summer school of advanced quantitative methods, [University of Oxford](http://researchtraining.socsci.ox.ac.uk/node/328).
+- 2016, Multilevel analysis for longitudinal data using R, [Universität Landau](https://www.uni-koblenz-landau.de/de/methodenzentrum/fortbildung).
+- 2016, Structural equation models for longitudinal data using R, [Universität Landau](https://www.uni-koblenz-landau.de/de/methodenzentrum/fortbildung).
