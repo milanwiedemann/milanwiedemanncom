@@ -1,10 +1,11 @@
 ---
 title: "Curriculum Vitae"
-author: "Milan Wiedemann"
 date: '2018-01-27'
 slug: "cv"
 disable_comments: true
 ---
+
+# Milan Wiedemann
 
 ## Research Interests
 
