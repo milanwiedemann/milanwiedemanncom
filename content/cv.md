@@ -9,7 +9,7 @@ disable_comments: true
 
 I'm a second-year DPhil candidate investigating mechanisms of change in cognitive therapy for Posttraumatic Stress Disorder. 
 I possess strong research and clinical skills as well as creative filming and video editing experience in a professional environment.
-I'm enthusiastic about open science and reproducibility in clincal psychology and in innovative ways to make psychological therapies more widely available using digital technology.
+I'm enthusiastic about open science and reproducibility in clincal psychology and interested in innovative ways to make psychological therapies more widely available using digital technology.
 
 ## Education Background
 
@@ -34,21 +34,19 @@ _European Association for Behavioural and Cognitive Therapies_.
 
 ## Research and Clinical Experience
 
-Alongside my PhD I'm working as a part-time Research Assistant at the Oxford Centre for Anxiety Disorders and Trauma, University of Oxford. I'm mainly involved in filming patient testimonies and videos with clinical psychologists for internet treatments as well as creating videos for training clinical psychologists in specialised cognitive behavioural treatments.
+Since 2015 my PhD I'm working as Research Assistant at the Oxford Centre for Anxiety Disorders and Trauma, University of Oxford. I'm mainly involved in filming patient testimonies and videos with clinical psychologists for internet treatments as well as creating videos for training clinical psychologists in specialised cognitive behavioural treatments.
 
-From 2015 to 2016 I was working as a Research Assistant at the Oxford Centre for Anxiety Disorders and Trauma, University of Oxford filming patient testimonies and creating whiteboard animations.
-	
-From 2012 to 2015 I was working as a Research Assistant alongside my BSc and MSc programmes at the Institute of Clinical Psychology, Technische Universität Braunschweig. I was conducting clinical interviews with adolescents for a longitudinal study. Further, I was involved in managing and setting up databases for national and international research teams.
+From 2012 to 2015 I was working as a Research Assistant at the Institute of Clinical Psychology, Technische Universität Braunschweig. I was conducting clinical interviews with adolescents for a longitudinal study. Further, I was involved in managing and setting up databases for national and international research teams.
 
 
 ## Teaching Experience
 
-From 2014 to 2015 I was working as a tutor in the module _Practical Course of Psychological Diagnostics_ at the Institute of Clinical Psychology, Technische Universität Braunschweig. This module focussed on teaching undergraduate students in basic diagnostic skills and introducing them to diagnostic instruments used in the field of clinical and organisational psychology (e.g. CBCL, SCID I and II, PHQ-9, GAD-7).
+From 2014 to 2015 I was working as a Tutor in the module _Practical Course of Psychological Diagnostics_ at the Institute of Clinical Psychology, Technische Universität Braunschweig. This module focussed on teaching undergraduate students in basic diagnostic skills and introducing them to diagnostic instruments used in the field of clinical and organisational psychology (e.g. CBCL, SCID I and II, PHQ-9, GAD-7).
 	
 In 2014 I was working as a Teaching Assistant in the module _Fundamentals of Psychological Diagnostics_ at the Institute of Clinical Psychology, Technische Universität Braunschweig.
-The modules focus was on teaching students in statistical analysis of questionnaire data and creating and managing large datasets for questionnaire data.
+The focus of this module was to teach students in statistical analysis of questionnaire data as well as creating and managing large datasets of questionnaire data.
 
-From 2012 to 2014 I was working as a Tutor in the module _Laboratory Experience and Analysis with Statistical Software_ at the Institute of Methodology and Biopsychology, Technische Universität Braunschweig introducing students to the basics of SPSS and R .
+From 2012 to 2014 I was working as a Tutor in the module _Laboratory Experience and Analysis with Statistical Software_ at the Institute of Methodology and Biopsychology, Technische Universität Braunschweig introducing students to the basics of SPSS and R.
 
 ## Selection of Professional Developement
 
