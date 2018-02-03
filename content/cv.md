@@ -24,7 +24,7 @@ Internet-delivered cognitive therapy for PTSD: A development pilot series.
 _European Journal of Psychotraumatology_. 
 [doi: 10.3402/ejpt.v7.31019](http://www.tandfonline.com/doi/full/10.3402/ejpt.v7.31019?scroll=top&needAccess=true)
 
-- Also see my [Google Scholar page](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) for a full list of my publications.
+- Also see my [Google Scholar page](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) for a full list of all my many, world changing, first author, high impact publications.
 
 ## Presentations
 - **Wiedemann, M.**, Clark, D. M., Ehlers, A. (2017).
