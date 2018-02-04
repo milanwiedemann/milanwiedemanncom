@@ -18,8 +18,8 @@ enableEmoji = true
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Projects"
+    url = "/projects/"
     weight = 2
 [[menu.main]]
     name = "Blog"
@@ -32,7 +32,7 @@ enableEmoji = true
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
 #[[menu.main]]
 #    name = "Subscribe"
 #    url = "/index.xml"
@@ -40,7 +40,7 @@ enableEmoji = true
 
     
 [params]
-    description = "Psychological Therapy, Open Science, Reproducibility, R"
+    description = "Evidence-based therapies, Open science, R"
     footer = "&copy; [Milan Wiedemann](/) 2018 | [Twitter](https://twitter.com/milanwiedemann) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) | [Github](https://github.com/milanwiedemann)"
     
   highlightjsVersion = "9.12.0"
