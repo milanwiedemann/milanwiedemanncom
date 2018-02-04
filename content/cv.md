@@ -22,7 +22,9 @@ I'm enthusiastic about open science and reproducibility in clincal psychology an
 - Wild, J., Warnock-Parkes, E., Grey, N., Stott, R., **Wiedemann, M.**, … Ehlers, A. (2016). 
 Internet-delivered cognitive therapy for PTSD: A development pilot series. 
 _European Journal of Psychotraumatology_. 
-[doi: 10.3402/ejpt.v7.31019](http://www.tandfonline.com/doi/full/10.3402/ejpt.v7.31019?scroll=top&needAccess=true)
+doi: [10.3402/ejpt.v7.31019](http://www.tandfonline.com/doi/full/10.3402/ejpt.v7.31019?scroll=top&needAccess=true).
+[PDF](http://www.tandfonline.com/doi/abs/10.3402/ejpt.v7.31019?needAccess=true#aHR0cDovL3d3dy50YW5kZm9ubGluZS5jb20vZG9pL3BkZi8xMC4zNDAyL2VqcHQudjcuMzEwMTk/bmVlZEFjY2Vzcz10cnVlQEBAMA==)
+[Video](http://www.oxcadat.org/ptsd)
 
 - Also see my [Google Scholar page](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) for a full list of all my many, world changing, first author, high impact publications.
 
