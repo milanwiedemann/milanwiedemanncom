@@ -41,7 +41,7 @@ enableEmoji = true
     
 [params]
     description = "Evidence-based therapies, Open science, R"
-    footer = "&copy; [Milan Wiedemann](/) 2018 | [Twitter](https://twitter.com/milanwiedemann) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) | [Github](https://github.com/milanwiedemann)"
+    footer = "&copy; [Milan Wiedemann](/) 2018 | [Twitter](https://twitter.com/milanwiedemann) | [Email](mailto:milan.wiedemann@gmail.com) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) | [Github](https://github.com/milanwiedemann)"
     
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"
