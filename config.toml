@@ -18,8 +18,8 @@ enableEmoji = true
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "Research"
+    url = "/research/"
     weight = 2
 [[menu.main]]
     name = "Blog"
