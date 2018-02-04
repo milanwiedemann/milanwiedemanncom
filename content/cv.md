@@ -7,7 +7,7 @@ disable_comments: true
 
 ## Research Interests
 
-I'm a second-year DPhil candidate investigating mechanisms of change in cognitive therapy for Posttraumatic Stress Disorder. 
+I'm a second-year PhD candidate investigating mechanisms of change in cognitive therapy for Posttraumatic Stress Disorder. 
 I possess strong research and clinical skills as well as creative filming and video editing experience in a professional environment.
 I'm enthusiastic about open science and reproducibility in clincal psychology and interested in innovative ways to make psychological therapies more widely available using digital technology.
 
