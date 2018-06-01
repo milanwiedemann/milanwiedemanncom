@@ -3,13 +3,10 @@ title: Contact
 disable_comments: true
 ---
 
-**Email:** 
-For general questions or communication you can contact me [here](mailto:milan.wiedemann@gmail.com). 
+**Email & Twitter:**
+You can contact me by [email](mailto:milan.wiedemann@gmail.com) or Twitter [@milanwiedemann](https://twitter.com/milanwiedemann).
 
-**Twitter:** 
-For open discussions feel free to tweet me at [@milanwiedemann](https://twitter.com/milanwiedemann).
-
-**GitHub:** 
-If you have ideas for improvements in my R scripts or discover mistakes `:scream:` please send me a pull request [Github](https://github.com/milanwiedemann).
-Otherwise you can use the discussion section on the blog post that refers to the script or simply send me an email.
+**GitHub:**
+Check out my code and discover mistakes `:scream:` at [GitHub](https://github.com/milanwiedemann)
+or simply start a discussion below the blog post.
 

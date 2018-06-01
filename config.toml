@@ -27,7 +27,7 @@ enableEmoji = true
     weight = 3
 [[menu.main]]
     name = "CV"
-    url = "/cv/"
+    url = "/cv.pdf"
     weight = 4
 [[menu.main]]
     name = "Contact"
