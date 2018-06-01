@@ -7,3 +7,16 @@ I'm interested in the processes of therapeutic change and recovery in evidence-b
 
 In my PhD I'm looking at processes of treatment effects in cognitive therapy for Posttraumatic Stress Disorder. 
 To investigate how the treatment works, I analyse changes in variables that are thought to drive symptom change according to cognitive theories of PTSD.
+
+## Projects
+
+### Sudden gains
+
+<img src="/images/project-sg.png"/>
+
+### Mediation of clinical improvement
+
+<img src="/images/project-med.png"/>
+
+### Moderation of clinical improvement
+<img src="/images/project-mod.png"/>
