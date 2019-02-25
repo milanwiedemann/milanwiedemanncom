@@ -7,5 +7,5 @@ disable_comments: true
 Send me an [email](mailto:milan.wiedemann@gmail.com) or tweet [@milanwiedemann](https://twitter.com/milanwiedemann).
 
 **GitHub:**
-Check out my code and discover mistakes `:scream:` at my [GitHub](https://github.com/milanwiedemann).
+Check out my code and discover mistakes `:scream:` on my [GitHub](https://github.com/milanwiedemann) profile.
 
