@@ -5,7 +5,7 @@ disable_comments: true
 
 ## Peer-reviewed
 
-- Kosir, U., **Wiedemann, M.**, Wild, J., Bowes, L. (2019). 
+- [Košir, U.](https://twitter.com/UrskaKosir), **Wiedemann, M.**, Wild, J., Bowes, L. (2019). 
 Psychiatric disorders in adolescent cancer survivors: A systematic review of prevalence and predictors. 
 _Cancer Reports_. 
 doi: [10.1002/cnr2.1168](https://onlinelibrary.wiley.com/doi/full/10.1002/cnr2.1168).
