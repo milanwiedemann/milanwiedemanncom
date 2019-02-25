@@ -32,7 +32,7 @@ My colleagues [Graham Thew](https://twitter.com/drgrahamthew) and [Richard Stott
 ### *lcsm*
 
 While learning about latent change score models for one of my research projects I was quite confused initally.
-Trying to understand how to write lavaan code for these models I made quite some copy and paste errors and as a result got so annoyed that I decided to let R write all the lavaan syntax for these models. See my ideas and code on [GitHub](https://github.com/milanwiedemann/lcsm).
+Trying to understand how to write lavaan code for these models I made quite some copy and paste errors and as a result got so annoyed that I decided to let R write all the lavaan syntax for these models. See some of illustration of the model parameters in these [slides](https://docs.google.com/presentation/d/1q-SVbTA6n_HiC1bLjmCWySk1_b2u6rj12XrfK8-WEE0/edit?usp=sharing). You can find the code on [GitHub](https://github.com/milanwiedemann/lcsm).
 
 ### *txanimate*
 
