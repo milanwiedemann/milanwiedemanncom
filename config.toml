@@ -40,7 +40,7 @@ enableEmoji = true
     
 [[menu.main]]
     name = "CV"
-    url = "/cv_milanwiedemann.pdf"
+    url = "/cv-milanwiedemann.pdf"
     weight = 6
     
 [[menu.main]]
