@@ -8,7 +8,7 @@ I'm interested in the processes of change in evidence-based psychological therap
 In my PhD I'm looking at processes of treatment effects in cognitive therapy for Posttraumatic Stress Disorder. 
 To investigate how the treatment works I analyse changes in variables that are thought to drive symptom change according to cognitive theories of PTSD.
 
-During the course of my PhD I started to feel the superpowers of R Studio `:heart:` and started using it for all my research related work.
+During the course of my PhD I started to feel the superpowers of R Studio `:heart:` and started using it for all my analyses and writing.
 As a results I've designed R packages to make my life a bit easier. 
 
 ## Research Projects
