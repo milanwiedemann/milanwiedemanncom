@@ -3,6 +3,8 @@ title: Publications
 disable_comments: true
 ---
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-1991-282X" href="https://orcid.org/0000-0003-1991-282X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-1991-282X</a></div>
+
 ## Peer-reviewed
 
 - [Košir, U.](https://twitter.com/UrskaKosir), **Wiedemann, M.**, [Wild, J.](https://twitter.com/DrJenW), [Bowes, L.](https://twitter.com/DrLucyBowes) (2019). 
