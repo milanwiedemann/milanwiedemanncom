@@ -1,10 +1,18 @@
 ---
 title: Videos
-disable_comments: true
 ---
 
-I like filming and editing videos for fun and also work as a part time research assistant for the [Oxford Centre for Anxiety Disorders and Trauma](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma).
-I've created videos that are embedded in a newly developed internet program for treating PTSD and videos to train therapists in delivering this treatment.
+I like filming and editing videos for fun and also create videos as a part time research assistant for the [Oxford Centre for Anxiety Disorders and Trauma](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma).
+
+# Video abstracts
+
+My colleague [Urška Košir](https://twitter.com/UrskaKosir) and I recently reviewed the literature to find out why some adolescent cancer survivors have a harder time adapting to life after illness.
+To share the research with the wider public we devided to work on a short video summarising our findings.
+Filming and editing is in progress :movie_camera:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Research?src=hash&amp;ref_src=twsrc%5Etfw">#Research</a> is cool, but even cooler if it’s <a href="https://twitter.com/hashtag/accessible?src=hash&amp;ref_src=twsrc%5Etfw">#accessible</a> to wider audiences!! <a href="https://twitter.com/milanwiedemann?ref_src=twsrc%5Etfw">@milanwiedemann</a> and I are transforming our paper into a video! Stay tuned ~~ <a href="https://twitter.com/hashtag/AYA?src=hash&amp;ref_src=twsrc%5Etfw">#AYA</a> <a href="https://twitter.com/hashtag/cancer?src=hash&amp;ref_src=twsrc%5Etfw">#cancer</a> <a href="https://t.co/h763NkMR7W">pic.twitter.com/h763NkMR7W</a></p>&mdash; Urška Košir (@UrskaKosir) <a href="https://twitter.com/UrskaKosir/status/1101532759250690048?ref_src=twsrc%5Etfw">March 1, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 # Videos for online treatments
 

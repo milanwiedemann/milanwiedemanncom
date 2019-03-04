@@ -1,0 +1,47 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/.texpadtmp/cv-milanwiedemann.blg'
+[37] biber-darwin:313> INFO - === Mon Mar  4, 2019, 11:51:05
+[59] Biber.pm:371> INFO - Reading '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/.texpadtmp/cv-milanwiedemann.bcf'
+[156] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[156] Biber.pm:857> INFO - Found 1 citekeys in bib section 1
+[157] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[157] Biber.pm:857> INFO - Found 0 citekeys in bib section 2
+[157] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[157] Biber.pm:857> INFO - Found 2 citekeys in bib section 3
+[157] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[157] Biber.pm:857> INFO - Found 1 citekeys in bib section 4
+[157] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[157] Biber.pm:857> INFO - Found 4 citekeys in bib section 5
+[157] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
+[199] Biber.pm:3976> INFO - Processing section 1
+[210] Biber.pm:4136> INFO - Looking for bibtex format file '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/publications.bib' for section 1
+[211] bibtex.pm:1500> INFO - LaTeX decoding ...
+[219] bibtex.pm:1316> INFO - Found BibTeX data source '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/publications.bib'
+[247] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[247] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[247] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[247] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[251] Biber.pm:3976> INFO - Processing section 3
+[251] Biber.pm:4136> INFO - Looking for bibtex format file '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/publications.bib' for section 3
+[270] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[270] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[270] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[270] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[280] Biber.pm:3976> INFO - Processing section 4
+[280] Biber.pm:4136> INFO - Looking for bibtex format file '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/publications.bib' for section 4
+[281] Biber.pm:4136> INFO - Looking for bibtex format file '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/presentations.bib' for section 4
+[282] bibtex.pm:1500> INFO - LaTeX decoding ...
+[289] bibtex.pm:1316> INFO - Found BibTeX data source '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/presentations.bib'
+[304] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[304] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[304] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[304] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[306] Biber.pm:3976> INFO - Processing section 5
+[306] Biber.pm:4136> INFO - Looking for bibtex format file '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/publications.bib' for section 5
+[307] Biber.pm:4136> INFO - Looking for bibtex format file '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/presentations.bib' for section 5
+[336] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[336] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[336] Biber.pm:3804> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[337] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[341] bbl.pm:617> INFO - Writing '/Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/.texpadtmp/cv-milanwiedemann.bbl' with encoding 'UTF-8'
+[350] bbl.pm:720> INFO - Output to /Users/milanwiedemann/Projects/milanwiedemann.com/static/cv/.texpadtmp/cv-milanwiedemann.bbl

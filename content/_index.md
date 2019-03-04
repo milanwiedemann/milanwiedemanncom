@@ -10,4 +10,4 @@ My main research interest is evidence-based health care, particularly in clinica
 At the moment I'm trying to understand more about the processes through which cognitive therapy for Posttraumatic Stress Disorder works.
 You can find out more about some of the projects I'm working on [here](/research).
 
-I `:heart:` using R for my work and will use this website to share my R learning process and some projects I'm working on.
+I `:heart:` using R for my work and will use this website to share my R learning process and to describe some projects I'm working on.

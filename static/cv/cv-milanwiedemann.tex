@@ -1,0 +1,283 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+% \pagestyle{plain} % uncomment for page numbers
+\usepackage[left = 0.75in, top = 0.6in, right = 0.75in, bottom = 0.6in]{geometry} % Document margins
+\usepackage[small]{titlesec} % To change font of subheadings for publications
+\usepackage[T1]{fontenc} % currency signs pound
+\usepackage{eurosym} % currency signs euro
+\usepackage{hyperref} % hyperref for email and website
+
+% for numbered, max bib names in case you are way down the list of authors
+% check out bib files to see how to 
+% I like how nature looks!
+%\usepackage[backend = biber, sorting = none, maxbibnames = 99, style = nature]{biblatex}
+
+% for apa6
+\usepackage[style = apa, backend = biber, language = american]{biblatex}
+\DeclareLanguageMapping{english}{american-apa}
+
+\addbibresource{publications.bib}
+\addbibresource{presentations.bib}
+
+\name{Milan Wiedemann}
+\address{Wolfson College, Linton Road, OX2 6UD Oxford} % Your address
+\address{\href{mailto:milan.wiedemann@gmail.com}{milan.wiedemann@gmail.com}}
+
+% To add website uncomment this and comment out the above line
+%\address{\href{mailto:milan.wiedemann@gmail.com}{milan.wiedemann@gmail.com} \\ \href{http://www.milanwiedemann.com/}{www.milanwiedemann.com}} 
+
+
+% Add option to have item-less subsections
+% Code from https://tex.stackexchange.com/questions/370390/in-the-resume-document-class-how-to-create-a-subsection-without-items/370429
+
+\newenvironment{rEmptySubsection}[4]{
+  %%%%%%%%%%%%%%%%%%%%%% Default Layout: %%%%%%%%%%%%%%%%%%%%%%%%
+  %%    Employer (bold)                     Dates (regular)    %%
+  %%    Title (emphasis)                Location (emphasis)    %%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  {\bf #1}                 \hfill                  {    #2}% Stop a space
+  \ifthenelse{\equal{#3}{}}{}{
+  \\
+  {\em #3}                 \hfill                  {\em #4}% Stop a space
+  }
+  % empty
+}{
+}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	PERSONAL SUMMARY
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Personal Summary}
+I am a PhD candidate at the University of Oxford investigating processes of change in cognitive therapy for Posttraumatic Stress Disorder (PTSD).
+Testing the theoretical models underpinning cognitive therapy for PTSD has strengthened my understanding of the importance that clinical interventions are rooted in empirical science and
+continually evaluated and refined through research. 
+I appreciate the importance of innovative research projects testing and evaluating technological advances in clinical psychology.
+I value, advocate, and implement open science practices in my work.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education and Qualifications}
+{\bf University of Oxford} \hfill {\em October 2016 - Present} \\ 
+DPhil in Experimental Psychology at the Oxford Centre for Anxiety Disorders and Trauma \smallskip \\
+Thesis: Processes of Change in Cognitive Therapy for Posttraumatic Stress Disorder \\
+Supervised by Prof. Anke Ehlers and Prof. David M. Clark \smallskip
+
+{\bf Technische Universit{\"a}t Braunschweig} \hfill {\ August 2013 - September 2015} \\ 
+MSc in Psychology \\
+Study  focus: Clinical Psychology \smallskip
+
+{\bf Technische Universit{\"a}t Braunschweig} \hfill {\ August 2011 - September 2013} \\ 
+BSc in Psychology \smallskip
+
+{\bf University of Groningen} \hfill {\ September 2010 - August 2011} \\ 
+BSc in Psychology \smallskip
+
+{\bf DRK-Rettungsschule Goslar} \hfill {\ Janurary 2011- February 2011} \\ 
+Rettungssanit{\"a}ter (in English `Paramedic') \smallskip
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Clinical \& Research Experience}
+
+\begin{rSubsection}{University of Oxford}{\em October 2016 - Present}{Part-time Research Assistant, Oxford Centre for Anxiety Disorders and Trauma}{Oxford, UK}
+\item Creating videos for training clinical psychologists in specialised cognitive behavioural treatments.
+\item Teaching and supervising Research Assistants in filming and editing techniques.
+\end{rSubsection}
+
+\begin{rSubsection}{University of Oxford}{April 2015 - August 2016}{Research Assistant, Oxford Centre for Anxiety Disorders and Trauma}{Oxford, UK}
+\item Production of patient testimonials and educational videos together with clinical psychologists.
+\item Animation of psycho-educational illustrations.
+\item Administration of text, video and audio content for online therapy programmes.
+\end{rSubsection}
+
+\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Part-time Research Assistant, Institute of Clinical Psychology}{Braunschweig, GER}
+\item Conducting clinical interviews with adolescents for a longitudinal study.
+\item Setting up and managing large databases for national and international research teams.
+\end{rSubsection}
+
+\begin{rSubsection}{Local Health Authority Berlin Pankow}{February 2012 - March 2012}{Intern, Social Psychiatric Department}{Berlin, GER}
+\item Conducting initial clinical interviews as well as follow-up interviews under supervision.
+\item Making house calls as part of a multidisciplinary team in emergency situations.
+
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TEACHING EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+% Add how many hours per week 
+
+\begin{rSection}{Teaching Experience}
+
+\begin{rSubsection}{University of Oxford}{January 2018 - February 2018}{Demonstrator, Department of Experimental Psychology}{Oxford, UK}
+\item Module: Psychological Disorders and Individual Differences.
+\end{rSubsection}
+
+\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{April 2014 - March 2015}{Teaching Assistant, Institute of Clinical Psychology}{Braunschweig, GER}
+\item Module: Practical Course of Psychological Diagnostics.
+\item Module: Fundamentals of Psychological Diagnostics.
+\end{rSubsection}
+
+\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - January 2014}{Teaching Assistant, Institute of Methodology and Biopsychology}{Braunschweig, GER}
+\item Module: Laboratory Experience and Analysis with Statistical Software.
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	ADDITIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Additional Experience}
+
+\begin{rSubsection}{University of Oxford}{July 2017 - September 2017}{Part-time Research Assistant, Faculty of History}{Oxford, UK}
+\item Production of promotional video for the workshop: Changing lives: Understanding what enables children growing up in adversity to thrive in modern Britain.
+\end{rSubsection}
+
+\begin{rSubsection}{Arbeiter-Samariter-Bund Braunschweig}{May 2010 - March 2015}{Part-time Paramedic}{Braunschweig, GER}
+\item Medical care during the qualified transport of patients.
+\item First aid and emergency treatment of patients.
+\item Independent ambulance coach driver in the in-house emergency centre.
+\end{rSubsection}
+
+\begin{rSubsection}{Arbeiter-Samariter-Bund Braunschweig}{July 2008 - March 2009}{Civilian Service}{Braunschweig, GER}
+\item Getting trained as a `Paramedic' (in German: Rettungssanit{\"a}ter).
+\item Medical care during the qualified transport of patients.
+\item Independent ambulance coach driver in the in-house emergency centre.
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Scholarships
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Scholarships}
+
+\begin{rEmptySubsection}{Mental Health Research UK}{May 2018}{Travel Grant}{}
+\end{rEmptySubsection}
+
+\begin{rEmptySubsection}{University of Oxford, Wolfson College}{June 2017}{Travel Grant}{}
+\end{rEmptySubsection}
+
+\begin{rEmptySubsection}{Mental Health Research UK}{October 2016}{PhD Scholarship}{}
+\end{rEmptySubsection}
+
+\begin{rEmptySubsection}{Erasmus plus}{February 2015}{Graduate Student Scholarship}{}
+\end{rEmptySubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Professional development
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Selected Professional Development}
+
+\begin{rEmptySubsection}{DeGPT Autumn School}{October 2018}{Deutschsprachige Gesellschaft f{\"u}r Psychotraumatologie, 4 days}{} 
+\end{rEmptySubsection}
+
+\begin{rEmptySubsection}{Psychological Networks Summer School}{August 2018}{University of Amsterdam, 5 days}{} 
+\end{rEmptySubsection}
+
+\begin{rEmptySubsection}{Summer School of Advanced Quantitative Methods}{May 2018}{University of Oxford, Department of Education, 5 days}{} 
+\end{rEmptySubsection}
+
+\begin{rEmptySubsection}{Testing for Mediation and Moderation Using Mplus}{June 2017}{Figure It Out - Statistical Consultancy and Training, 1 day}{}
+\end{rEmptySubsection}
+
+\begin{rEmptySubsection}{Multilevel Analysis for Longitudinal Data}{February 2016}{Universit{\"a}t Landau, Methodenzentrum, 3 days}{}
+\end{rEmptySubsection}
+
+\begin{rEmptySubsection}{Structural Equation Models for Longitudinal Data}{February 2016}{Universit{\"a}t Landau, Methodenzentrum, 2 days}{}
+\end{rEmptySubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Technical Strengths}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Statistics \& Data science & R, GitHub, Mplus, JASP, jamovi, Praat, SPSS \\
+Scientific writing & R Markdown, Zotero, LaTeX, BibTeX, Microsoft Office \\
+Video \& Audio editing & Final Cut X, Audacity, iZotope RX \\
+%Driving licence &Clean category B \\
+\end{tabular}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Publications & Presentations
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Publications}
+
+% Peer-reviewed
+\begin{refsection}
+\printbibliography[keyword={peer-reviewed},title={Peer-reviewed}]
+
+\nocite{Wild2016}
+
+\end{refsection}
+
+% Preprint
+\begin{refsection}
+\printbibliography[keyword={preprint}, title={Preprint}]
+
+% Add preprints here
+
+\end{refsection}
+
+% Software
+\begin{refsection}
+\printbibliography[keyword={software},title={Software}]
+
+\nocite{R-suddengains}
+\nocite{R-lcsm}
+
+\end{refsection}
+\end{rSection}
+
+% Presentations
+\begin{rSection}{Presentations}
+
+% Conference presentations
+\begin{refsection}
+\printbibliography[keyword={conference-presentation}, title={Conference presentations}]
+
+\nocite{Wiedemann2017-EABCT}
+
+\end{refsection}
+
+% Invited talks
+\begin{refsection}
+\printbibliography[keyword={invited-presentation}, title={Invited talks}]
+
+\nocite{Wiedemann2018-Groningen}
+\nocite{Wiedemann2018-Exeter}
+\nocite{Wiedemann2016-Berlin}
+\nocite{Wiedemann2015-Berlin}
+
+\end{refsection}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
