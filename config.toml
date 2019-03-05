@@ -1,4 +1,4 @@
-baseurl = "https://milanwiedemann.netlify.com/"
+baseurl = "https://www.milanwiedemann.com/"
 languageCode = "en-us"
 title = "Milan Wiedemann"
 theme = "hugo-ivy"
@@ -34,8 +34,8 @@ enableEmoji = true
     weight = 4
     
 [[menu.main]]
-    name = "Videos"
-    url = "/videos/"
+    name = "Media"
+    url = "/media/"
     weight = 5
  
 #[[menu.main]]

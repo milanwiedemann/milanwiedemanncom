@@ -1,13 +1,14 @@
 ---
-title: Videos
+title: Media
+subtitle: Video & Audio
 ---
 
 I like filming and editing videos for fun and also create videos as a part time research assistant for the [Oxford Centre for Anxiety Disorders and Trauma](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma).
 
 # Video abstracts
 
-My colleague [Urška Košir](https://twitter.com/UrskaKosir) and I recently reviewed the literature to find out why some adolescent cancer survivors have a harder time adapting to life after illness.
-To share the research with the wider public we devided to work on a short video summarising our findings.
+My colleague [Urška Košir](https://twitter.com/UrskaKosir) and I recently reviewed the literature to find out why some adolescent cancer survivors have a harder time adapting to life after illness, see [here](https://onlinelibrary.wiley.com/doi/full/10.1002/cnr2.1168).
+To share this with the wider public we devided to work on a short video summarising our findings.
 Filming and editing is in progress :movie_camera:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Research?src=hash&amp;ref_src=twsrc%5Etfw">#Research</a> is cool, but even cooler if it’s <a href="https://twitter.com/hashtag/accessible?src=hash&amp;ref_src=twsrc%5Etfw">#accessible</a> to wider audiences!! <a href="https://twitter.com/milanwiedemann?ref_src=twsrc%5Etfw">@milanwiedemann</a> and I are transforming our paper into a video! Stay tuned ~~ <a href="https://twitter.com/hashtag/AYA?src=hash&amp;ref_src=twsrc%5Etfw">#AYA</a> <a href="https://twitter.com/hashtag/cancer?src=hash&amp;ref_src=twsrc%5Etfw">#cancer</a> <a href="https://t.co/h763NkMR7W">pic.twitter.com/h763NkMR7W</a></p>&mdash; Urška Košir (@UrskaKosir) <a href="https://twitter.com/UrskaKosir/status/1101532759250690048?ref_src=twsrc%5Etfw">March 1, 2019</a></blockquote>
@@ -27,8 +28,14 @@ Below is a short video giving an overview of the internet program.
 I was involved in filming and editing videos to help therapists treat clients using specialised cognitive therapies for Social Anxiety Disorder and Posttraumatic Stress Disorder.
 To see the videos and other resources go to the [OxCADAT Resources](https://oxcadatresources.com/) website.
 
-# Workshops
+# Videos of workshops
 
 Here is a video from the [Changing Lives](https://www.torch.ox.ac.uk/event/changing-lives-0) workshop that I created for the [The Oxford Research Centre in the Humanities Humanities Divison (TORCH)](https://www.torch.ox.ac.uk/). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DgIbg_qu4m4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Audio
+
+ My colleague Kirsten Smith [The Loss Foundation](https://www.thelossfoundation.org/) ...
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/222054695&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
