@@ -1,9 +1,9 @@
 ---
 title: Media
-subtitle: Video & Audio
 ---
 
-I like filming and editing videos for fun and also create videos as a part time research assistant for the [Oxford Centre for Anxiety Disorders and Trauma](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma).
+I enjoy taking photos and recording videos or audio, I like most things that have a lens or a microphone.
+Most of my time I do this for fun but I also create videos as a part-time research assistant for the [Oxford Centre for Anxiety Disorders and Trauma](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma).
 
 # Video abstracts
 
@@ -33,9 +33,3 @@ To see the videos and other resources go to the [OxCADAT Resources](https://oxca
 Here is a video from the [Changing Lives](https://www.torch.ox.ac.uk/event/changing-lives-0) workshop that I created for the [The Oxford Research Centre in the Humanities Humanities Divison (TORCH)](https://www.torch.ox.ac.uk/). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DgIbg_qu4m4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# Audio
-
- My colleague Kirsten Smith [The Loss Foundation](https://www.thelossfoundation.org/) ...
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/222054695&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
