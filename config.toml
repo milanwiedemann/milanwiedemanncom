@@ -2,7 +2,7 @@ baseurl = "http://milanwiedemann.netlify.com/"
 languageCode = "en-us"
 title = "Milan Wiedemann"
 theme = "hugo-ivy"
-googleAnalytics = ""
+googleAnalytics = "UA-113145816-1"
 disqusShortname = "milanwiedemann"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
@@ -37,7 +37,11 @@ enableEmoji = true
     name = "Videos"
     url = "/videos/"
     weight = 5
-    
+ 
+#[[menu.main]]
+#    name = "Blog"
+#    url = "/blog/"
+#    weight = 5    
     
 [[menu.main]]
     name = "CV"
@@ -50,7 +54,7 @@ enableEmoji = true
     weight = 8
 
 [params]
-    description = "Experimental Psychology, Open science, R"
+    description = "Experimental Psychology, Open Science, R"
     footer = "&copy; [Milan Wiedemann](/) 2019 | [Twitter](https://twitter.com/milanwiedemann) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) | [GitHub](https://github.com/milanwiedemann) | [OSF](https://osf.io/dycce)"
     
   highlightjsVersion = "9.12.0"
