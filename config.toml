@@ -1,4 +1,4 @@
-baseurl = "http://milanwiedemann.netlify.com/"
+baseurl = "https://milanwiedemann.netlify.com/"
 languageCode = "en-us"
 title = "Milan Wiedemann"
 theme = "hugo-ivy"
