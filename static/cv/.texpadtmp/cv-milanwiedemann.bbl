@@ -179,7 +179,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{PsyArXiv Preprints}
-      \field{title}{suddengains: An R package to identify sudden gains in longitudinal data}
+      \field{title}{{suddengains}: {An} {R} package to identify sudden gains in longitudinal data}
       \field{year}{2019}
       \verb{doi}
       \verb 10.31234/osf.io/2wa84
@@ -258,7 +258,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Local Health Authority Berlin Pankow}
-      \field{title}{Mental health care in {England} - Overview of the improving access to psychological therapies {(IAPT)} programme}
+      \field{title}{Mental health care in {England} - {O}verview of the improving access to psychological therapies {(IAPT)} programme}
       \field{year}{2015}
       \field{dateera}{ce}
       \keyw{invited-presentation}
