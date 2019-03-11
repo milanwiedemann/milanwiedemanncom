@@ -21,4 +21,7 @@ doi: [10.3402/ejpt.v7.31019](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7
 
 ## Preprint
 
-- **Wiedemann, M.**, [Thew, G.](https://twitter.com/drgrahamthew), [Stott, R.](https://twitter.com/DrRichardStott), [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2019). suddengains: An R package to identify sudden gains in longitudinal data. doi: [10.31234/osf.io/2wa84](https://psyarxiv.com/2wa84/). ([PDF](https://psyarxiv.com/2wa84/download)).
+- **Wiedemann, M.**, [Thew, G.](https://twitter.com/drgrahamthew), [Stott, R.](https://twitter.com/DrRichardStott), [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2019). 
+suddengains: An R package to identify sudden gains in longitudinal data. 
+_PsyArXiv Preprints_.
+doi: [10.31234/osf.io/2wa84](https://psyarxiv.com/2wa84/). ([PDF](https://psyarxiv.com/2wa84/download)).
