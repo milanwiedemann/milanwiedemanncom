@@ -2,13 +2,13 @@
 title: Media
 ---
 
-I enjoy taking photos and recording videos or audio, I like most things that have a lens or a microphone.
-Most of my time I do this for fun but I also create videos as a part-time research assistant for the [Oxford Centre for Anxiety Disorders and Trauma](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma).
+I enjoy taking photos and recording videos or audio.
+Most of my time I do this for fun but I also create videos as a part-time research assistant for the Oxford Centre for Anxiety Disorders and Trauma ([OxCADAT](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma)).
 
 # Video abstracts
 
 My colleague [Urška Košir](https://twitter.com/UrskaKosir) and I recently reviewed the literature to find out why some adolescent cancer survivors have a harder time adapting to life after illness, see [here](https://onlinelibrary.wiley.com/doi/full/10.1002/cnr2.1168).
-To share this with the wider public we devided to work on a short video summarising our findings.
+To share this with the wider public we devided to create a short video summarising our findings.
 Filming and editing was fun :movie_camera: see our video below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SBjIkFNAGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
