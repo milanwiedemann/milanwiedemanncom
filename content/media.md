@@ -8,7 +8,7 @@ Most of my time I do this for fun but I also create videos as a part-time resear
 # Video abstracts
 
 My colleague [Urška Košir](https://twitter.com/UrskaKosir) and I recently reviewed the literature to find out why some adolescent cancer survivors have a harder time adapting to life after illness, see [here](https://onlinelibrary.wiley.com/doi/full/10.1002/cnr2.1168).
-To share this with the wider public we devided to create a short video summarising our findings.
+To share this with the wider public we filmed a short video summarising our findings.
 See our video below :movie_camera:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SBjIkFNAGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
