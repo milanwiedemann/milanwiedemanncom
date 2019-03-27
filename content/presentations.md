@@ -3,7 +3,7 @@ title: Presentations
 disable_comments: true
 ---
 
-- Wiedemann, M. (2019, March). Tutorial on latent change score modeling in R: Combining the strengths of the packages lavaan, broom, and semPlot
+- Wiedemann, M. (2019, March). Tutorial on latent change score modeling in R: Combining the strengths of the packages *lavaan*, *broom*, and *semPlot*.
  *Berlin Oxford Training Alliance for Quantitative Neuroscience*. ([Poster](https://doi.org/10.6084/m9.figshare.7887599.v2))
 
 - Wiedemann, M., Clark, D. M. & Ehlers, A. (2019, February). Taking a closer look at how therapy works. *Mental Health Research UK - Scholars' Day 2019*. ([Slides](https://doi.org/10.6084/m9.figshare.7834841.v1))
