@@ -2,8 +2,7 @@
 title: Media
 ---
 
-I enjoy taking photos and recording videos or audio.
-Most of my time I do this for fun but I also create videos as a part-time research assistant for the Oxford Centre for Anxiety Disorders and Trauma ([OxCADAT](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma)).
+Most of my time I make videos or take photos for fun but I also create videos as a part-time research assistant for the Oxford Centre for Anxiety Disorders and Trauma ([OxCADAT](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma)).
 
 # Video abstracts
 
