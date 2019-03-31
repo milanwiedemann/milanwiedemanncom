@@ -34,7 +34,7 @@ enableEmoji = true
     weight = 4
     
 [[menu.main]]
-    name = "Media"
+    name = "Videos"
     url = "/media/"
     weight = 5
  
