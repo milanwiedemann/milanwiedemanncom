@@ -47,6 +47,37 @@
 }{
 }
 
+% Add bold names for bibs
+
+\def\makenamesetup{%
+  \def\bibnamedelima{~}%
+  \def\bibnamedelimb{ }%
+  \def\bibnamedelimc{ }%
+  \def\bibnamedelimd{ }%
+  \def\bibnamedelimi{ }%
+  \def\bibinitperiod{.}%
+  \def\bibinitdelim{~}%
+  \def\bibinithyphendelim{.-}}    
+\newcommand*{\makename}[2]{\begingroup\makenamesetup\xdef#1{#2}\endgroup}
+
+\newcommand*{\boldname}[3]{%
+  \def\lastname{#1}%
+  \def\firstname{#2}%
+  \def\firstinit{#3}}
+\boldname{}{}{}
+
+% Patch new definitions
+\renewcommand{\mkbibnamegiven}[1]{%
+  \ifboolexpr{ ( test {\ifdefequal{\firstname}{\namepartgiven}} or test {\ifdefequal{\firstinit}{\namepartgiven}} ) and test {\ifdefequal{\lastname}{\namepartfamily}} }
+  {\mkbibbold{#1}}{#1}%
+}
+
+\renewcommand{\mkbibnamefamily}[1]{%
+  \ifboolexpr{ ( test {\ifdefequal{\firstname}{\namepartgiven}} or test {\ifdefequal{\firstinit}{\namepartgiven}} ) and test {\ifdefequal{\lastname}{\namepartfamily}} }
+  {\mkbibbold{#1}}{#1}%
+}
+
+\boldname{Wiedemann}{Milan}{M.}
 
 \begin{document}
 
@@ -82,7 +113,7 @@ BSc in Psychology \smallskip
 {\bf University of Groningen} \hfill {\ September 2010 - August 2011} \\ 
 BSc in Psychology \smallskip
 
-{\bf DRK-Rettungsschule Goslar} \hfill {\ Janurary 2011- February 2011} \\ 
+{\bf DRK-Rettungsschule Goslar} \hfill {\ Janurary 2011 - February 2011} \\ 
 Rettungssanit{\"a}ter (in English `Paramedic') \smallskip
 
 \end{rSection}
@@ -261,13 +292,16 @@ Video \& Audio editing & Final Cut X, Audacity, iZotope RX \\
 \printbibliography[keyword={software},title={Software}]
 
 \nocite{R-suddengains}
-%\nocite{R-lcsm}
+\nocite{R-lcstools}
 
 \end{refsection}
 \end{rSection}
 
 \newpage
 % Presentations
+
+% Dont make my name bold for conference presentations and talks as I only list the ones that I presented
+\boldname{Potter}{Harry}{H.}
 \begin{rSection}{Presentations}
 
 % Conference presentations
