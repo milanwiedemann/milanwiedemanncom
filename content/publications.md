@@ -7,13 +7,13 @@ Below is a list of my publications. My [Google Scholar](https://scholar.google.c
 
 ## Peer-reviewed
 
-- [Košir, U.](https://twitter.com/UrskaKosir), **Wiedemann, M.**, [Wild, J.](https://twitter.com/DrJenW), [Bowes, L.](https://twitter.com/DrLucyBowes) (2019). 
+- [Košir, U.](https://twitter.com/UrskaKosir), **Wiedemann, M.**, [Wild, J.](https://twitter.com/drjenwild), [Bowes, L.](https://twitter.com/DrLucyBowes) (2019). 
 Psychiatric disorders in adolescent cancer survivors: A systematic review of prevalence and predictors. 
 _Cancer Reports_. 
 doi: [10.1002/cnr2.1168](https://onlinelibrary.wiley.com/doi/full/10.1002/cnr2.1168).
 ([PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cnr2.1168), [Video](https://youtu.be/4SBjIkFNAGQ)).
 
-- [Wild, J.](https://twitter.com/DrJenW), [Warnock-Parkes, E.](https://twitter.com/EmmaWParkes), [Grey, N.](https://twitter.com/nickdgrey), [Stott, R.](https://twitter.com/DrRichardStott), **Wiedemann, M.**, … [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2016). 
+- [Wild, J.](https://twitter.com/drjenwild), [Warnock-Parkes, E.](https://twitter.com/EmmaWParkes), [Grey, N.](https://twitter.com/nickdgrey), [Stott, R.](https://twitter.com/DrRichardStott), **Wiedemann, M.**, … [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2016). 
 Internet-delivered cognitive therapy for PTSD: A development pilot series. 
 _European Journal of Psychotraumatology_. 
 doi: [10.3402/ejpt.v7.31019](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7.31019?needAccess=true#).
