@@ -55,7 +55,7 @@ enableEmoji = true
 
 [params]
     description = "Experimental Psychology, Open Science, R"
-    footer = "&copy; [Milan Wiedemann](/) 2019 | [Twitter](https://twitter.com/milanwiedemann) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) | [GitHub](https://github.com/milanwiedemann) | [OSF](https://osf.io/dycce)"
+    footer = "&copy; [Milan Wiedemann](/) 2019 | [Twitter](https://twitter.com/milanwiedemann) | [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) | [GitHub](https://github.com/milanwiedemann) | [OSF](https://osf.io/dycce) | [RG](https://www.researchgate.net/profile/Milan_Wiedemann)"
     
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"
