@@ -3,9 +3,11 @@ title: Contact
 disable_comments: true
 ---
 
+Please get in touch if you find my work interesting or have any questions.
+
 **Email & Twitter:**
 Send me an [email](mailto:milan.wiedemann@gmail.com) or tweet [@milanwiedemann](https://twitter.com/milanwiedemann).
 
 **GitHub:**
-Check out my code and discover mistakes :eyes: on my [GitHub](https://github.com/milanwiedemann) profile.
+For comments related to code I've written you can also contact me [GitHub](https://github.com/milanwiedemann).
 
