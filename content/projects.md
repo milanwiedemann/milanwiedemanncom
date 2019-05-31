@@ -21,7 +21,7 @@ You can check out the code on [GitHub](https://github.com/milanwiedemann/suddeng
 
 <img src="/gifs/r-suddengains.gif"/>
 
-### *lcstools*
+### *lcsm*
 
 While learning about latent change score (LCS) models for one of my research projects I was quite confused initially and didn't know where to start.
 Fortunately there are great papers (e.g., Grimm et al. ([2012](https://doi.org/10.1080/10705511.2012.659627)), books (e.g., Grimm, Ram & Estabrook ([2017](https://www.guilford.com/books/Growth-Modeling/Grimm-Ram-Estabrook/9781462526062)), and online tutorials (e.g., [here](https://quantdev.ssri.psu.edu/tutorials/growth-modeling-chapter-17-multivariate-latent-change-score-models)) that helped me understand some of the details.
@@ -29,6 +29,6 @@ Fortunately there are great papers (e.g., Grimm et al. ([2012](https://doi.org/1
 I've created some functions to make it easier for me to use LCS models and avoid mistakes writing the [lavaan](http://lavaan.ugent.be/) syntax.
 I'm also working on tools that combine the strengths of other R packages like [broom](https://CRAN.R-project.org/package=broom) and [semPlot](https://CRAN.R-project.org/package=semPlot) when using LCS models.
 At the moment I'm writing a short tutorial on how I use these packages together in a simple workflow that worked great for me.
-You can find the code and some more details on [GitHub](https://github.com/milanwiedemann/lcstools).
+You can find the code and some more details on [GitHub](https://github.com/milanwiedemann/lcsm).
 
 <img src="/gifs/r-lcsm-uni.gif"/>
