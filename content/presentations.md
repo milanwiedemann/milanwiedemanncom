@@ -15,6 +15,8 @@ disable_comments: true
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
   ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf/), [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M250ZGEyMDB1N2xlOG1vYXU4ZjRucjVhNWEgbWlsYW4ud2llZGVtYW5uQG0&tmsrc=milan.wiedemann%40gmail.com)).
   
+  <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M250ZGEyMDB1N2xlOG1vYXU4ZjRucjVhNWEgbWlsYW4ud2llZGVtYW5uQG0&amp;tmsrc=milan.wiedemann%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
+  
 - **Wiedemann, M.**, *Thew, G. (Presenter)*, Stott, R. & Ehlers A. (2019, July).
   Automating the identification of sudden gains within psychological therapy datasets: A new R package.
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
