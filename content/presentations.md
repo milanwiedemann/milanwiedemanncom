@@ -8,7 +8,7 @@ disable_comments: true
 - **Wiedemann, M.**, Janecka M., Wild J., Warnock-Parkes, E., Stott, R., Grey N., Clark D. M., & Ehlers A. (2019, July). 
   A test of theory-derived mediators of clinical improvement in cognitive therapy for PTSD.
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
-  ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf/), [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M250ZGEyMDB1N2xlOG1vYXU4ZjRucjVhNWEgb3Rwa2FzN2c0cTA3b2dmZTI1YmthZ2ltYzhAZw&tmsrc=otpkas7g4q07ogfe25bkagimc8%40group.calendar.google.com)).
+  ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf/), [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXJtOGRtYWRvOXIyYjhuYWppZnZvbmxzZGsgb3Rwa2FzN2c0cTA3b2dmZTI1YmthZ2ltYzhAZw&tmsrc=otpkas7g4q07ogfe25bkagimc8%40group.calendar.google.com)).
 
 - **Wiedemann, M.**, Stott, R., Nickless, A., Beierl, E., Wild, J., Warnock-Parkes, E., Grey, N., Clark, D. M., & Ehlers A. (2019, July).
   Cognitive processes of sudden gains in cognitive therapy for PTSD in routine clinical care.
@@ -20,7 +20,7 @@ disable_comments: true
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
   ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf/)).
   
-
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MXJtOGRtYWRvOXIyYjhuYWppZnZvbmxzZGsgb3Rwa2FzN2c0cTA3b2dmZTI1YmthZ2ltYzhAZw&amp;tmsrc=otpkas7g4q07ogfe25bkagimc8%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
   
 ## Past 
 
