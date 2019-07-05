@@ -8,7 +8,7 @@ disable_comments: true
 - **Wiedemann, M.**, Janecka M., Wild J., Warnock-Parkes, E., Stott, R., Grey N., Clark D. M., & Ehlers A. (2019, July). 
   A test of theory-derived mediators of clinical improvement in cognitive therapy for PTSD.
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
-  ([Programme](https://calendar.google.com/calendar/event?eid=MXJtOGRtYWRvOXIyYjhuYWppZnZvbmxzZGsgb3Rwa2FzN2c0cTA3b2dmZTI1YmthZ2ltYzhAZw&ctz=Europe/London)).
+  ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf/), [Google Calendar](https://calendar.google.com/calendar/event?eid=MXJtOGRtYWRvOXIyYjhuYWppZnZvbmxzZGsgb3Rwa2FzN2c0cTA3b2dmZTI1YmthZ2ltYzhAZw&ctz=Europe/London)).
 
 - **Wiedemann, M.**, Stott, R., Nickless, A., Beierl, E., Wild, J., Warnock-Parkes, E., Grey, N., Clark, D. M., & Ehlers A. (2019, July).
   Cognitive processes of sudden gains in cognitive therapy for PTSD in routine clinical care.
