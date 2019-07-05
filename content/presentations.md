@@ -8,17 +8,19 @@ disable_comments: true
 - **Wiedemann, M.**, Janecka M., Wild J., Warnock-Parkes, E., Stott, R., Grey N., Clark D. M., & Ehlers A. (2019, July). 
   A test of theory-derived mediators of clinical improvement in cognitive therapy for PTSD.
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
-  ([Link](http://wcbct2019.org/)).
+  ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf/), [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXJtOGRtYWRvOXIyYjhuYWppZnZvbmxzZGsgbWlsYW4ud2llZGVtYW5uQG0&tmsrc=milan.wiedemann%40gmail.com)).
 
 - **Wiedemann, M.**, Stott, R., Nickless, A., Beierl, E., Wild, J., Warnock-Parkes, E., Grey, N., Clark, D. M., & Ehlers A. (2019, July).
   Cognitive processes of sudden gains in cognitive therapy for PTSD in routine clinical care.
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
-  ([Link](http://wcbct2019.org/)).
+  ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf/), [Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M250ZGEyMDB1N2xlOG1vYXU4ZjRucjVhNWEgbWlsYW4ud2llZGVtYW5uQG0&tmsrc=milan.wiedemann%40gmail.com)).
   
 - **Wiedemann, M.**, *Thew, G. (Presenter)*, Stott, R. & Ehlers A. (2019, July).
   Automating the identification of sudden gains within psychological therapy datasets: A new R package.
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
-  ([Link](http://wcbct2019.org/)).
+  ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf/)).
+  
+
   
 ## Past 
 
