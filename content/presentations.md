@@ -18,7 +18,7 @@ disable_comments: true
 - Wiedemann, M., **Thew, G. (Presenter)**, Stott, R. & Ehlers A. (2019, July).
   Automating the identification of sudden gains within psychological therapy datasets: A new R package.
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
-  ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf), [Google Calendar](https://calendar.google.com/calendar/event?eid=MWdsdXFkNGZiczBwaTVsdHFwNzlwZnQzc24gb3Rwa2FzN2c0cTA3b2dmZTI1YmthZ2ltYzhAZw&ctz=Europe/London)).
+  ([Poster](/presentations/r-suddengains-wcbct-2019-print.pdf), [Google Calendar](https://calendar.google.com/calendar/event?eid=MWdsdXFkNGZiczBwaTVsdHFwNzlwZnQzc24gb3Rwa2FzN2c0cTA3b2dmZTI1YmthZ2ltYzhAZw&ctz=Europe/London)).
   
 ## Past 
 
