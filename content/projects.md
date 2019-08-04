@@ -15,7 +15,7 @@ As a results I've designed R packages to make my life a bit easier.
 
 I designed this package together with my colleagues [Graham Thew](https://twitter.com/drgrahamthew) and [Richard Stott](https://twitter.com/DrRichardStott) and supervisor [Anke Ehlers](https://www.psy.ox.ac.uk/team/anke-ehlers) to make the research of sudden gains as easy and **reproducible** as possible.
 No more looking into the :crystal_ball: to figure out what was done.
-Below you see an illustration of how to use the package to identify sudden gains and create a plot from scratch in real time, sit back and :popcorn:. 
+Below you see an illustration of how to use the package to identify sudden gains and create a plot from scratch in real time. 
 We describe more about the background and why we think this package might be useful in our preprint on [PsyArXiv](https://psyarxiv.com/2wa84/). 
 You can check out the code on [GitHub](https://github.com/milanwiedemann/suddengains). 
 
