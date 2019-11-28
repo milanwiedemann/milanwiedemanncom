@@ -17,10 +17,15 @@ enableEmoji = true
     name = "Home"
     url = "/"
     weight = 1
-    
+
 [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "Research"
+    url = "/research/"
+    weight = 2
+    
+    [[menu.main]]
+    name = "Software"
+    url = "/software/"
     weight = 2
 
 [[menu.main]]
