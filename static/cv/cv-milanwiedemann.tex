@@ -16,7 +16,7 @@
 %\usepackage[backend = biber, sorting = none, maxbibnames = 99, style = nature]{biblatex}
 
 % for apa6
-\usepackage[style = apa, backend = biber, language = american]{biblatex}
+\usepackage[style = apa, backend = biber, language = american, url=true, doi=true]{biblatex}
 \DeclareLanguageMapping{english}{american-apa}
 
 \addbibresource{publications.bib}
@@ -87,9 +87,8 @@
 
 \begin{rSection}{Personal Summary}
 I am a PhD candidate at the University of Oxford investigating processes of change in cognitive therapy for Posttraumatic Stress Disorder (PTSD).
-Testing the theoretical models underpinning cognitive therapy for PTSD has strengthened my understanding of the importance that clinical interventions are rooted in empirical science and
-continually evaluated and refined through research. 
-I appreciate the importance of innovative research projects testing and evaluating technological advances in clinical psychology.
+Testing the theoretical models underpinning cognitive therapy for PTSD has strengthened my understanding of the importance that clinical interventions are rooted in empirical science and continually evaluated and refined through research.
+I appreciate the importance of innovative research projects testing and evaluating technological advances in health care, particularly in clinical psychology.
 I value, advocate, and implement open science practices in my work.
 \end{rSection}
 
@@ -160,6 +159,10 @@ Rettungssanit{\"a}ter (in English `Paramedic') \smallskip
 \item Module: Psychological Disorders and Individual Differences.
 \end{rSubsection}
 
+\begin{rSubsection}{University of Oxford}{January 2018 - February 2018}{Demonstrator, Department of Experimental Psychology}{Oxford, UK}
+\item Module: Psychological Disorders and Individual Differences.
+\end{rSubsection}
+
 \begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{April 2014 - March 2015}{Teaching Assistant, Institute of Clinical Psychology}{Braunschweig, GER}
 \item Module: Practical Course of Psychological Diagnostics.
 \item Module: Fundamentals of Psychological Diagnostics.
@@ -207,7 +210,7 @@ Rettungssanit{\"a}ter (in English `Paramedic') \smallskip
 \begin{rEmptySubsection}{University of Oxford, Wolfson College}{June 2017}{Travel Grant}{}
 \end{rEmptySubsection}
 
-\begin{rEmptySubsection}{Mental Health Research UK}{October 2016}{PhD Scholarship}{}
+\begin{rEmptySubsection}{Mental Health Research UK}{October 2016}{4-year PhD Scholarship}{}
 \end{rEmptySubsection}
 
 \begin{rEmptySubsection}{Erasmus plus}{February 2015}{Graduate Student Scholarship}{}
@@ -257,7 +260,7 @@ Rettungssanit{\"a}ter (in English `Paramedic') \smallskip
 \begin{rSection}{Technical Strengths}
 
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-Statistics \& Data science & R, Mplus, JASP, jamovi, SPSS, GitHub \\
+Statistics \& Data science & R, Python, Git, JASP, jamovi, Mplus, SPSS \\
 Scientific writing & R Markdown, Zotero, LaTeX, BibTeX, Microsoft Office \\
 Video \& Audio editing & Final Cut X, Audacity, iZotope RX \\
 %Driving licence &Clean category B \\
@@ -274,7 +277,8 @@ Video \& Audio editing & Final Cut X, Audacity, iZotope RX \\
 \begin{refsection}
 \printbibliography[keyword={peer-reviewed},title={Peer-reviewed}]
 
-\nocite{Kosir2019}
+\nocite{Kosir2019a}
+\nocite{Kosir2019b}
 \nocite{Wild2016}
 
 \end{refsection}
@@ -284,6 +288,7 @@ Video \& Audio editing & Final Cut X, Audacity, iZotope RX \\
 \printbibliography[keyword={preprint}, title={Preprint}]
 
 % Add preprints here
+\nocite{R-suddengains}
 
 \end{refsection}
 
@@ -291,13 +296,13 @@ Video \& Audio editing & Final Cut X, Audacity, iZotope RX \\
 \begin{refsection}
 \printbibliography[keyword={software},title={Software}]
 
-\nocite{R-suddengains}
-\nocite{R-lcstools}
+\nocite{R-shinychange}
+
+\nocite{R-lcsm}
 
 \end{refsection}
 \end{rSection}
 
-\newpage
 % Presentations
 
 % If I dont want to make my name bold for conference presentations and talks uncomment harry potter
@@ -308,6 +313,9 @@ Video \& Audio editing & Final Cut X, Audacity, iZotope RX \\
 \begin{refsection}
 \printbibliography[keyword={conference-presentation}, title={Conference presentations}]
 
+\nocite{Wiedemann2019c-WCBCT}
+\nocite{Wiedemann2019b-WCBCT}
+\nocite{Wiedemann2019a-WCBCT}
 \nocite{Wiedemann2017-EABCT}
 
 \end{refsection}
@@ -316,6 +324,7 @@ Video \& Audio editing & Final Cut X, Audacity, iZotope RX \\
 \begin{refsection}
 \printbibliography[keyword={invited-presentation}, title={Invited talks}]
 
+\nocite{Wiedemann2018-DeRubeis}
 \nocite{Wiedemann2018-Groningen}
 \nocite{Wiedemann2018-Exeter}
 \nocite{Wiedemann2016-Berlin}
