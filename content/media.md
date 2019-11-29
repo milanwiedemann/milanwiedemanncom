@@ -30,4 +30,4 @@ All animations in these videos were created by [Robin Whitten](http://robinwhitt
 Links to all videos can be found [here](https://www.thelossfoundation.org/services/understanding-bereavement/), for example [Understanding Bereavement](https://www.youtube.com/watch?v=3K0xarOS6iA&feature=emb_title) or [Understanding Flashbacks and Nightmares](https://www.youtube.com/watch?time_continue=1&v=YNsPABfXlGQ&feature=emb_logo).
 
 Here is a link to the video I created for the [Changing Lives](https://www.youtube.com/watch?v=DgIbg_qu4m4&feature=emb_title) workshop where experts from different fields discussed how children growing up in adversity can thrive in Britain.
-This video was created for the [The Oxford Research Centre in the Humanities Humanities Divison (TORCH)](https://www.torch.ox.ac.uk/). 
+This video was created for the [**The Oxford Research Centre in the Humanities Humanities Divison (TORCH)**](https://www.torch.ox.ac.uk/). 
