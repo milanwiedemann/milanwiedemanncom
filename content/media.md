@@ -1,5 +1,6 @@
 ---
 title: Videos
+disable_comments: true
 ---
 
 I work as a part-time research assistant for the Oxford Centre for Anxiety Disorders and Trauma ([OxCADAT](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma)) to create videos for online therapies. 
@@ -26,7 +27,6 @@ To see the videos and other resources go to the [OxCADAT Resources](https://oxca
 
 I have worked with **[The Loss Foundation](https://www.thelossfoundation.org/)** to create videos illustrating some difficulties that people who lost someone close might experience and suggestions on how to deal with it.
 All animations in these videos were created by [Robin Whitten](http://robinwhitten.co.uk/).
-coping with grief.
 Links to all videos can be found [here](https://www.thelossfoundation.org/services/understanding-bereavement/), for example [Understanding Bereavement](https://www.youtube.com/watch?v=3K0xarOS6iA&feature=emb_title) or [Understanding Flashbacks and Nightmares](https://www.youtube.com/watch?time_continue=1&v=YNsPABfXlGQ&feature=emb_logo).
 
 Here is a link to the video I created for the [Changing Lives](https://www.youtube.com/watch?v=DgIbg_qu4m4&feature=emb_title) workshop where experts from different fields discussed how children growing up in adversity can thrive in Britain.
