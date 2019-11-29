@@ -18,7 +18,7 @@ disable_comments: true
 - Wiedemann, M., **Thew, G. (Presenter)**, Stott, R. & Ehlers A. (2019, July).
   Automating the identification of sudden gains within psychological therapy datasets: A new R package.
   *World Congress of Behavioural and Cognitive Therapies, Berlin* :bear:*, Germany*.
-  ([Poster](/presentations/r-suddengains-wcbct-2019-print.pdf)).
+  ([Poster](https://doi.org/10.6084/m9.figshare.11299289.v1)).
 
 - **Wiedemann, M.** (2019, March). 
   Tutorial on latent change score modeling in R: Combining the strengths of the packages *lavaan*, *broom*, and *semPlot*.
