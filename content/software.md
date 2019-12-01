@@ -1,13 +1,17 @@
 ---
-title: Software
+title: Open-Source Software
 disable_comments: true
 ---
+
+Writing code has helped me to understand the methods I'm using and made it easier for me and others to find and correct mistakes in my analyses.
+These projects started as short chunks of code that helped me be more efficient and reproducible in a specific research project.
+I enjoyed developing and sharing my code on [GitHub](https://github.com/milanwiedemann) so that it's easier for other people to use and evaluate my work.
 
 ## [`library(suddengains)`](https://milanwiedemann.github.io/suddengains/)
 
 I designed this R package together with my colleagues [Graham Thew](https://twitter.com/drgrahamthew) and [Richard Stott](https://twitter.com/DrRichardStott) and supervisor [Anke Ehlers](https://www.psy.ox.ac.uk/team/anke-ehlers) to make the research of sudden gains in longitudinal data (see Tang & DeRubeis, [1999](https://doi.org/10.1037/0022-006X.67.6.894)) as easy and **reproducible** as possible.
 No more spreadsheets and no more guessing :crystal_ball: to figure out what was done.
-Find out more about this project in our preprint on [PsyArXiv](https://psyarxiv.com/2wa84/) or check out the code on [GitHub](https://github.com/milanwiedemann/suddengains). 
+Find out more about this project in our preprint on [PsyArXiv](https://psyarxiv.com/2wa84/) or check out the code on [GitHub](https://github.com/milanwiedemann/suddengains).
 
 <img src="/gifs/r-suddengains.gif"/>
 
