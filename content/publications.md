@@ -2,6 +2,8 @@
 title: Publications
 disable_comments: true
 ---
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 Below is a list of my publications. 
 My [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0003-1991-282X) accounts might be more up to date. 
@@ -35,9 +37,11 @@ doi: [10.3402/ejpt.v7.31019](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7
 suddengains: An R package to identify sudden gains in longitudinal data. 
 _PsyArXiv Preprints_.
 doi: [10.31234/osf.io/2wa84](https://psyarxiv.com/2wa84/). ([Preprint](https://psyarxiv.com/2wa84/download), [Website](https://milanwiedemann.github.io/suddengains/), [GitHub](https://github.com/milanwiedemann/suddengains)).
+<a class="github-button" href="https://github.com/milanwiedemann/suddengains" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star milanwiedemann/suddengains on GitHub">Star</a>
 
-- **Wiedemann, M.** (2019). lcsm: An R package for specifying, simulating, and analysing latent change score models using lavaan. ([Website](https://milanwiedemann.github.io/lcsm/), [GitHub](https://github.com/milanwiedemann/lcsm))
+- **Wiedemann, M.** (2019). lcsm: An R Package for Latent Change Score Modeling. ([Website](https://milanwiedemann.github.io/lcsm/), [GitHub](https://github.com/milanwiedemann/lcsm)).
+<a class="github-button" href="https://github.com/milanwiedemann/lcsm" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star milanwiedemann/lcsm on GitHub">Star</a>
 
 ### Web Apps
 
-- **Wiedemann, M.** (2019). shinychange: An interactive tutorial on latent change score modeling in R. ([ShinyApp](https://milanwiedemann.shinyapps.io/shinychange/), [GitHub](https://github.com/milanwiedemann/shinychange))
+- **Wiedemann, M.** (2019). shinychange: An interactive tutorial on latent change score modeling in R. ([ShinyApp](https://milanwiedemann.shinyapps.io/shinychange/), [GitHub](https://github.com/milanwiedemann/shinychange)).
