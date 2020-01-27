@@ -1,5 +1,5 @@
 ---
-title: Open-Source Software
+title: Open Source Software
 disable_comments: true
 ---
 
@@ -13,7 +13,18 @@ I designed this R package together with my colleagues [Graham Thew](https://twit
 No more spreadsheets and no more guessing :crystal_ball: to figure out what was done.
 Find out more about this project in our preprint on [PsyArXiv](https://psyarxiv.com/2wa84/) or check out the code on [GitHub](https://github.com/milanwiedemann/suddengains).
 
-<img src="/gifs/r-suddengains.gif"/>
+<!-- <img src="/gifs/r-suddengains.gif"/> -->
+
+## [`runApp(shinygains)`](https://milanwiedemann.shinyapps.io/shinygains/)
+
+This Shiny App demonstrates some functions of the [suddengains](https://milanwiedemann.github.io/suddengains/) R package.
+You can explore how changing commonly used sudden gains criteria (see Tang & DeRubeis, [1999](https://doi.org/10.1037/0022-006X.67.6.894)) influence identifying sudden gains in an example data set.
+It's also possible to check a sequence of repeated meaasuers for the presence of a sudden gain or loss using an interactice calculator.
+The code for is available on [GitHub](https://github.com/milanwiedemann/shinygains).
+
+
+<img src="/gifs/r-shinygains-demo-01.gif"/>
+
 
 ## [`library(lcsm)`](https://milanwiedemann.github.io/lcsm/)
 
@@ -24,7 +35,7 @@ The code and some more details about the functionality are available on [GitHub]
 
 ## [`runApp(shinychange)`](https://milanwiedemann.shinyapps.io/shinychange/)
 
-The main aim of this interactive shiny tutorial is to show how different univariate and bivariate latent change score models can be implemented in R using [`lavaan`](http://lavaan.ugent.be/) syntax (Rosseel, [2012](http://www.jstatsoft.org/v48/i02)).
+The main aim of this interactive Shiny tutorial is to show how different univariate and bivariate latent change score models can be implemented in R using [`lavaan`](http://lavaan.ugent.be/) syntax (Rosseel, [2012](http://www.jstatsoft.org/v48/i02)).
 The underlying functions of this shiny application come from the [`lcsm`](https://milanwiedemann.github.io/lcsm/) R package.
 At the moment it is possible to **Generate lavaan Syntax** for different model specifications and varying time points, **Simulate Data** to explore the effect of different parameters, **Fit Models** using example datasets, and create **Longitudinal Plots** and simplified **Path Diagrams** to visualise data and model specifications.
 
