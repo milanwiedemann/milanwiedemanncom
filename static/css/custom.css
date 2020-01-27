@@ -10,11 +10,7 @@
 code {
   hyphens: none;
 }
-iframe, twitterwidget, video {
-  max-width: 100%;
-  display: block;
-  margin: auto;
-}
+
 #TableOfContents {
   background-color: #f8f8f8;
   padding: .5em;
@@ -53,3 +49,4 @@ pre .nohighlight {
     padding-left: 10px;
   }
 }
+
