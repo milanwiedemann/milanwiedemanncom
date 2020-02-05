@@ -5,6 +5,11 @@ disable_comments: true
   
 ## Past 
 
+- **Wiedemann, M.**. (2020, February).
+  My journey from error messages to R Packages - Building tools to improve reproducibility and productivity in clinical psychology.
+  *R User Group Oxford, UK*.
+  ([Slides](https://github.com/r-oxford/r-oxford.github.io/blob/master/slides/2020_02_my_R_journey.pdf)).
+
 - **Wiedemann, M.**, Janecka M., Wild J., Warnock-Parkes, E., Stott, R., Grey N., Clark D. M., & Ehlers A. (2019, July). 
   A test of theory-derived mediators of clinical improvement in cognitive therapy for PTSD.
   *World Congress of Behavioural and Cognitive Therapies, Berlin, Germany*.
