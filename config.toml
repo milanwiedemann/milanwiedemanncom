@@ -2,6 +2,30 @@ baseurl = "https://www.milanwiedemann.com/"
 languageCode = "en-us"
 title = "Milan Wiedemann"
 theme = "hugo-ivy"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = true
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = true
+    privacyEnhanced = false
+
+
 googleAnalytics = "UA-113145816-1"
 disqusShortname = "milanwiedemann"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
