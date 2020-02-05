@@ -2005,9 +2005,10 @@
     <bcf:datasource type="file" datatype="bibtex">presentations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
-    <bcf:citekey order="1" nocite="1">Kosir2019a</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">Kosir2019b</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">Wild2016</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">Wiedememann2020</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">Kosir2019a</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">Kosir2019b</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">Wild2016</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2029,8 +2030,9 @@
     <bcf:datasource type="file" datatype="bibtex">presentations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="3">
-    <bcf:citekey order="1" nocite="1">R-shinychange</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">R-lcsm</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">R-shinygains</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">R-shinychange</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">R-lcsm</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2055,11 +2057,12 @@
     <bcf:datasource type="file" datatype="bibtex">presentations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="5">
-    <bcf:citekey order="1" nocite="1">Wiedemann2018-DeRubeis</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">Wiedemann2018-Groningen</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">Wiedemann2018-Exeter</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">Wiedemann2016-Berlin</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">Wiedemann2015-Berlin</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">Wiedemann2020-RUGOX</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">Wiedemann2018-DeRubeis</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">Wiedemann2018-Groningen</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">Wiedemann2018-Exeter</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">Wiedemann2016-Berlin</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">Wiedemann2015-Berlin</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
