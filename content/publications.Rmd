@@ -12,6 +12,10 @@ If you cant find or access the paper you're looking for please let me know.
 ## Research Papers
 ### Peer-reviewed
 
+- **Wiedemann, M.**, [Stott, R.](https://twitter.com/DrRichardStott), [Nickless, A.](https://twitter.com/Jancia36), [Beierl, E.](https://twitter.com/EBeierl), [Wild, J.](https://twitter.com/drjenwild), [Warnock-Parkes, E.](https://twitter.com/DrEmmaWParkes), [Grey, N.](https://twitter.com/nickdgrey?lang=en), [Clark, D. M.](https://www.psy.ox.ac.uk/team/david-clark), & [Ehlers A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2020).
+  Cognitive processes associated with sudden gains in cognitive therapy for posttraumatic stress
+disorder in routine care. *Journal of Consulting and Clinical Psychology*. doi: [10.1037/ccp0000488](https://ora.ox.ac.uk/objects/uuid:1b68a7f8-b01c-45a2-b7aa-ed864be383de). ([PDF](https://ora.ox.ac.uk/objects/uuid:1b68a7f8-b01c-45a2-b7aa-ed864be383de/download_file?file_format=pdf&safe_filename=Wiedemann%2Bet%2Bal%2BCognitive%2Bprocesses%2Bassociated%2Bwith%2Bsudden%2Bgains%2BAAM.pdf&type_of_work=Journal+article), [Code](https://osf.io/dgt8x/)).
+
 - [Košir, U.](https://twitter.com/UrskaKosir), **Wiedemann, M.**, [Wild, J.](https://twitter.com/drjenwild), [Bowes, L.](https://twitter.com/DrLucyBowes) (2019). 
 Cognitive Mechanisms in Adolescent and Young Adult Cancer Patients and Survivors: Feasibility and Preliminary Insights from the Cognitions and Affect in Cancer Resiliency Study. 
 _Journal of Adolescent and Young Adult Oncology_. 
@@ -34,14 +38,16 @@ doi: [10.3402/ejpt.v7.31019](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7
 ### R Packages
 
 - **Wiedemann, M.**, [Thew, G.](https://twitter.com/drgrahamthew), [Stott, R.](https://twitter.com/DrRichardStott), [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2019). 
-suddengains: An R package to identify sudden gains in longitudinal data. 
+`suddengains`: An R package to identify sudden gains in longitudinal data. 
 _PsyArXiv Preprints_.
 doi: [10.31234/osf.io/2wa84](https://psyarxiv.com/2wa84/). ([Preprint](https://psyarxiv.com/2wa84/download), [Website](https://milanwiedemann.github.io/suddengains/), [GitHub](https://github.com/milanwiedemann/suddengains)).
 <a class="github-button" href="https://github.com/milanwiedemann/suddengains" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star milanwiedemann/suddengains on GitHub">Star</a>
 
-- **Wiedemann, M.** (2019). lcsm: An R Package for Latent Change Score Modeling. ([Website](https://milanwiedemann.github.io/lcsm/), [GitHub](https://github.com/milanwiedemann/lcsm)).
+- **Wiedemann, M.** (2019). `lcsm`: An R Package for Latent Change Score Modeling. ([Website](https://milanwiedemann.github.io/lcsm/), [GitHub](https://github.com/milanwiedemann/lcsm)).
 <a class="github-button" href="https://github.com/milanwiedemann/lcsm" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star milanwiedemann/lcsm on GitHub">Star</a>
 
 ### Web Apps
 
-- **Wiedemann, M.** (2019). shinychange: An interactive tutorial on latent change score modeling in R. ([ShinyApp](https://milanwiedemann.shinyapps.io/shinychange/), [GitHub](https://github.com/milanwiedemann/shinychange)).
+- **Wiedemann, M.**, [Thew, G.](https://twitter.com/drgrahamthew), [Stott, R.](https://twitter.com/DrRichardStott), [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2020). `shinygains`: An interactive demonstration of the `suddengains` R package ([ShinyApp](https://milanwiedemann.shinyapps.io/shinygains/), [GitHub](https://github.com/milanwiedemann/shinygains)).
+
+- **Wiedemann, M.** (2019). `shinychange`: An interactive tutorial on latent change score modeling in R. ([ShinyApp](https://milanwiedemann.shinyapps.io/shinychange/), [GitHub](https://github.com/milanwiedemann/shinychange)).
