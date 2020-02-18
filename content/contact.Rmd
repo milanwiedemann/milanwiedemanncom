@@ -5,9 +5,9 @@ disable_comments: true
 
 Please get in touch if you find my work interesting or have any questions.
 
-**Email & Twitter:**
+`r emo::ji("email")`
 Send me an [email](mailto:milan.wiedemann@gmail.com) or [tweet](https://twitter.com/milanwiedemann).
 
-**GitHub:**
-For comments related to code I've written you can also contact me [GitHub](https://github.com/milanwiedemann).
+**`r emo::ji("robot")`**
+For comments related to code I've written you can also add issues on [GitHub](https://github.com/milanwiedemann).
 
