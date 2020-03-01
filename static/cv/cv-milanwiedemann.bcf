@@ -2030,9 +2030,10 @@
     <bcf:datasource type="file" datatype="bibtex">presentations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="3">
-    <bcf:citekey order="1" nocite="1">R-shinygains</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">R-shinychange</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">R-lcsm</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">R-suddengains</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">R-lcsm</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">R-shinygains</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">R-shinychange</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
