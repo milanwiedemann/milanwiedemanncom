@@ -11,7 +11,7 @@ I enjoyed developing and sharing my code on [GitHub](https://github.com/milanwie
 
 I designed this R package together with my colleagues [Graham Thew](https://twitter.com/drgrahamthew) and [Richard Stott](https://twitter.com/DrRichardStott) and supervisor [Anke Ehlers](https://www.psy.ox.ac.uk/team/anke-ehlers) to make the research of sudden gains in longitudinal data (see Tang & DeRubeis, [1999](https://doi.org/10.1037/0022-006X.67.6.894)) as easy and **reproducible** as possible.
 No more spreadsheets and no more guessing `r emo::ji("crystal_ball")` to figure out what was done.
-Find out more about this project in our preprint on [PsyArXiv](https://psyarxiv.com/2wa84/) or check out the code on [GitHub](https://github.com/milanwiedemann/suddengains).
+Find out more about this project in our [PLOS ONE](https://doi.org/10.1371/journal.pone.0230276) paper or check out the code on [GitHub](https://github.com/milanwiedemann/suddengains).
 
 <!-- <img src="/gifs/r-suddengains.gif"/> -->
 
