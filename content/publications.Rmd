@@ -17,6 +17,11 @@ If you cant find or access the paper you're looking for please let me know.
   Cognitive processes associated with sudden gains in cognitive therapy for posttraumatic stress
 disorder in routine care. *Journal of Consulting and Clinical Psychology*. doi: [10.1037/ccp0000488](https://psycnet.apa.org/fulltext/2020-15049-001.html). ([PDF](https://psycnet.apa.org/fulltext/2020-15049-001.pdf), [Code](https://osf.io/dgt8x/), [Supp](http://supp.apa.org/psycarticles/supplemental/ccp0000488/sg-ptsd-audit-jccp-supp-rev-3-v2.docx)).
 
+- **Wiedemann, M.**, [Thew, G. R.](https://twitter.com/drgrahamthew), [Stott, R.](https://twitter.com/DrRichardStott), [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2019). 
+`suddengains`: An R package to identify sudden gains in longitudinal data. 
+_PLOS ONE_.
+doi: [10.1371/journal.pone.0230276](https://doi.org/10.1371/journal.pone.0230276). ([Postprint](https://psyarxiv.com/2wa84/download), [Website](https://milanwiedemann.github.io/suddengains/), [Code](https://github.com/milanwiedemann/suddengains)).
+
 - [Košir, U.](https://twitter.com/UrskaKosir), **Wiedemann, M.**, [Wild, J.](https://twitter.com/drjenwild), [Bowes, L.](https://twitter.com/DrLucyBowes) (2019). 
 Cognitive Mechanisms in Adolescent and Young Adult Cancer Patients and Survivors: Feasibility and Preliminary Insights from the Cognitions and Affect in Cancer Resiliency Study. 
 _Journal of Adolescent and Young Adult Oncology_. 
@@ -40,12 +45,10 @@ doi: [10.3402/ejpt.v7.31019](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7
 ### R Packages
 
 - **Wiedemann, M.**, [Thew, G. R.](https://twitter.com/drgrahamthew), [Stott, R.](https://twitter.com/DrRichardStott), [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2019). 
-`suddengains`: An R package to identify sudden gains in longitudinal data. 
-_PLOS ONE_.
-doi: [10.1371/journal.pone.0230276](https://doi.org/10.1371/journal.pone.0230276). ([Postprint](https://psyarxiv.com/2wa84/download), [Website](https://milanwiedemann.github.io/suddengains/), [Code](https://github.com/milanwiedemann/suddengains)).
+`suddengains`: An R package to identify sudden gains in longitudinal data. ([Website](https://milanwiedemann.github.io/suddengains/), [Code](https://github.com/milanwiedemann/suddengains)).
 <a class="github-button" href="https://github.com/milanwiedemann/suddengains" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star milanwiedemann/suddengains on GitHub">Star</a>
 
-- **Wiedemann, M.** (2019). `lcsm`: An R Package for Latent Change Score Modeling. ([Website](https://milanwiedemann.github.io/lcsm/), [Code](https://github.com/milanwiedemann/lcsm)).
+- **Wiedemann, M.** (2020). `lcsm`: An R Package for Latent Change Score Modeling. ([Website](https://milanwiedemann.github.io/lcsm/), [Code](https://github.com/milanwiedemann/lcsm)).
 <a class="github-button" href="https://github.com/milanwiedemann/lcsm" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star milanwiedemann/lcsm on GitHub">Star</a>
 
 ### Web Apps
