@@ -73,6 +73,7 @@
       \strng{authorbibnamehash}{80a976f6d03246eba270011260019187}
       \strng{authornamehash}{be93e0fa795c4b18d01aa5535c5d4a67}
       \strng{authorfullhash}{80a976f6d03246eba270011260019187}
+      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
@@ -85,6 +86,49 @@
       \verb 10.1037/ccp0000488
       \endverb
       \keyw{peer-reviewed}
+    \endentry
+    \entry{R-paper-suddengains}{article}{}
+      \name{author}{4}{}{%
+        {{hash=79f9418865efd4fd17e103c064d27f75}{%
+           family={Wiedemann},
+           familyi={W\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=63f879752ad2dd609c8748ff383e1f8b}{%
+           family={Thew},
+           familyi={T\bibinitperiod},
+           given={Graham\bibnamedelima R.},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e9938bc7ed0062aaf4adbad5165e33a4}{%
+           family={Stott},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=640c23b29f9ef4863a21dc16f08199c8}{%
+           family={Ehlers},
+           familyi={E\bibinitperiod},
+           given={Anke},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{be93e0fa795c4b18d01aa5535c5d4a67}
+      \strng{fullhash}{70ef2a1e394332ad755bf4232c33ea8c}
+      \strng{bibnamehash}{70ef2a1e394332ad755bf4232c33ea8c}
+      \strng{authorbibnamehash}{70ef2a1e394332ad755bf4232c33ea8c}
+      \strng{authornamehash}{be93e0fa795c4b18d01aa5535c5d4a67}
+      \strng{authorfullhash}{70ef2a1e394332ad755bf4232c33ea8c}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{PLOS} {ONE}}
+      \field{title}{{suddengains}: {An} {R} package to identify sudden gains in longitudinal data}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0230276
+      \endverb
+      \keyw{peer-reviewed,software}
     \endentry
     \entry{Kosir2019a}{article}{}
       \name{author}{4}{}{%
@@ -116,8 +160,8 @@
       \strng{authornamehash}{2d4c57939b1db8d6d136a5fd4c42360f}
       \strng{authorfullhash}{6bee26f25242c0cee39b37d277ece4dd}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cancer Reports}
@@ -162,8 +206,8 @@
       \strng{authornamehash}{2d4c57939b1db8d6d136a5fd4c42360f}
       \strng{authorfullhash}{6bee26f25242c0cee39b37d277ece4dd}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Adolescent and Young Adult Oncology}
@@ -240,8 +284,8 @@
       \strng{authorbibnamehash}{0f95791ba7f6b26785883a4c39fc783e}
       \strng{authornamehash}{0155aed68f3b199adc9abfaaafe18024}
       \strng{authorfullhash}{0f95791ba7f6b26785883a4c39fc783e}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{European Journal of Psychotraumatology}
@@ -259,212 +303,35 @@
   \enddatalist
 \endrefsection
 
-\refsection{2}
-  \datalist[entry]{none/global//global/global}
-    \entry{R-suddengains}{article}{}
-      \name{author}{4}{}{%
-        {{hash=79f9418865efd4fd17e103c064d27f75}{%
-           family={Wiedemann},
-           familyi={W\bibinitperiod},
-           given={Milan},
-           giveni={M\bibinitperiod}}}%
-        {{hash=63f879752ad2dd609c8748ff383e1f8b}{%
-           family={Thew},
-           familyi={T\bibinitperiod},
-           given={Graham\bibnamedelima R.},
-           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=e9938bc7ed0062aaf4adbad5165e33a4}{%
-           family={Stott},
-           familyi={S\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod}}}%
-        {{hash=640c23b29f9ef4863a21dc16f08199c8}{%
-           family={Ehlers},
-           familyi={E\bibinitperiod},
-           given={Anke},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{be93e0fa795c4b18d01aa5535c5d4a67}
-      \strng{fullhash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \strng{bibnamehash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \strng{authorbibnamehash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \strng{authornamehash}{be93e0fa795c4b18d01aa5535c5d4a67}
-      \strng{authorfullhash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{{PLOS} {ONE}}
-      \field{title}{{suddengains}: {An} {R} package to identify sudden gains in longitudinal data}
-      \field{year}{2020}
-      \true{nocite}
-      \verb{doi}
-      \verb 10.1371/journal.pone.0230276
-      \endverb
-      \verb{urlraw}
-      \verb https://milanwiedemann.github.io/suddengains
-      \endverb
-      \verb{url}
-      \verb https://milanwiedemann.github.io/suddengains
-      \endverb
-      \keyw{peer-reviewed,software}
-    \endentry
-  \enddatalist
-\endrefsection
-
 \refsection{3}
   \datalist[entry]{none/global//global/global}
-    \entry{R-suddengains}{article}{}
-      \name{author}{4}{}{%
-        {{hash=79f9418865efd4fd17e103c064d27f75}{%
-           family={Wiedemann},
-           familyi={W\bibinitperiod},
-           given={Milan},
-           giveni={M\bibinitperiod}}}%
-        {{hash=63f879752ad2dd609c8748ff383e1f8b}{%
-           family={Thew},
-           familyi={T\bibinitperiod},
-           given={Graham\bibnamedelima R.},
-           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=e9938bc7ed0062aaf4adbad5165e33a4}{%
-           family={Stott},
-           familyi={S\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod}}}%
-        {{hash=640c23b29f9ef4863a21dc16f08199c8}{%
-           family={Ehlers},
-           familyi={E\bibinitperiod},
-           given={Anke},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{be93e0fa795c4b18d01aa5535c5d4a67}
-      \strng{fullhash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \strng{bibnamehash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \strng{authorbibnamehash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \strng{authornamehash}{be93e0fa795c4b18d01aa5535c5d4a67}
-      \strng{authorfullhash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \field{extraname}{1}
+    \entry{R-lcsm}{manual}{}
       \field{sortinit}{1}
       \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{{PLOS} {ONE}}
+      \field{title}{{lcsm}: {An} {R} package for latent change score modeling}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://milanwiedemann.github.io/lcsm/
+      \endverb
+      \verb{url}
+      \verb https://milanwiedemann.github.io/lcsm/
+      \endverb
+      \keyw{software}
+    \endentry
+    \entry{R-package-suddengains}{manual}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
       \field{title}{{suddengains}: {An} {R} package to identify sudden gains in longitudinal data}
       \field{year}{2020}
       \true{nocite}
-      \verb{doi}
-      \verb 10.1371/journal.pone.0230276
-      \endverb
       \verb{urlraw}
       \verb https://milanwiedemann.github.io/suddengains
       \endverb
       \verb{url}
       \verb https://milanwiedemann.github.io/suddengains
-      \endverb
-      \keyw{peer-reviewed,software}
-    \endentry
-    \entry{R-lcsm}{manual}{}
-      \name{author}{1}{}{%
-        {{hash=79f9418865efd4fd17e103c064d27f75}{%
-           family={Wiedemann},
-           familyi={W\bibinitperiod},
-           given={Milan},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{fullhash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{bibnamehash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{authorbibnamehash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{authornamehash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{authorfullhash}{79f9418865efd4fd17e103c064d27f75}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{lcsm}: {An} {R} package for latent change score modeling}
-      \field{year}{2019}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://milanwiedemann.github.io/lcsm/
-      \endverb
-      \verb{url}
-      \verb https://milanwiedemann.github.io/lcsm/
-      \endverb
-      \keyw{software}
-    \endentry
-    \entry{R-shinygains}{manual}{}
-      \name{author}{4}{}{%
-        {{hash=79f9418865efd4fd17e103c064d27f75}{%
-           family={Wiedemann},
-           familyi={W\bibinitperiod},
-           given={Milan},
-           giveni={M\bibinitperiod}}}%
-        {{hash=63f879752ad2dd609c8748ff383e1f8b}{%
-           family={Thew},
-           familyi={T\bibinitperiod},
-           given={Graham\bibnamedelima R.},
-           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=e9938bc7ed0062aaf4adbad5165e33a4}{%
-           family={Stott},
-           familyi={S\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod}}}%
-        {{hash=640c23b29f9ef4863a21dc16f08199c8}{%
-           family={Ehlers},
-           familyi={E\bibinitperiod},
-           given={Anke},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{be93e0fa795c4b18d01aa5535c5d4a67}
-      \strng{fullhash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \strng{bibnamehash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \strng{authorbibnamehash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \strng{authornamehash}{be93e0fa795c4b18d01aa5535c5d4a67}
-      \strng{authorfullhash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{shinygains}: {An} interactive demonstration of sudden gains.}
-      \field{year}{2019}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://milanwiedemann.shinyapps.io/shinygains/
-      \endverb
-      \verb{url}
-      \verb https://milanwiedemann.shinyapps.io/shinygains/
-      \endverb
-      \keyw{software}
-    \endentry
-    \entry{R-shinychange}{manual}{}
-      \name{author}{1}{}{%
-        {{hash=79f9418865efd4fd17e103c064d27f75}{%
-           family={Wiedemann},
-           familyi={W\bibinitperiod},
-           given={Milan},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{fullhash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{bibnamehash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{authorbibnamehash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{authornamehash}{79f9418865efd4fd17e103c064d27f75}
-      \strng{authorfullhash}{79f9418865efd4fd17e103c064d27f75}
-      \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{shinychange}: {An} interactive tutorial on latent change score modeling in {R}.}
-      \field{year}{2019}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://milanwiedemann.shinyapps.io/shinychange/
-      \endverb
-      \verb{url}
-      \verb https://milanwiedemann.shinyapps.io/shinychange/
       \endverb
       \keyw{software}
     \endentry
