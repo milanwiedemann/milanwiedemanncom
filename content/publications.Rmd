@@ -5,9 +5,8 @@ disable_comments: true
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-Below is a list of my publications. 
-My [Google Scholar](https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0003-1991-282X) accounts might be more up to date. 
-If you cant find or access the paper you're looking for please let me know.
+My publications and further matierials are listed below, if you cant find or access the paper you're looking for please let me know.
+Further to this I have written 300+ highly influential papers across diciplines and 50+ book chapters in my dreams.
 
 ## Research Papers
 
