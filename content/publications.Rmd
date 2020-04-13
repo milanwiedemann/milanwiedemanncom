@@ -6,7 +6,6 @@ disable_comments: true
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 My publications and further matierials are listed below, if you cant find or access the paper you're looking for please let me know.
-Further to this I have written 300+ highly influential papers across diciplines and 50+ book chapters in my dreams.
 
 ## Research Papers
 
