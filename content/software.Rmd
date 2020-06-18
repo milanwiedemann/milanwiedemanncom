@@ -19,7 +19,7 @@ Find out more about this project in our [PLOS ONE](https://doi.org/10.1371/journ
 
 This Shiny App demonstrates some functions of the [suddengains](https://milanwiedemann.github.io/suddengains/) R package.
 You can explore how changing commonly used sudden gains criteria (see Tang & DeRubeis, [1999](https://doi.org/10.1037/0022-006X.67.6.894)) influence identifying sudden gains in an example data set.
-It's also possible to check a sequence of repeated meaasuers for the presence of a sudden gain or loss using an interactice calculator.
+It's also possible to check a sequence of repeated measures for the presence of a sudden gain or loss using an interactice calculator.
 The code for is available on [GitHub](https://github.com/milanwiedemann/shinygains).
 
 
