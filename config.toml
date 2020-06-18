@@ -67,7 +67,6 @@ enableEmoji = true
   highlightjsLang = ["r", "yaml", "tex"]
   highlightjsTheme = "github"
   
-  
 [privacy]
   [privacy.disqus]
     disable = true
@@ -75,7 +74,7 @@ enableEmoji = true
     anonymizeIP = true
     disable = false
     respectDoNotTrack = true
-    useSessionStorage = false
+    useSessionStorage = true
   [privacy.instagram]
     disable = true
     simple = false
