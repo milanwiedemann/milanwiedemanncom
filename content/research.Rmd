@@ -5,13 +5,13 @@ disable_comments: true
 
 ## Psychological treatment research
 
-I'm interested in the processes of change in evidence-based psychological therapies for mental health problems.
+I'm interested in processes of change in evidence-based psychological therapies for mental health problems.
 In my PhD I'm taking a closer look at at how cognitive therapy for Posttraumatic Stress Disorder works. 
-To learn more about this I analyse changes in variables that are thought to drive symptom change according to cognitive theories of PTSD.
-My two main projects are looking at longitudinal changes during therapy to better understand:
+To learn more about this I analyse changes in cognitive processes and safety behaviours that are thought to drive symptom change according to cognitive theories for PTSD.
+My two main projects are looking at changes during therapy to better understand:
 
 1. **Sudden symptom improvements**  
-1. **Associations between changes in symptoms and cognitive factors**
+1. **Longitudinal associations between changes in symptoms and cognitive factors**
 
 During the course of my PhD I started to feel the superpowers of [R](https://cran.r-project.org/) `r emo::ji("rocket")` and have created some tools that make my life a bit easier, see a short summary [here](/software).
 The code for all of my software projects is available on [GitHub](https://github.com/milanwiedemann).
