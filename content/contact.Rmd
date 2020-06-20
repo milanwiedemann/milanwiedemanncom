@@ -3,7 +3,7 @@ title: Contact
 disable_comments: true
 ---
 
-Please get in touch if you find my work interesting or have any questions.
+Please get in touch if you have any questions.
 
 `r emo::ji("email")`
 Send me an [email](mailto:milan.wiedemann@gmail.com) or [tweet](https://twitter.com/milanwiedemann).
