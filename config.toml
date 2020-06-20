@@ -88,4 +88,3 @@ enableEmoji = true
   [privacy.youtube]
     disable = true
     privacyEnhanced = false
-  
