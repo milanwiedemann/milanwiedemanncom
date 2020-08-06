@@ -20,6 +20,12 @@ disorder in routine care. *Journal of Consulting and Clinical Psychology*. doi: 
 _PLOS ONE_.
 doi: [10.1371/journal.pone.0230276](https://doi.org/10.1371/journal.pone.0230276). ([Postprint](https://psyarxiv.com/2wa84/download), [Website](https://milanwiedemann.github.io/suddengains/), [Code](https://github.com/milanwiedemann/suddengains)).
 
+- [Košir, U.](https://twitter.com/UrskaKosir), [Loades, M. E.](https://researchportal.bath.ac.uk/en/persons/maria-loades), [Wild, J.](https://twitter.com/drjenwild), **Wiedemann, M.**, Krajnc, A., Roškar, S. & [Bowes, L.](https://twitter.com/DrLucyBowes) (2020). 
+The Impact of COVID-19 on the Cancer Care of Adolescents and Young Adults and Their Well-Being: Results From an Online Survey Conducted in the Early Stages of the Pandemic
+_Cancer_. 
+doi: [10.1002/cncr.33098](https://acsjournals.onlinelibrary.wiley.com/doi/full/10.1002/cncr.33098).
+([PDF](https://acsjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/cncr.33098)).
+
 - [Košir, U.](https://twitter.com/UrskaKosir), **Wiedemann, M.**, [Wild, J.](https://twitter.com/drjenwild), [Bowes, L.](https://twitter.com/DrLucyBowes) (2019). 
 Cognitive Mechanisms in Adolescent and Young Adult Cancer Patients and Survivors: Feasibility and Preliminary Insights from the Cognitions and Affect in Cancer Resiliency Study. 
 _Journal of Adolescent and Young Adult Oncology_. 
