@@ -9,7 +9,7 @@ I also enjoy filming and editing videos to share my research or other exciting p
 ## Video abstracts
 
 My colleague [Urška Košir](https://twitter.com/UrskaKosir) and I systematically reviewed the literature to find out why some adolescent cancer survivors have a harder time adapting to life after illness, see [here](https://onlinelibrary.wiley.com/doi/full/10.1002/cnr2.1168).
-We filmed a short video summarising our findings, see our video below `r emo::ji("clapper")`
+We filmed a short video summarising our findings `r emo::ji("clapper")`
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SBjIkFNAGQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
