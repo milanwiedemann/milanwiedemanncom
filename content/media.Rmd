@@ -16,7 +16,7 @@ We filmed a short video summarising our findings `r emo::ji("clapper")`
 ## Videos for psychological online treatments
 
 I've mainly worked on creating videos for a newly developed online therapy for PTSD.
-[This](https://www.youtube.com/watch?v=SE_CIynHlbI&feature=emb_title) video gives a short overview of the internet program, a pilot paper describing the treatment is available [here](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7.31019?needAccess=true#).
+A pilot paper describing the treatment is available [here](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7.31019?needAccess=true#).
 
 ## Videos for training psychological therapists
 
