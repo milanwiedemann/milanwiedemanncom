@@ -3,11 +3,18 @@ title: Open Source Software
 disable_comments: true
 ---
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 Writing code has helped me to understand the methods I'm using and made it easier for me and others to find and correct mistakes in my analyses.
 These projects started as short chunks of code that helped me be more efficient and reproducible in a specific research project.
 I enjoyed developing and sharing my code on [GitHub](https://github.com/milanwiedemann) so that it's easier for other people to use and evaluate my work.
 
 ## [`library(suddengains)`](https://milanwiedemann.github.io/suddengains/)
+
+- **Wiedemann, M.**, [Thew, G. R.](https://twitter.com/drgrahamthew), [Stott, R.](https://twitter.com/DrRichardStott), [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2019). 
+`suddengains`: An R package to identify sudden gains in longitudinal data. ([Website](https://milanwiedemann.github.io/suddengains/), [Code](https://github.com/milanwiedemann/suddengains)).
+<a class="github-button" href="https://github.com/milanwiedemann/suddengains" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star milanwiedemann/suddengains on GitHub">Star</a>
 
 I designed this R package together with my colleagues [Graham Thew](https://twitter.com/drgrahamthew) and [Richard Stott](https://twitter.com/DrRichardStott) and supervisor [Anke Ehlers](https://www.psy.ox.ac.uk/team/anke-ehlers) to make the research of sudden gains in longitudinal data (see Tang & DeRubeis, [1999](https://doi.org/10.1037/0022-006X.67.6.894)) as easy and **reproducible** as possible.
 No more spreadsheets and no more guessing `r emo::ji("crystal_ball")` to figure out what was done.
@@ -16,6 +23,8 @@ Find out more about this project in our [PLOS ONE](https://doi.org/10.1371/journ
 <!-- <img src="/gifs/r-suddengains.gif"/> -->
 
 ## [`runApp(shinygains)`](https://milanwiedemann.shinyapps.io/shinygains/)
+
+- **Wiedemann, M.**, [Thew, G. R.](https://twitter.com/drgrahamthew), [Stott, R.](https://twitter.com/DrRichardStott), [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2020). `shinygains`: An interactive demonstration of the `suddengains` R package ([ShinyApp](https://milanwiedemann.shinyapps.io/shinygains/), [Code](https://github.com/milanwiedemann/shinygains)).
 
 This Shiny App demonstrates some functions of the [suddengains](https://milanwiedemann.github.io/suddengains/) R package.
 You can explore how changing commonly used sudden gains criteria (see Tang & DeRubeis, [1999](https://doi.org/10.1037/0022-006X.67.6.894)) influence identifying sudden gains in an example data set.
@@ -28,12 +37,17 @@ The code for is available on [GitHub](https://github.com/milanwiedemann/shinygai
 
 ## [`library(lcsm)`](https://milanwiedemann.github.io/lcsm/)
 
+- **Wiedemann, M.** (2020). `lcsm`: An R Package for Latent Change Score Modeling. ([Website](https://milanwiedemann.github.io/lcsm/), [Code](https://github.com/milanwiedemann/lcsm)).
+<a class="github-button" href="https://github.com/milanwiedemann/lcsm" data-color-scheme="no-preference: light; light: light; dark: light;" data-show-count="true" aria-label="Star milanwiedemann/lcsm on GitHub">Star</a>
+
 I started working on this project to better understand how latent change score modeling works. 
 This R package combines the strengths of other packages like [`lavaan`](http://lavaan.ugent.be/), [`broom`](https://CRAN.R-project.org/package=broom), and [`semPlot`](https://CRAN.R-project.org/package=semPlot) by generating lavaan syntax that helps these packages work together efficiently. 
 The code and some more details about the functionality are available on [GitHub](https://github.com/milanwiedemann/lcsm).
 
 
 ## [`runApp(shinychange)`](https://milanwiedemann.shinyapps.io/shinychange/)
+
+- **Wiedemann, M.** (2019). `shinychange`: An interactive tutorial on latent change score modeling in R. ([ShinyApp](https://milanwiedemann.shinyapps.io/shinychange/), [Code](https://github.com/milanwiedemann/shinychange)).
 
 The main aim of this interactive Shiny tutorial is to show how different univariate and bivariate latent change score models can be implemented in R using [`lavaan`](http://lavaan.ugent.be/) syntax (Rosseel, [2012](http://www.jstatsoft.org/v48/i02)).
 The underlying functions of this shiny application come from the [`lcsm`](https://milanwiedemann.github.io/lcsm/) R package.

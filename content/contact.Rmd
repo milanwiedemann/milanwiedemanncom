@@ -9,5 +9,5 @@ Please get in touch if you have any questions.
 Send me an [email](mailto:milan.wiedemann@gmail.com) or [tweet](https://twitter.com/milanwiedemann).
 
 **`r emo::ji("robot")`**
-For comments related to code I've written you can also reach out on [GitHub](https://github.com/milanwiedemann).
+For comments related to code you can also reach out on [GitHub](https://github.com/milanwiedemann).
 

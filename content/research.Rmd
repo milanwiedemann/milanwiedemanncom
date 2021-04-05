@@ -6,12 +6,18 @@ disable_comments: true
 ## Psychological treatment research
 
 I'm interested in processes of change in evidence-based psychological therapies for mental health problems.
-In my PhD I'm taking a closer look at at how cognitive therapy for Posttraumatic Stress Disorder works. 
-To learn more about this I analyse changes in cognitive processes and safety behaviours that are thought to drive symptom change according to cognitive theories for PTSD.
-My two main projects are looking at changes during therapy to better understand:
-
-1. **Sudden symptom improvements**  
-1. **Longitudinal associations between changes in symptoms, cognitive, and behavioural factors**
-
-During the course of my PhD I started to feel the superpowers of [R](https://cran.r-project.org/) `r emo::ji("rocket")` and have created some tools that make my life a bit easier, see a short summary [here](/software).
+To learn more about how psychological therapies may work I look how changes in theory-derived psychological processes are associated with changes in clinical symptoms. 
+I'm developing tools that implement some clinical research methodologies in [R](https://cran.r-project.org/) `r emo::ji("rocket")` to help users to understand how these methods work, see a short summary [here](/software).
 The code for all of my software projects is available on [GitHub](https://github.com/milanwiedemann).
+
+<!-- ## Understanding the journey of patients -->
+
+<!-- How do patients use the health care services that are available to them. -->
+
+<!-- What data may be useful to learn how the service can be improved? -->
+
+<!-- At the CDU NOTTSHC we are  -->
+
+<!-- What can we learn about inequalities,  -->
+
+
