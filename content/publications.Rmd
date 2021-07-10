@@ -3,9 +3,8 @@ title: Publications
 disable_comments: true
 ---
 
-
-My publications and further materials are listed below.
-If you cant find or access the paper you're looking for [please let me know](/contact).
+<!-- My publications and further materials are listed below. -->
+<!-- If you cant find or access the paper you're looking for [please let me know](/contact). -->
 
 ## Research Papers
 
@@ -52,36 +51,3 @@ _PsyArXiv_.
 doi: [10.31234/osf.io/jbzw3](https://psyarxiv.com/jbzw3).
 ([Code](https://osf.io/d7rg2/)).
 
-
-## Presentations
-
-- **Wiedemann, M.**. (2020, February).
-  My journey from error messages to R Packages - Building tools to improve reproducibility and productivity in clinical psychology.
-  *R User Group Oxford, UK*.
-  ([Slides](https://github.com/r-oxford/r-oxford.github.io/blob/master/slides/2020_02_my_R_journey.pdf)).
-
-- **Wiedemann, M.**, Janecka M., Wild J., Warnock-Parkes, E., Stott, R., Grey N., Clark D. M., & Ehlers A. (2019, July). 
-  A test of theory-derived mediators of clinical improvement in cognitive therapy for PTSD.
-  *World Congress of Behavioural and Cognitive Therapies, Berlin, Germany*.
-  ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf)).
-
-- **Wiedemann, M.**, Stott, R., Nickless, A., Beierl, E., Wild, J., Warnock-Parkes, E., Grey, N., Clark, D. M., & Ehlers A. (2019, July).
-  Cognitive processes of sudden gains in cognitive therapy for PTSD in routine clinical care.
-  *World Congress of Behavioural and Cognitive Therapies, Berlin, Germany*.
-  ([Programme](https://wcbct2019.org/Downloads/Congress-Programme.pdf)).
-  
-- Wiedemann, M., **Thew, G. (Presenter)**, Stott, R. & Ehlers A. (2019, July).
-  Automating the identification of sudden gains within psychological therapy datasets: A new R package.
-  *World Congress of Behavioural and Cognitive Therapies, Berlin, Germany*.
-  ([Poster](https://doi.org/10.6084/m9.figshare.11299289.v1)).
-
-- **Wiedemann, M.** (2019, March). Tutorial on latent change score modeling in R: Combining the strengths of the packages *lavaan*, *broom*, and *semPlot*. *Berlin Oxford Training Alliance for Quantitative Neuroscience, Germany.* ([Poster](https://doi.org/10.6084/m9.figshare.7887599.v2)).
-
-- **Wiedemann, M.**, Clark, D. M. & Ehlers, A. (2019, February). Taking a closer look at how therapy works. *Mental Health Research UK - Scholars' Day 2019, London, UK*. ([Slides](https://doi.org/10.6084/m9.figshare.7834841.v1)).
-  
-- **Wiedemann, M.**, Clark, D. M. & Ehlers, A. (2018, September). Processes of change in cognitive therapy for PTSD - Sudden symptom improvements during therapy. *University of Groningen, WEIRD Seminar Series, Netherlands.*
-
-- **Wiedemann, M.**, Clark, D. M. & Ehlers, A. (2018, June). Sudden gains in cognitive therapy for PTSD - Can large and stable improvements between sessions help us understand how therapy works? *University of Exeter, Mood Disorder Centre, The Think-Tank Seminar, UK.* ([Slides](https://doi.org/10.6084/m9.figshare.7834844.v1)).
-
-- **Wiedemann, M.**, Clark, D. M. & Ehlers, A. (2018, February). Processes of change in trauma-focused cognitive therapy for PTSD.  *Mental Health Research UK - Scholars' Day 2018, London, UK.* ([Slides](https://doi.org/10.6084/m9.figshare.7834826.v1)).
-  
