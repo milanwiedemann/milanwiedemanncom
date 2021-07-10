@@ -3,8 +3,7 @@ title: Videos
 disable_comments: true
 ---
 
-I work as a part-time research assistant for the Oxford Centre for Anxiety Disorders and Trauma ([OxCADAT](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma)) to create videos for online therapies. 
-I also enjoy filming and editing videos to share my research or other exciting projects.
+<!-- I also enjoy filming and editing videos to share my research or other exciting projects. -->
 
 ## Video abstracts
 
@@ -15,8 +14,8 @@ We filmed a short video summarising our findings `r emo::ji("clapper")`
 
 ## Videos for psychological online treatments
 
-I've mainly worked on creating videos for a newly developed online therapy for PTSD.
-A pilot paper describing the treatment is available [here](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7.31019?needAccess=true#).
+At the Oxford Centre for Anxiety Disorders and Trauma ([OxCADAT](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma)) I created videos for for a newly developed online therapy for PTSD.
+A pilot paper describing the treatment is available [here](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7.31019).
 
 ## Videos for training psychological therapists
 

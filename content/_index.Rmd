@@ -5,8 +5,11 @@ disable_comments: true
 
 <img src="/images/portrait.png" class="center" style="max-width:20%;min-width:50px;float:top;"/>
 
-I'm a data scientist working for the [Clinical Development Unit](https://cdu-data-science-team.github.io/team-blog/about.html) at the Nottinghamshire Healthcare NHS Foundation Trust.
-I enjoy working on [software tools](/software) that help to visualise and analyse data.
+I'm a quantitative researcher with experience in evaluating psychological interventions and analysing routinely collected NHS patient data.
+Currently I'm working as a data scientist for the [Clinical Development Unit](https://cdu-data-science-team.github.io/team-blog/about.html) at the Nottinghamshire Healthcare NHS Foundation Trust.
+I explore how we can improve clinical care by analysing routinely collected clinical outcomes and patient experiences.
+
+I enjoy working on [software tools](/software) that help to tidy, visualise, and analyse large datasets.
 My main research interest is evidence-based health care, particularly in clinical psychology.
 How do we know what works and what doesn't work? 
 Why does it work?
