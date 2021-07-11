@@ -10,7 +10,7 @@ disable_comments: true
 
 ### Peer-reviewed
 
-- **Wiedemann, M.**, [Stott, R.](https://twitter.com/DrRichardStott), [Nickless, A.](https://twitter.com/Jancia36), [Beierl, E. T.](https://twitter.com/EBeierl), [Wild, J.](https://twitter.com/drjenwild), [Warnock-Parkes, E.](https://twitter.com/DrEmmaWParkes), [Grey, N.](https://twitter.com/nickdgrey?lang=en), [Clark, D. M.](https://www.psy.ox.ac.uk/team/david-clark), & [Ehlers A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2020).
+- **Wiedemann, M.**, [Stott, R.](https://twitter.com/DrRichardStott), [Nickless, A.](https://twitter.com/Jancia36), [Beierl, E. T.](https://twitter.com/EBeierl), [Wild, J.](https://twitter.com/drjenwild), [Warnock-Parkes, E.](https://twitter.com/DrEmmaWParkes), [Grey, N.](https://twitter.com/nickdgrey), [Clark, D. M.](https://www.psy.ox.ac.uk/team/david-clark), & [Ehlers A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2020).
   Cognitive processes associated with sudden gains in cognitive therapy for posttraumatic stress
 disorder in routine care. *Journal of Consulting and Clinical Psychology*. doi: [10.1037/ccp0000488](https://psycnet.apa.org/fulltext/2020-15049-001.html). ([PDF](https://psycnet.apa.org/fulltext/2020-15049-001.pdf), [Code](https://osf.io/dgt8x/), [Supp](http://supp.apa.org/psycarticles/supplemental/ccp0000488/sg-ptsd-audit-jccp-supp-rev-3-v2.docx)).
 
@@ -18,6 +18,11 @@ disorder in routine care. *Journal of Consulting and Clinical Psychology*. doi: 
 `suddengains`: An R package to identify sudden gains in longitudinal data. 
 _PLOS ONE_.
 doi: [10.1371/journal.pone.0230276](https://doi.org/10.1371/journal.pone.0230276). ([Postprint](https://psyarxiv.com/2wa84/download), [Website](https://milanwiedemann.github.io/suddengains/), [Code](https://github.com/milanwiedemann/suddengains)).
+
+
+
+- [Beierl, E. T.](https://twitter.com/EBeierl), [Murray, H.](https://twitter.com/MurrayPTSD), **Wiedemann, M.**, [Warnock-Parkes, E.](https://twitter.com/DrEmmaWParkes), [Wild, J.](https://twitter.com/drjenwild), [Stott, R.](https://twitter.com/DrRichardStott), [Grey, N.](https://twitter.com/nickdgrey), [Clark, D. M.](https://www.psy.ox.ac.uk/team/david-clark) & [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2021).
+  he relationship between working alliance and symptom improvementin cognitive therapy for posttraumatic stress disorder. *Frontiers in Psychiatry*. doi: [10.3389/fpsyt.2021.602648](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.602648/full). ([Code](https://osf.io/4dqyx/)).
 
 - [Košir, U.](https://twitter.com/UrskaKosir), [Loades, M. E.](https://twitter.com/MariaLoades), [Wild, J.](https://twitter.com/drjenwild), **Wiedemann, M.**, Krajnc, A., Roškar, S. & [Bowes, L.](https://twitter.com/DrLucyBowes) (2020). 
 The Impact of COVID-19 on the Cancer Care of Adolescents and Young Adults and Their Well-Being: Results From an Online Survey Conducted in the Early Stages of the Pandemic
