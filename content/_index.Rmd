@@ -5,17 +5,20 @@ disable_comments: true
 
 <img src="/images/portrait.png" class="center" style="max-width:20%;min-width:50px;float:top;"/>
 
-I'm a quantitative researcher with experience in evaluating psychological interventions and routinely collected NHS patient data.
-Currently I'm working as a data scientist for the [Clinical Development Unit](https://cdu-data-science-team.github.io/team-blog/about.html) at the Nottinghamshire Healthcare NHS Foundation Trust.
-I explore how we can improve clinical care by analysing routinely collected clinical outcomes and patient experiences.
+I'm a data scientist and researcher working in the [DataLab](https://www.thedatalab.org/) at the [Nuffield Department of Primary Care Health Sciences](https://www.phc.ox.ac.uk/).
+My main aim is to develop tools that help to use clinical data and bring evidence into practice.
 
-I enjoy working on [software tools](/software) that help to tidy, analyse, and visualise large datasets.
-My main research interest is evidence-based health care, particularly in clinical psychology.
-How do we know what works and what doesn't work? 
-Why does it work?
+<!-- I enjoy working on [software tools](/software) that help to tidy, analyse, and visualise large datasets. -->
+<!-- My main research interest is evidence-based health care, particularly in clinical psychology. -->
+<!-- How do we know what works and what doesn't work?  -->
+<!-- Why does it work? -->
 
 <!-- `r emo::ji("purple_heart")` -->
 
-<!-- I completed my DPhil in Experimental Psychology at the Oxford Centre for Anxiety Disorders and Trauma ([OxCADAT](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma)) aiming to learn more about how cognitive therapy for PTSD works. -->
+Before joining the DataLab I completed my DPhil in Experimental Psychology at the Oxford Centre for Anxiety Disorders and Trauma ([OxCADAT](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma)) and gained experience analysing routinely collected NHS patient data at the Nottinghamshire Healthcare NHS Foundation Trust.
+<!-- My main research interest is evidence-based health care, particularly in clinical psychology. -->
+<!-- How do we know what works and what doesn't work? -->
+<!-- Why does it work? -->
+
 <!-- A summary of the research questions I'm currently interested in is available [here](/research). -->
 
