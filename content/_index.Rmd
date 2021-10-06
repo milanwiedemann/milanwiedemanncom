@@ -6,7 +6,7 @@ disable_comments: true
 <img src="/images/portrait.png" class="center" style="max-width:20%;min-width:50px;float:top;"/>
 
 I'm a data scientist and researcher working in the [DataLab](https://www.thedatalab.org/) at the [Nuffield Department of Primary Care Health Sciences](https://www.phc.ox.ac.uk/).
-My main aim is to develop tools that help to use clinical data and bring evidence into practice.
+My main aim is to develop tools that help to analyse clinical data and bring evidence into practice.
 
 <!-- I enjoy working on [software tools](/software) that help to tidy, analyse, and visualise large datasets. -->
 <!-- My main research interest is evidence-based health care, particularly in clinical psychology. -->

@@ -28,21 +28,6 @@ enableEmoji = true
     weight = 4
     
 [[menu.main]]
-    name = "Thesis"
-    url = "https://ora.ox.ac.uk/objects/uuid:96ac1526-0405-4147-b071-2b3bb0e24802"
-    weight = 4
-    
-[[menu.main]]
-    name = "Software"
-    url = "/software/"
-    weight = 5
-    
-[[menu.main]]
-    name = "Videos"
-    url = "/media/"
-    weight = 6
-    
-[[menu.main]]
     name = "CV"
     url = "/cv/cv-milanwiedemann.pdf"
     weight = 7

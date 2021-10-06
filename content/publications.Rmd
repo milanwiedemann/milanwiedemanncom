@@ -19,8 +19,6 @@ disorder in routine care. *Journal of Consulting and Clinical Psychology*. doi: 
 _PLOS ONE_.
 doi: [10.1371/journal.pone.0230276](https://doi.org/10.1371/journal.pone.0230276). ([Postprint](https://psyarxiv.com/2wa84/download), [Website](https://milanwiedemann.github.io/suddengains/), [Code](https://github.com/milanwiedemann/suddengains)).
 
-
-
 - [Beierl, E. T.](https://twitter.com/EBeierl), [Murray, H.](https://twitter.com/MurrayPTSD), **Wiedemann, M.**, [Warnock-Parkes, E.](https://twitter.com/DrEmmaWParkes), [Wild, J.](https://twitter.com/drjenwild), [Stott, R.](https://twitter.com/DrRichardStott), [Grey, N.](https://twitter.com/nickdgrey), [Clark, D. M.](https://www.psy.ox.ac.uk/team/david-clark) & [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2021).
   he relationship between working alliance and symptom improvementin cognitive therapy for posttraumatic stress disorder. *Frontiers in Psychiatry*. doi: [10.3389/fpsyt.2021.602648](https://www.frontiersin.org/articles/10.3389/fpsyt.2021.602648/full). ([Code](https://osf.io/4dqyx/)).
 
@@ -49,6 +47,11 @@ doi: [10.3402/ejpt.v7.31019](https://www.tandfonline.com/doi/abs/10.3402/ejpt.v7
 ([PDF](https://www.tandfonline.com/doi/pdf/10.3402/ejpt.v7.31019?needAccess=true&)).
 
 ### Preprints
+
+- **Wiedemann, M.**, [Thew, G. R.](https://twitter.com/drgrahamthew), [Košir, U.](https://twitter.com/UrskaKosir), [Ehlers, A.](https://www.psy.ox.ac.uk/team/anke-ehlers) (2021). 
+lcsm: An R package and tutorial on latent change score modelling.
+_PsyArXiv_. 
+doi: [10.31234/osf.io/atjpu](10.31234/osf.io/atjpu).
 
 - [Lorenzo-Luaces, L.](https://twitter.com/lluaces), **Wiedemann, M.**, [Huibers, M.J.H.](https://research.vu.nl/en/persons/marcus-huibers), [Lemmens, L.H.J.M.](https://www.maastrichtuniversity.nl/lotte.lemmens) (2020). 
 A permutation test to probe the statistical significance of sudden gain frequency: An application to patterns of change in cognitive and interpersonal therapy for depression.
