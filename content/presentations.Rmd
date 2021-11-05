@@ -3,6 +3,12 @@ title: Presentations
 disable_comments: true
 ---
   
+  
+-  **Wiedemann, M.,** Ehlers, A. (2021, November).
+  Processes of change in trauma-focussed therapy for PTSD.
+  *ISTSS*.
+  ([Slides](https://docs.google.com/presentation/d/e/2PACX-1vRDRujHXNGyK9i1j4MdNo_46z9HSVyv7je_hs-rjh057041YVwMtKo1dn50tT64gpfIELGWGpp9004E/pub?start=false&loop=false&delayms=3000)).
+  
 - Soteriades, A., **Wiedemann, M.**. (2021, May).
   Extracting and deploying intelligence from text-based patient experience data - An open source project using Python and R.
   *Bristol Data Science Seminar Series,  Jean Golding Institute, UK*.
