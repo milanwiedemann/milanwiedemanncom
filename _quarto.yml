@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  navbar:
+    left:
+      - href: /cv/cv-milanwiedemann.pdf
+        text: CV
+      # - contact.qmd
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+
+
