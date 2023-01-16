@@ -2,7 +2,20 @@ project:
   type: website
 
 website:
-  title: "Home"
+  title: ""
+  repo-url: https://github.com/quarto-dev/quarto-demo
+  repo-actions: [edit, issue]
+  search: true
+  page-footer: 
+    center: 
+      - icon: github
+        href: https://github.com/milanwiedemann
+      - icon: mortarboard-fill
+        href: https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en
+      - icon: twitter
+        href: https://twitter.com/milanwiedemann
+      - icon: linkedin
+        href: https://www.linkedin.com/in/milanwiedemann/
   navbar:
     left:
       - href: /cv/cv-milanwiedemann.pdf

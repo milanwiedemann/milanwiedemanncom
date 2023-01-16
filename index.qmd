@@ -3,16 +3,6 @@ title: "Milan Wiedemann"
 about:
   template: jolla
   image: profile.png
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/milanwiedemann
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/milanwiedemann
 ---
 
 I'm a data scientist and researcher working at the [Bennett Institute for Applied Data Science](https://www.bennett.ox.ac.uk/) at the University of Oxford.
