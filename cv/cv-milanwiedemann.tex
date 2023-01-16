@@ -1,0 +1,329 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+% \pagestyle{plain} % uncomment for page numbers
+\usepackage[left = 0.75in, top = 0.6in, right = 0.75in, bottom = 0.6in]{geometry} % Document margins
+\usepackage[small]{titlesec} % To change font of subheadings for publications
+\usepackage[T1]{fontenc} % currency signs pound
+\usepackage{eurosym} % currency signs euro
+\usepackage{hyperref} % hyperref for email and website
+
+% for numbered, max bib names in case you are way down the list of authors
+% check out bib files to see how to 
+% I like how nature looks!
+%\usepackage[backend = biber, sorting = none, maxbibnames = 99, doi = true, style = nature]{biblatex}
+
+
+
+% for numbered bib
+\usepackage[style = nature, maxbibnames=99, backend=biber, language = american, url=true, doi=true]{biblatex}
+\DeclareLanguageMapping{english}{american-apa}
+
+\addbibresource{publications.bib}
+\addbibresource{presentations.bib}
+
+\name{Milan Wiedemann}
+%\address{Wolfson College, Linton Road, OX2 6UD Oxford, UK} % Your address
+%\address{\href{mailto:milan.wiedemann@gmail.com}{milan.wiedemann@gmail.com}}
+
+% To add website uncomment this and comment out the above line
+\address{
+\href{mailto:milan.wiedemann@gmail.com}{milan.wiedemann@gmail.com} \\ 
+\href{http://www.milanwiedemann.com/}{www.milanwiedemann.com}
+}
+
+
+% Add option to have item-less subsections
+% Code from https://tex.stackexchange.com/questions/370390/in-the-resume-document-class-how-to-create-a-subsection-without-items/370429
+
+\newenvironment{rEmptySubsection}[4]{
+  %%%%%%%%%%%%%%%%%%%%%% Default Layout: %%%%%%%%%%%%%%%%%%%%%%%%
+  %%    Employer (bold)                     Dates (regular)    %%
+  %%    Title (emphasis)                Location (emphasis)    %%
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  {\bf #1}                 \hfill                  {    #2}% Stop a space
+  \ifthenelse{\equal{#3}{}}{}{
+  \\
+  {#3}                 \hfill                  {#4}% Stop a space
+  }
+  % empty
+}{
+}
+
+% Add bold names for bibs
+
+\def\makenamesetup{%
+  \def\bibnamedelima{~}%
+  \def\bibnamedelimb{ }%
+  \def\bibnamedelimc{ }%
+  \def\bibnamedelimd{ }%
+  \def\bibnamedelimi{ }%
+  \def\bibinitperiod{.}%
+  \def\bibinitdelim{~}%
+  \def\bibinithyphendelim{.-}}    
+\newcommand*{\makename}[2]{\begingroup\makenamesetup\xdef#1{#2}\endgroup}
+
+\newcommand*{\boldname}[3]{%
+  \def\lastname{#1}%
+  \def\firstname{#2}%
+  \def\firstinit{#3}}
+\boldname{}{}{}
+
+% Patch new definitions
+\renewcommand{\mkbibnamegiven}[1]{%
+  \ifboolexpr{ ( test {\ifdefequal{\firstname}{\namepartgiven}} or test {\ifdefequal{\firstinit}{\namepartgiven}} ) and test {\ifdefequal{\lastname}{\namepartfamily}} }
+  {\mkbibbold{#1}}{#1}%
+}
+
+\renewcommand{\mkbibnamefamily}[1]{%
+  \ifboolexpr{ ( test {\ifdefequal{\firstname}{\namepartgiven}} or test {\ifdefequal{\firstinit}{\namepartgiven}} ) and test {\ifdefequal{\lastname}{\namepartfamily}} }
+  {\mkbibbold{#1}}{#1}%
+}
+
+\boldname{Wiedemann}{Milan}{M.}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	PERSONAL SUMMARY
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Personal Summary}
+%I am a PhD candidate at the University of Oxford investigating processes of change in cognitive therapy for Posttraumatic Stress Disorder (PTSD).
+%Testing the theoretical models underpinning cognitive therapy for PTSD has strengthened my understanding of the importance that clinical interventions are rooted in empirical science and continually evaluated and refined through research.
+%I appreciate the importance of innovative research projects testing and evaluating technological advances in health care, particularly in clinical psychology.
+%I value, advocate, and implement open science practices in my work.
+%In addition to my research interests I am enjoying to contribute to open-source software tools that help to visualise and analyse data.
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education and Qualifications}
+
+{\bf DPhil in Experimental Psychology} \hfill {October 2016 - February 2021} \\ 
+University of Oxford, Oxford Centre for Anxiety Disorders and Trauma \smallskip \\
+Thesis: \href{https://ora.ox.ac.uk/objects/uuid:96ac1526-0405-4147-b071-2b3bb0e24802}{Processes of change in cognitive therapy for posttraumatic stress disorder}  \\
+Supervised by Prof. Anke Ehlers and Prof. David M. Clark \smallskip
+
+{\bf MSc in Psychology} \hfill {\ August 2013 - September 2015} \\ 
+Technische Universit{\"a}t Braunschweig \smallskip
+
+{\bf BSc in Psychology} \hfill {\ September 2010 - August 2013} \\ 
+Technische Universit{\"a}t Braunschweig \\
+University of Groningen \smallskip
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research Experience}
+
+\begin{rSubsection}{University of Oxford}{October 2021 - Present}{Data Scientist, Bennett Institute for Applied Data Science}{Oxford, UK}
+\item Developing technical solution to improve healthcare analytics
+\item Conducting clinical research using the OpenSAFELY platform
+\end{rSubsection}
+
+\begin{rSubsection}{Nottinghamshire Healthcare NHS Foundation Trust}{October 2020 - September 2021}{Data Scientist, Clinical Development Unit}{Nottingham, UK}
+\item Evaluating clinical outcomes and service use in routinely collected NHS patient data
+\item Developing open source tools to access, analyse, and visualise healthcare data using R and SQL
+\end{rSubsection}
+
+\begin{rSubsection}{University of Oxford}{October 2016 - October 2020}{Part-time Research Assistant, Oxford Centre for Anxiety Disorders and Trauma}{Oxford, UK}
+\item Creating videos for training clinical psychologists in specialised cognitive behavioural treatments
+\item Teaching and supervising Research Assistants in filming and editing techniques
+\end{rSubsection}
+
+\begin{rSubsection}{University of Oxford}{April 2015 - August 2016}{Research Assistant, Oxford Centre for Anxiety Disorders and Trauma}{Oxford, UK}
+\item Production of patient testimonials and educational videos
+\item Animation of educational illustrations for a newly developed internet program for treating PTSD
+\end{rSubsection}
+
+\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Part-time Research Assistant, Institute of Clinical Psychology}{Braunschweig, GER}
+\item Conducting clinical interviews with adolescents for a longitudinal study
+\item Setting up and managing large databases for national and international research teams
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TEACHING EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+% Add how many hours per week 
+
+\begin{rSection}{Teaching Experience}
+
+\begin{rSubsection}{University of Oxford}{Hilary Term 2020}{Tutor (8 weeks), Department of Experimental Psychology}{Oxford, UK}
+\item Module: Psychological Disorders and Individual Differences
+\end{rSubsection}
+
+\begin{rSubsection}{University of Oxford}{Hilary Term 2018}{Demonstrator (8 weeks), Department of Experimental Psychology}{Oxford, UK}
+\item Module: Psychological Disorders and Individual Differences
+\end{rSubsection}
+
+\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{April 2014 - March 2015}{Teaching Assistant, Institute of Clinical Psychology}{Braunschweig, GER}
+\item Module: Practical Course of Psychological Diagnostics
+\item Module: Fundamentals of Psychological Diagnostics
+\end{rSubsection}
+
+\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - January 2014}{Teaching Assistant, Institute of Methodology and Biopsychology}{Braunschweig, GER}
+\item Module: Laboratory Experience and Analysis with Statistical Software
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	ADDITIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Additional Experience}
+%
+%\begin{rSubsection}{Arbeiter-Samariter-Bund Braunschweig}{May 2010 - March 2015}{Part-time Paramedic (in German: Rettungssanit{\"a}ter)}{Braunschweig, GER}
+%\item Medical care during emergency and non-emergency patient transports
+%\end{rSubsection}
+%
+%\begin{rSubsection}{Arbeiter-Samariter-Bund Braunschweig}{July 2008 - March 2009}{Civilian Service (in German: Zivildienst)}{Braunschweig, GER}
+%\item Training as a `Paramedic' (in German: Rettungssanit{\"a}ter)
+%\item Medical care during emergency and non-emergency patient transports
+%\end{rSubsection}
+%
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Scholarships
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Scholarships}
+%
+%\begin{rEmptySubsection}{Mental Health Research UK}{May 2018}{Travel Grant}{}
+%\end{rEmptySubsection}
+%
+%\begin{rEmptySubsection}{Wolfson College, University of Oxford}{June 2017}{Travel Grant}{}
+%\end{rEmptySubsection}
+%
+%\begin{rEmptySubsection}{Mental Health Research UK}{October 2016}{4-year PhD Scholarship}{}
+%\end{rEmptySubsection}
+%
+%\begin{rEmptySubsection}{Erasmus plus}{February 2015}{Graduate Student Scholarship}{}
+%\end{rEmptySubsection}
+%
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Professional development
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Selected Professional Development}
+%
+%\begin{rEmptySubsection}{Berlin Oxford Teaching Alliance for Quantitative Neuroscience}{March 2019}{Bernstein Center for Computational Neuroscience Berlin, 2 days}{} 
+%\end{rEmptySubsection}
+%
+%\begin{rEmptySubsection}{Preparing for Teaching in Psychology}{March 2019}{University of Oxford, Department of Experimental Psychology, 1 day}{} 
+%\end{rEmptySubsection}
+%
+%\begin{rEmptySubsection}{DeGPT Autumn School}{October 2018}{Deutschsprachige Gesellschaft f{\"u}r Psychotraumatologie, 4 days}{} 
+%\end{rEmptySubsection}
+%
+%\begin{rEmptySubsection}{Psychological Networks Summer School}{August 2018}{University of Amsterdam, 5 days}{} 
+%\end{rEmptySubsection}
+%
+%\begin{rEmptySubsection}{Summer School of Advanced Quantitative Methods}{May 2018}{University of Oxford, Department of Education, 5 days}{} 
+%\end{rEmptySubsection}
+%
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Technical Strengths \& Other Skills}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Software engineering & R, Python, SQL, Git \\
+Scientific writing & R Markdown, Quarto, Zotero, LaTeX, BibTeX \\
+Video \& Audio editing & Final Cut X, iZotope RX \\
+Languages & German (native), English (fluent) \\
+%Driving licence &Clean category B \\
+\end{tabular}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% Publications & Presentations
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Publications}
+
+% Peer-reviewed
+\begin{refsection}
+\printbibliography[keyword={peer-reviewed},title={Peer-reviewed}]
+\nocite{Wiedememann2020}
+\nocite{R-paper-suddengains}
+\nocite{Beierl2021}
+\nocite{Kosir2020}
+\nocite{Kosir2019a}
+\nocite{Kosir2019b}
+\nocite{Wild2016}
+
+\end{refsection}
+
+% Preprint
+\begin{refsection}
+\printbibliography[keyword={preprint}, title={Preprints}]
+\nocite{R-paper-lcsm}
+\nocite{LorenzoLuaces2020}
+% Add preprints here
+\end{refsection}
+\end{rSection}
+
+\begin{rSection}{Open source software contributions}
+% Software
+\begin{refsection}
+\printbibliography[keyword={software}, title={R Packages}]
+
+\nocite{R-package-lcsm}
+\nocite{R-package-suddengains}
+
+\end{refsection}
+\end{rSection}
+
+% Presentations
+
+% If I dont want to make my name bold for conference presentations and talks uncomment harry potter
+% \boldname{Potter}{Harry}{H.}
+% \begin{rSection}{Presentations}
+
+% Conference presentations
+% \begin{refsection}
+% \printbibliography[keyword={conference-presentation}, title={Conference presentations}]
+% 
+% \nocite{Wiedemann2019c-WCBCT}
+% \nocite{Wiedemann2019b-WCBCT}
+% \nocite{Wiedemann2019a-WCBCT}
+% \nocite{Wiedemann2017-EABCT}
+
+% \end{refsection}
+
+% Invited talks
+% \begin{refsection}
+% \printbibliography[keyword={invited-presentation}, title={Talks}]
+% 
+% \nocite{Wiedemann2021-JGI}
+% \nocite{Wiedemann2020-RUGOX}
+% \nocite{Wiedemann2018-DeRubeis}
+% \nocite{Wiedemann2018-Groningen}
+% \nocite{Wiedemann2018-Exeter}
+% \nocite{Wiedemann2016-Berlin}
+% \nocite{Wiedemann2015-Berlin}
+% 
+% \end{refsection}
+% \end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
