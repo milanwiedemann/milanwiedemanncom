@@ -9,12 +9,22 @@
 \usepackage[T1]{fontenc} % currency signs pound
 \usepackage{eurosym} % currency signs euro
 \usepackage{hyperref} % hyperref for email and website
-
 % for numbered, max bib names in case you are way down the list of authors
 % check out bib files to see how to 
 % I like how nature looks!
 %\usepackage[backend = biber, sorting = none, maxbibnames = 99, doi = true, style = nature]{biblatex}
 
+
+
+% https://tex.stackexchange.com/questions/151217/remove-parentheses-for-empty-year-field-biblatex-ieee-style
+\usepackage{xpatch}
+\xpatchbibdriver{online}
+  {\printtext[parens]{\usebibmacro{date}}}
+  {\iffieldundef{year}
+    {}
+    {\printtext[parens]{\usebibmacro{date}}}}
+  {}
+  {\typeout{There was an error patching biblatex-ieee (specifically, ieee.bbx's @online driver)}}
 
 
 % for numbered bib
@@ -124,29 +134,24 @@ University of Groningen \smallskip
 
 \begin{rSection}{Research Experience}
 
-\begin{rSubsection}{University of Oxford}{October 2021 - Present}{Data Scientist, Bennett Institute for Applied Data Science}{Oxford, UK}
-\item Developing technical solution to improve healthcare analytics
-\item Conducting clinical research using the OpenSAFELY platform
+\begin{rSubsection}{University of Oxford}{October 2021 - Present}{Research Associate, Bennett Institute for Applied Data Science}{Oxford, UK}
+\item Developing technical solution in Python and R to improve healthcare analytics.
+\item Conducting clinical research using the OpenSAFELY platform.
 \end{rSubsection}
 
 \begin{rSubsection}{Nottinghamshire Healthcare NHS Foundation Trust}{October 2020 - September 2021}{Data Scientist, Clinical Development Unit}{Nottingham, UK}
-\item Evaluating clinical outcomes and service use in routinely collected NHS patient data
-\item Developing open source tools to access, analyse, and visualise healthcare data using R and SQL
+\item Evaluating clinical outcomes and service use in routinely collected NHS patient data.
+\item Developing open source tools to access, analyse, and visualise healthcare data using R and SQL.
 \end{rSubsection}
 
-\begin{rSubsection}{University of Oxford}{October 2016 - October 2020}{Part-time Research Assistant, Oxford Centre for Anxiety Disorders and Trauma}{Oxford, UK}
-\item Creating videos for training clinical psychologists in specialised cognitive behavioural treatments
-\item Teaching and supervising Research Assistants in filming and editing techniques
-\end{rSubsection}
-
-\begin{rSubsection}{University of Oxford}{April 2015 - August 2016}{Research Assistant, Oxford Centre for Anxiety Disorders and Trauma}{Oxford, UK}
-\item Production of patient testimonials and educational videos
-\item Animation of educational illustrations for a newly developed internet program for treating PTSD
+\begin{rSubsection}{University of Oxford}{April 2015 - October 2020}{Research Assistant, Oxford Centre for Anxiety Disorders and Trauma}{Oxford, UK}
+\item Creating videos for training clinical psychologists in specialised cognitive behavioural treatments.
+\item Production of patient testimonials and educational videos.
 \end{rSubsection}
 
 \begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Part-time Research Assistant, Institute of Clinical Psychology}{Braunschweig, GER}
-\item Conducting clinical interviews with adolescents for a longitudinal study
-\item Setting up and managing large databases for national and international research teams
+\item Conducting clinical interviews with adolescents for a longitudinal study.
+\item Setting up and managing large databases for national and international research teams.
 \end{rSubsection}
 
 \end{rSection}
@@ -159,21 +164,12 @@ University of Groningen \smallskip
 
 \begin{rSection}{Teaching Experience}
 
-\begin{rSubsection}{University of Oxford}{Hilary Term 2020}{Tutor (8 weeks), Department of Experimental Psychology}{Oxford, UK}
+\begin{rSubsection}{University of Oxford}{Hilary Terms 2018, 2020}{Tutor and Demonstrator, Department of Experimental Psychology}{Oxford, UK}
 \item Module: Psychological Disorders and Individual Differences
 \end{rSubsection}
 
-\begin{rSubsection}{University of Oxford}{Hilary Term 2018}{Demonstrator (8 weeks), Department of Experimental Psychology}{Oxford, UK}
-\item Module: Psychological Disorders and Individual Differences
-\end{rSubsection}
-
-\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{April 2014 - March 2015}{Teaching Assistant, Institute of Clinical Psychology}{Braunschweig, GER}
-\item Module: Practical Course of Psychological Diagnostics
-\item Module: Fundamentals of Psychological Diagnostics
-\end{rSubsection}
-
-\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - January 2014}{Teaching Assistant, Institute of Methodology and Biopsychology}{Braunschweig, GER}
-\item Module: Laboratory Experience and Analysis with Statistical Software
+\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Teaching Assistant, Institutes of Clinical Psychology and Methodology}{Braunschweig, GER}
+\item Modules: Practical Course of Psychological Diagnostics, Fundamentals of Psychological Diagnostics, Laboratory Experience and Analysis with Statistical Software
 \end{rSubsection}
 
 \end{rSection}
@@ -245,8 +241,8 @@ University of Groningen \smallskip
 \begin{rSection}{Technical Strengths \& Other Skills}
 
 \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-Software engineering & R, Python, SQL, Git \\
-Scientific writing & R Markdown, Quarto, Zotero, LaTeX, BibTeX \\
+Software developement & R, Python, SQL, Git \\
+% Scientific writing & R Markdown, Quarto, Zotero, LaTeX, BibTeX \\
 Video \& Audio editing & Final Cut X, iZotope RX \\
 Languages & German (native), English (fluent) \\
 %Driving licence &Clean category B \\
@@ -261,9 +257,11 @@ Languages & German (native), English (fluent) \\
 
 % Peer-reviewed
 \begin{refsection}
-\printbibliography[keyword={peer-reviewed},title={Peer-reviewed}]
-\nocite{Wiedememann2020}
+\printbibliography[keyword={peer-reviewed}, title={Peer-reviewed}]
+\nocite{R-paper-lcsm}
 \nocite{R-paper-suddengains}
+\nocite{Wiedememann2020}
+\nocite{Green2023}
 \nocite{Beierl2021}
 \nocite{Kosir2020}
 \nocite{Kosir2019a}
@@ -275,7 +273,9 @@ Languages & German (native), English (fluent) \\
 % Preprint
 \begin{refsection}
 \printbibliography[keyword={preprint}, title={Preprints}]
-\nocite{R-paper-lcsm}
+
+\nocite{Fisher2023}
+\nocite{Curtis2023}
 \nocite{LorenzoLuaces2020}
 % Add preprints here
 \end{refsection}
@@ -284,7 +284,7 @@ Languages & German (native), English (fluent) \\
 \begin{rSection}{Open source software contributions}
 % Software
 \begin{refsection}
-\printbibliography[keyword={software}, title={R Packages}]
+\printbibliography[keyword={r}, title={R Packages}]
 
 \nocite{R-package-lcsm}
 \nocite{R-package-suddengains}
