@@ -1,13 +1,14 @@
 # Fdb version 3
-["biber cv-milanwiedemann"] 1674379047 "cv-milanwiedemann.bcf" "cv-milanwiedemann.bbl" "cv-milanwiedemann" 1674379267
-  "cv-milanwiedemann.bcf" 1674379266 110026 b62aad2f3d893e63b7cf1cc2238eccf9 "pdflatex"
+["biber cv-milanwiedemann"] 1674379047 "cv-milanwiedemann.bcf" "cv-milanwiedemann.bbl" "cv-milanwiedemann" 1674381611
+  "cv-milanwiedemann.bcf" 1674381611 110026 b62aad2f3d893e63b7cf1cc2238eccf9 "pdflatex"
   "publications.bib" 1674373058 8318 1fa13aadf048a1982701e1bcbc0210e0 ""
   (generated)
   "cv-milanwiedemann.bbl"
   "cv-milanwiedemann.blg"
-["pdflatex"] 1674379266 "/Users/milanwiedemann/Code/milanwiedemann/milanwiedemann.com/cv/cv-milanwiedemann.tex" "cv-milanwiedemann.pdf" "cv-milanwiedemann" 1674379267
-  "/Users/milanwiedemann/Code/milanwiedemann/milanwiedemann.com/cv/cv-milanwiedemann.tex" 1674379263 13322 7545db138094d79d3277d493a9e8118b ""
+["pdflatex"] 1674381610 "/Users/milanwiedemann/Code/milanwiedemann/milanwiedemann.com/cv/cv-milanwiedemann.tex" "cv-milanwiedemann.pdf" "cv-milanwiedemann" 1674381611
+  "/Users/milanwiedemann/Code/milanwiedemann/milanwiedemann.com/cv/cv-milanwiedemann.tex" 1674381598 14075 f3dfb1103f07bdd970e87e187ec7fbab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm" 1136768653 3584 21b378cca2e40816b0e6d74a4dc98f04 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1136768653 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -25,6 +26,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1622837620 1380 b39147d6e404af58d6e49fb6d0a0daae ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb" 1215737283 154600 ea54091d31de803b613ba9e80ca51709 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1215737283 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
@@ -32,6 +34,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb" 1215737283 145929 f25e56369a345c4ff583b067cd87ce8e ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb" 1215737283 196446 8fbbe4b97b83e5182def6d29a44e57fb ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb" 1215737283 169670 48d12e69c9a3b23c81f6d703ccbd4554 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1622837620 203772 82039ef03d29e9367f3c76d0cf70d10c ""
   "/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -131,6 +134,10 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/eurosym/eurosym.sty" 1137110118 3028 8faeef64adee9b964b5e7f5e45921024 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.sty" 1622837620 1796 b613081fb73f572330a4c23f125aae34 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def" 1622837620 107888 1633cdc16ba7668f2631413ef15f922e ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty" 1622837620 7431 6f96168cb69798b45fb68c05af9b56b0 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd" 1622837620 1206 5d16718388a4c505809b7bb39e75cfc2 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1465944070 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -148,6 +155,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty" 1602274869 22521 d2fceb764a442a2001d257ef11db7618 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1644269979 29921 d0acc05a38bd4aa3af2017f0b7c137ce ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty" 1645736062 6107 e082261f9677386795d8bf6b6254fa9d ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1642022539 4674 ac560df2ef76ab2c406a4948a48f79f8 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1642022539 6758 7d9d899cbbfc962fbc4bb93f4c69eec2 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty" 1575499565 5766 13a9e8766c47f30327caf893ece86ac8 ""
@@ -176,11 +184,11 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1674327877 2826438 6b9d4e79b87cb8eeea034c51c45c120e ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "cv-milanwiedemann.aux" 1674379266 2948 dd6dd5d7e3af986c724549b8d25ad153 "pdflatex"
+  "cv-milanwiedemann.aux" 1674381611 2948 dd6dd5d7e3af986c724549b8d25ad153 "pdflatex"
   "cv-milanwiedemann.bbl" 1674379049 48187 fed683ac22da96b8f34f59b3eb41fa98 "biber cv-milanwiedemann"
   "cv-milanwiedemann.out" 0 -1 0 "pdflatex"
-  "cv-milanwiedemann.run.xml" 1674379266 2604 fe71b0916a331c83c7bea61f9ad23437 "pdflatex"
-  "cv-milanwiedemann.tex" 1674379263 13322 7545db138094d79d3277d493a9e8118b ""
+  "cv-milanwiedemann.run.xml" 1674381611 2604 fe71b0916a331c83c7bea61f9ad23437 "pdflatex"
+  "cv-milanwiedemann.tex" 1674381598 14075 f3dfb1103f07bdd970e87e187ec7fbab ""
   "resume.cls" 1674328847 4935 5615df96b29b1aa8079ccb368e70675b ""
   (generated)
   "cv-milanwiedemann.aux"

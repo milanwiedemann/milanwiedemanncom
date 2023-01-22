@@ -15,6 +15,7 @@
 %\usepackage[backend = biber, sorting = none, maxbibnames = 99, doi = true, style = nature]{biblatex}
 
 \usepackage{orcidlink}
+\usepackage{fontawesome5}
 
 % https://tex.stackexchange.com/questions/151217/remove-parentheses-for-empty-year-field-biblatex-ieee-style
 \usepackage{xpatch}
@@ -40,8 +41,9 @@
 
 % To add website uncomment this and comment out the above line
 \address{
-  \href{https://www.milanwiedemann.com/}{www.milanwiedemann.com} \\
-  \orcidlink{0000-0003-1991-282X} \href{https://orcid.org/0000-0003-1991-282X}{0000-0003-1991-282X}
+  % \href{https://milanwiedemann.com}{www.milanwiedemann.com} \\
+  \href{https://github.com/milanwiedemann}{\faGithub} \href{https://github.com/milanwiedemann}{github.com/milanwiedemann} \\
+  \orcidlink{0000-0003-1991-282X} \href{https://orcid.org/0000-0003-1991-282X}{orcid.org/0000-0003-1991-282X}
 }
 
 
@@ -114,19 +116,19 @@
 %	EDUCATION SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Education and Qualifications}
+\begin{rSection}{Education}
 
 {\bf DPhil in Experimental Psychology} \hfill {October 2016 - February 2021} \\ 
-University of Oxford, Oxford Centre for Anxiety Disorders and Trauma \smallskip \\
-Thesis: \href{https://ora.ox.ac.uk/objects/uuid:96ac1526-0405-4147-b071-2b3bb0e24802}{Processes of change in cognitive therapy for posttraumatic stress disorder}  \\
-Supervised by Prof. Anke Ehlers and Prof. David M. Clark \smallskip
+  \href{https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma}{University of Oxford, Oxford Centre for Anxiety Disorders and Trauma} \smallskip \\
+  Thesis: \href{https://ora.ox.ac.uk/objects/uuid:96ac1526-0405-4147-b071-2b3bb0e24802}{Processes of change in cognitive therapy for posttraumatic stress disorder}  \\
+  Supervised by Prof. Anke Ehlers and Prof. David M. Clark \smallskip
 
 {\bf MSc in Psychology} \hfill {\ August 2013 - September 2015} \\ 
-Technische Universit{\"a}t Braunschweig \smallskip
+  \href{https://www.tu-braunschweig.de/en}{Technische Universit{\"a}t Braunschweig} \\
 
 {\bf BSc in Psychology} \hfill {\ September 2010 - August 2013} \\ 
-Technische Universit{\"a}t Braunschweig \\
-University of Groningen \smallskip
+  \href{https://www.tu-braunschweig.de/en}{Technische Universit{\"a}t Braunschweig} \\
+  \href{https://www.rug.nl/?lang=en}{University of Groningen} \smallskip
 
 \end{rSection}
 
@@ -134,26 +136,26 @@ University of Groningen \smallskip
 %	RESEARCH EXPERIENCE
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Research Experience}
+\begin{rSection}{Employment}
 
-\begin{rSubsection}{University of Oxford}{October 2021 - Present}{Research Associate, Bennett Institute for Applied Data Science}{Oxford, UK}
-\item Developing technical solution in Python and R to improve healthcare analytics.
-\item Conducting clinical research using the OpenSAFELY platform.
+\begin{rSubsection}{University of Oxford}{October 2021 - Present}{Research Associate, \href{https://www.bennett.ox.ac.uk/}{Bennett Institute for Applied Data Science}}{Oxford, UK}
+  \item Developing technical solution using Python and SQL to improve healthcare analytics.
+  \item Conducting clinical research using the OpenSAFELY platform.
 \end{rSubsection}
 
-\begin{rSubsection}{Nottinghamshire Healthcare NHS Foundation Trust}{October 2020 - September 2021}{Data Scientist, Clinical Development Unit}{Nottingham, UK}
-\item Evaluating clinical outcomes and service use in routinely collected NHS patient data.
-\item Developing open source tools to access, analyse, and visualise healthcare data using R and SQL.
+\begin{rSubsection}{Nottinghamshire Healthcare NHS Foundation Trust}{October 2020 - September 2021}{Data Scientist, \href{https://www.nottinghamshirehealthcare.nhs.uk/}{Clinical Development Unit}}{Nottingham, UK}
+  \item Developing tools to access, analyse, and visualise healthcare data using R and SQL.
+  \item Evaluating clinical outcomes, health inequalities, patient experiences, and service use.
 \end{rSubsection}
 
-\begin{rSubsection}{University of Oxford}{April 2015 - October 2020}{Research Assistant, Oxford Centre for Anxiety Disorders and Trauma}{Oxford, UK}
-\item Creating videos for training clinical psychologists in specialised cognitive behavioural treatments.
-\item Production of patient testimonials and educational videos for a PTSD internet treatment program.
+\begin{rSubsection}{University of Oxford}{April 2015 - October 2020}{Research Assistant, \href{https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma}{Oxford Centre for Anxiety Disorders and Trauma}}{Oxford, UK}
+  \item Creating videos for training clinical psychologists in specialised cognitive behavioural treatments.
+  \item Producing patient testimonials and educational videos for a PTSD internet treatment program.
 \end{rSubsection}
 
-\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Part-time Research Assistant, Institute of Clinical Psychology}{Braunschweig, GER}
-\item Conducting clinical interviews with adolescents for a longitudinal study.
-\item Setting up and managing large databases for national and international research teams.
+\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Research Assistant, \href{https://www.tu-braunschweig.de/psychologie/klinische}{Institute of Clinical Psychology}}{Braunschweig, GER}
+  \item Conducting structured clinical interviews with adolescents for a longitudinal study.
+  \item Managing large databases for national and international research teams.
 \end{rSubsection}
 
 \end{rSection}
@@ -164,14 +166,14 @@ University of Groningen \smallskip
 
 % Add how many hours per week 
 
-\begin{rSection}{Teaching Experience}
+\begin{rSection}{Teaching}
 
-\begin{rSubsection}{University of Oxford}{Hilary Terms 2018, 2020}{Tutor and Demonstrator, Department of Experimental Psychology}{Oxford, UK}
-\item Module: Psychological Disorders and Individual Differences
+\begin{rSubsection}{University of Oxford}{Hilary Terms 2018, 2020}{Tutor and Demonstrator, \href{https://www.psy.ox.ac.uk/}{Department of Experimental Psychology}}{Oxford, UK}
+  \item Module: Psychological Disorders and Individual Differences
 \end{rSubsection}
 
-\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Teaching Assistant, Institutes of Clinical Psychology and Methodology}{Braunschweig, GER}
-\item Modules: Practical Course of Psychological Diagnostics, Fundamentals of Psychological Diagnostics, Laboratory Experience and Analysis with Statistical Software
+\begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Teaching Assistant, Institutes of \href{https://www.tu-braunschweig.de/psychologie/klinische}{Clinical Psychology} and \href{https://www.tu-braunschweig.de/psychologie/methoden}{Methodology}}{Braunschweig, GER}
+  \item Modules: Practical Course of Psychological Diagnostics, Fundamentals of Psychological Diagnostics, Laboratory Experience and Analysis with Statistical Software
 \end{rSubsection}
 
 \end{rSection}
@@ -240,21 +242,21 @@ University of Groningen \smallskip
 %	TECHNICAL STRENGTHS SECTION
 %----------------------------------------------------------------------------------------
 
-\begin{rSection}{Technical Strengths \& Other Skills}
+% \begin{rSection}{Technical Strengths \& Other Skills}
 
-\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-Software developement & R, Python, SQL, Git \\
-% Scientific writing & R Markdown, Quarto, Zotero, LaTeX, BibTeX \\
-Video \& Audio editing & Final Cut X, iZotope RX \\
-Languages & German (native), English (fluent) \\
-%Driving licence &Clean category B \\
-\end{tabular}
-\end{rSection}
+% \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+% Software developement & R, Python, SQL, Git \\
+% % Scientific writing & R Markdown, Quarto, Zotero, LaTeX, BibTeX \\
+% Video \& Audio editing & Final Cut X, iZotope RX \\
+% Languages & German (native), English (fluent) \\
+% %Driving licence &Clean category B \\
+% \end{tabular}
+% \end{rSection}
 
 %----------------------------------------------------------------------------------------
 % Publications & Presentations
 %----------------------------------------------------------------------------------------
-
+\newpage
 \begin{rSection}{Publications}
 
 % Peer-reviewed
