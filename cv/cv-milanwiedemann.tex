@@ -14,7 +14,7 @@
 % I like how nature looks!
 %\usepackage[backend = biber, sorting = none, maxbibnames = 99, doi = true, style = nature]{biblatex}
 
-
+\usepackage{orcidlink}
 
 % https://tex.stackexchange.com/questions/151217/remove-parentheses-for-empty-year-field-biblatex-ieee-style
 \usepackage{xpatch}
@@ -40,8 +40,8 @@
 
 % To add website uncomment this and comment out the above line
 \address{
-\href{mailto:milan.wiedemann@gmail.com}{milan.wiedemann@gmail.com} \\ 
-\href{http://www.milanwiedemann.com/}{www.milanwiedemann.com}
+  \href{https://www.milanwiedemann.com/}{www.milanwiedemann.com} \\
+  \orcidlink{0000-0003-1991-282X} \href{https://orcid.org/0000-0003-1991-282X}{0000-0003-1991-282X}
 }
 
 
@@ -93,6 +93,8 @@
 }
 
 \boldname{Wiedemann}{Milan}{M.}
+
+
 
 \begin{document}
 
