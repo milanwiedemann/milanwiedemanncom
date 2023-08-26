@@ -85,7 +85,6 @@
     </requires>
     <requires type="editable">
       <file>publications.bib</file>
-      <file>presentations.bib</file>
     </requires>
   </external>
 </requests>

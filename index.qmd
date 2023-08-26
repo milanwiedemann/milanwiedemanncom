@@ -5,5 +5,5 @@ about:
   image: profile.png
 ---
 
-I'm a data scientist and researcher working at the [Bennett Institute for Applied Data Science](https://www.bennett.ox.ac.uk/) at the University of Oxford.
-I enjoy developing tools that help to analyse clinical data and bring evidence into practice.
+I'm a researcher and health data scientist at the [Bennett Institute for Applied Data Science](https://www.bennett.ox.ac.uk/) at the University of Oxford.
+I enjoy developing open-source tools that help to analyse clinical data and bring evidence into practice.

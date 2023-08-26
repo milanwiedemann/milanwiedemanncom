@@ -1,0 +1,10 @@
+
+
+```{r}
+#| out-width: 100%
+#| out-height: 835px
+#| fig-align: center
+#| echo: false
+
+knitr::include_graphics(here::here("cv/cv-milanwiedemann.pdf"))
+```

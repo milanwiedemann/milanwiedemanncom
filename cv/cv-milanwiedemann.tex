@@ -33,7 +33,6 @@
 \DeclareLanguageMapping{english}{american-apa}
 
 \addbibresource{publications.bib}
-\addbibresource{presentations.bib}
 
 \name{Milan Wiedemann}
 %\address{Wolfson College, Linton Road, OX2 6UD Oxford, UK} % Your address
@@ -139,12 +138,12 @@
 \begin{rSection}{Employment}
 
 \begin{rSubsection}{University of Oxford}{October 2021 - Present}{Research Associate, \href{https://www.bennett.ox.ac.uk/}{Bennett Institute for Applied Data Science}}{Oxford, UK}
-  \item Developing technical solution using Python and SQL to improve healthcare analytics.
-  \item Conducting clinical research using the OpenSAFELY platform.
+  \item Developing software in Python to improve research with electronic health records.
+  \item Conducting research to evaluate quality of care indicators in the National Health Service.
 \end{rSubsection}
 
 \begin{rSubsection}{Nottinghamshire Healthcare NHS Foundation Trust}{October 2020 - September 2021}{Data Scientist, \href{https://www.nottinghamshirehealthcare.nhs.uk/}{Clinical Development Unit}}{Nottingham, UK}
-  \item Developing tools to access, analyse, and visualise healthcare data using R and SQL.
+  \item Developing R packages to access, analyse, and visualise healthcare data.
   \item Evaluating clinical outcomes, health inequalities, patient experiences, and service use.
 \end{rSubsection}
 
@@ -154,8 +153,8 @@
 \end{rSubsection}
 
 \begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Research Assistant, \href{https://www.tu-braunschweig.de/psychologie/klinische}{Institute of Clinical Psychology}}{Braunschweig, GER}
-  \item Conducting structured clinical interviews with adolescents for a longitudinal study.
-  \item Managing large databases for national and international research teams.
+  \item Conducting clinical interviews with adolescents for a longitudinal study.
+  \item Managing large clinical databases for research teams.
 \end{rSubsection}
 
 \end{rSection}
@@ -265,6 +264,7 @@
 \nocite{R-paper-lcsm}
 \nocite{R-paper-suddengains}
 \nocite{Wiedememann2020}
+\nocite{Curtis2023}
 \nocite{Green2023}
 \nocite{Beierl2021}
 \nocite{Kosir2020}
@@ -277,9 +277,9 @@
 % Preprint
 \begin{refsection}
 \printbibliography[keyword={preprint}, title={Preprints}]
-
+\nocite{Wiedemann2023}
+\nocite{Hulme2022}
 \nocite{Fisher2023}
-\nocite{Curtis2023}
 \nocite{LorenzoLuaces2020}
 % Add preprints here
 \end{refsection}
@@ -288,46 +288,16 @@
 \begin{rSection}{Open source software contributions}
 % Software
 \begin{refsection}
-\printbibliography[keyword={r}, title={R Packages}]
+\printbibliography[keyword={r}, title={R}]
 
-\nocite{R-package-lcsm}
-\nocite{R-package-suddengains}
+\nocite{milanwiedemann-lcsm}
+\nocite{milanwiedemann-suddengains}
+
+\printbibliography[keyword={python}, title={Python}]
+
+\nocite{opensafely-core-ehrql}
 
 \end{refsection}
 \end{rSection}
-
-% Presentations
-
-% If I dont want to make my name bold for conference presentations and talks uncomment harry potter
-% \boldname{Potter}{Harry}{H.}
-% \begin{rSection}{Presentations}
-
-% Conference presentations
-% \begin{refsection}
-% \printbibliography[keyword={conference-presentation}, title={Conference presentations}]
-% 
-% \nocite{Wiedemann2019c-WCBCT}
-% \nocite{Wiedemann2019b-WCBCT}
-% \nocite{Wiedemann2019a-WCBCT}
-% \nocite{Wiedemann2017-EABCT}
-
-% \end{refsection}
-
-% Invited talks
-% \begin{refsection}
-% \printbibliography[keyword={invited-presentation}, title={Talks}]
-% 
-% \nocite{Wiedemann2021-JGI}
-% \nocite{Wiedemann2020-RUGOX}
-% \nocite{Wiedemann2018-DeRubeis}
-% \nocite{Wiedemann2018-Groningen}
-% \nocite{Wiedemann2018-Exeter}
-% \nocite{Wiedemann2016-Berlin}
-% \nocite{Wiedemann2015-Berlin}
-% 
-% \end{refsection}
-% \end{rSection}
-
-%----------------------------------------------------------------------------------------
 
 \end{document}

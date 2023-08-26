@@ -2347,34 +2347,34 @@
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex" glob="false">publications.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">presentations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
   </bcf:section>
   <!-- SECTION 1 -->
   <bcf:bibdata section="1">
     <bcf:datasource type="file" datatype="bibtex" glob="false">publications.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">presentations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="1">
     <bcf:citekey order="1" nocite="1">R-paper-lcsm</bcf:citekey>
     <bcf:citekey order="2" nocite="1">R-paper-suddengains</bcf:citekey>
     <bcf:citekey order="3" nocite="1">Wiedememann2020</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">Green2023</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">Beierl2021</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">Kosir2020</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">Kosir2019a</bcf:citekey>
-    <bcf:citekey order="8" nocite="1">Kosir2019b</bcf:citekey>
-    <bcf:citekey order="9" nocite="1">Wild2016</bcf:citekey>
-    <bcf:citekey order="10">R-paper-lcsm</bcf:citekey>
-    <bcf:citekey order="11">R-paper-suddengains</bcf:citekey>
-    <bcf:citekey order="12">Wiedememann2020</bcf:citekey>
-    <bcf:citekey order="13">Green2023</bcf:citekey>
-    <bcf:citekey order="14">Beierl2021</bcf:citekey>
-    <bcf:citekey order="15">Kosir2020</bcf:citekey>
-    <bcf:citekey order="16">Kosir2019a</bcf:citekey>
-    <bcf:citekey order="17">Kosir2019b</bcf:citekey>
-    <bcf:citekey order="18">Wild2016</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">Curtis2023</bcf:citekey>
+    <bcf:citekey order="5" nocite="1">Green2023</bcf:citekey>
+    <bcf:citekey order="6" nocite="1">Beierl2021</bcf:citekey>
+    <bcf:citekey order="7" nocite="1">Kosir2020</bcf:citekey>
+    <bcf:citekey order="8" nocite="1">Kosir2019a</bcf:citekey>
+    <bcf:citekey order="9" nocite="1">Kosir2019b</bcf:citekey>
+    <bcf:citekey order="10" nocite="1">Wild2016</bcf:citekey>
+    <bcf:citekey order="11">R-paper-lcsm</bcf:citekey>
+    <bcf:citekey order="12">R-paper-suddengains</bcf:citekey>
+    <bcf:citekey order="13">Wiedememann2020</bcf:citekey>
+    <bcf:citekey order="14">Curtis2023</bcf:citekey>
+    <bcf:citekey order="15">Green2023</bcf:citekey>
+    <bcf:citekey order="16">Beierl2021</bcf:citekey>
+    <bcf:citekey order="17">Kosir2020</bcf:citekey>
+    <bcf:citekey order="18">Kosir2019a</bcf:citekey>
+    <bcf:citekey order="19">Kosir2019b</bcf:citekey>
+    <bcf:citekey order="20">Wild2016</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2382,15 +2382,16 @@
   <!-- SECTION 2 -->
   <bcf:bibdata section="2">
     <bcf:datasource type="file" datatype="bibtex" glob="false">publications.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">presentations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="2">
-    <bcf:citekey order="1" nocite="1">Fisher2023</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">Curtis2023</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">LorenzoLuaces2020</bcf:citekey>
-    <bcf:citekey order="4">Fisher2023</bcf:citekey>
-    <bcf:citekey order="5">Curtis2023</bcf:citekey>
-    <bcf:citekey order="6">LorenzoLuaces2020</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">Wiedemann2023</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">Hulme2022</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">Fisher2023</bcf:citekey>
+    <bcf:citekey order="4" nocite="1">LorenzoLuaces2020</bcf:citekey>
+    <bcf:citekey order="5">Wiedemann2023</bcf:citekey>
+    <bcf:citekey order="6">Hulme2022</bcf:citekey>
+    <bcf:citekey order="7">Fisher2023</bcf:citekey>
+    <bcf:citekey order="8">LorenzoLuaces2020</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
@@ -2398,13 +2399,14 @@
   <!-- SECTION 3 -->
   <bcf:bibdata section="3">
     <bcf:datasource type="file" datatype="bibtex" glob="false">publications.bib</bcf:datasource>
-    <bcf:datasource type="file" datatype="bibtex" glob="false">presentations.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="3">
-    <bcf:citekey order="1" nocite="1">R-package-lcsm</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">R-package-suddengains</bcf:citekey>
-    <bcf:citekey order="3">R-package-lcsm</bcf:citekey>
-    <bcf:citekey order="4">R-package-suddengains</bcf:citekey>
+    <bcf:citekey order="1" nocite="1">milanwiedemann-lcsm</bcf:citekey>
+    <bcf:citekey order="2" nocite="1">milanwiedemann-suddengains</bcf:citekey>
+    <bcf:citekey order="3" nocite="1">opensafely-core-ehrql</bcf:citekey>
+    <bcf:citekey order="4">milanwiedemann-lcsm</bcf:citekey>
+    <bcf:citekey order="5">milanwiedemann-suddengains</bcf:citekey>
+    <bcf:citekey order="6">opensafely-core-ehrql</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">

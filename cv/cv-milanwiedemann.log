@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.21)  22 JAN 2023 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.28)  26 AUG 2023 17:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -668,24 +668,24 @@ Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
  (./cv-milanwiedemann.aux)
 \openout1 = `cv-milanwiedemann.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
-LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -721,7 +721,7 @@ LaTeX Font Info:    ... okay on input line 101.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 101.
+Package hyperref Info: Link coloring OFF on input line 100.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -731,9 +731,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count429
 )
-LaTeX Info: Redefining \ref on input line 101.
-LaTeX Info: Redefining \pageref on input line 101.
-LaTeX Info: Redefining \nameref on input line 101.
+LaTeX Info: Redefining \ref on input line 100.
+LaTeX Info: Redefining \pageref on input line 100.
+LaTeX Info: Redefining \nameref on input line 100.
  (./cv-milanwiedemann.out) (./cv-milanwiedemann.out)
 \@outlinefile=\write5
 \openout5 = `cv-milanwiedemann.out'.
@@ -795,25 +795,25 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv-milanwiedemann.bbl' found.
  (./cv-milanwiedemann.bbl)
-Package biblatex Info: Reference section=0 on input line 101.
-Package biblatex Info: Reference segment=0 on input line 101.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 101.
+Package biblatex Info: Reference section=0 on input line 100.
+Package biblatex Info: Reference segment=0 on input line 100.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 100.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 101.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 100.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 101.
+(Font)              <10.95> on input line 100.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 101.
+(Font)              <8> on input line 100.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 101.
+(Font)              <6> on input line 100.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 101--101
+Overfull \hbox (30.0pt too wide) in paragraph at lines 100--100
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--128
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
@@ -822,8 +822,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--128
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 \c@blx@maxsegment@1=\count436
 \c@blx@sectionciteorder@1=\count437
-Package biblatex Info: Reference section=1 on input line 263.
-Package biblatex Info: Setting label 'refsection:1' on input line 263.
+Package biblatex Info: Reference section=1 on input line 262.
+Package biblatex Info: Setting label 'refsection:1' on input line 262.
 
 
 Package biblatex Warning: Split bibliography detected.
@@ -834,7 +834,7 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                This warning can be suppressed with
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 264.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 263.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -869,7 +869,21 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                This warning can be suppressed with
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
 
-Package biblatex Info: Reference section=0 on input line 296.
+
+Overfull \hbox (4.02007pt too wide) in paragraph at lines 291--291
+[]\T1/cmr/m/it/10.95 suddengains: An R pack-age to iden-tify sud-den gains in lon-gi-tu-di-nal data. []$\T1/cmtt/m/n/10.95 https : / / milanwiedemann .
+ []
+
+
+Package biblatex Warning: Split bibliography detected.
+(biblatex)                Many simple split bibliography setups with
+(biblatex)                non-overlapping bibliographies benefit from
+(biblatex)                setting 'defernumbers=true'.
+(biblatex)                See the documentation for details.
+(biblatex)                This warning can be suppressed with
+(biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
+
+Package biblatex Info: Reference section=0 on input line 300.
 [3] (./cv-milanwiedemann.aux)
 Package rerunfilecheck Info: File `cv-milanwiedemann.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -878,18 +892,18 @@ Package logreq Info: Writing requests to 'cv-milanwiedemann.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31478 strings out of 478268
- 618918 string characters out of 5846347
- 1279968 words of memory out of 5000000
- 49233 multiletter control sequences out of 15000+600000
+ 31486 strings out of 478268
+ 619305 string characters out of 5846347
+ 1280804 words of memory out of 5000000
+ 49238 multiletter control sequences out of 15000+600000
  477200 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  115i,7n,118p,1270b,3122s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on cv-milanwiedemann.pdf (3 pages, 166402 bytes).
+Output written on cv-milanwiedemann.pdf (3 pages, 170057 bytes).
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
+ 130 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
