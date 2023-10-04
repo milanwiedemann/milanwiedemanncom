@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -19,6 +19,69 @@
 
 \refsection{1}
   \datalist[entry]{none/global//global/global}
+    \entry{Wiedemann2023a}{article}{}
+      \name{author}{8}{}{%
+        {{hash=79f9418865efd4fd17e103c064d27f75}{%
+           family={Wiedemann},
+           familyi={W\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a118b4793c5641b1e946d38af613b239}{%
+           family={Janecka},
+           familyi={J\bibinitperiod},
+           given={Magdalena},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7e5cf9fe472bd818274305476b47fa4d}{%
+           family={Wild},
+           familyi={W\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b39dc3c9475c02945a9ad1902f35e36b}{%
+           family={Warnock-Parkes},
+           familyi={W\bibinithyphendelim P\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e9938bc7ed0062aaf4adbad5165e33a4}{%
+           family={Stott},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bea2d80afbb3be06b895963f78cc94a5}{%
+           family={Grey},
+           familyi={G\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+        {{hash=2179119bab518000106ec195787ba288}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={David\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=640c23b29f9ef4863a21dc16f08199c8}{%
+           family={Ehlers},
+           familyi={E\bibinitperiod},
+           given={Anke},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{be93e0fa795c4b18d01aa5535c5d4a67}
+      \strng{fullhash}{2815f530878e7a8d97d155b3a30078cf}
+      \strng{bibnamehash}{2815f530878e7a8d97d155b3a30078cf}
+      \strng{authorbibnamehash}{2815f530878e7a8d97d155b3a30078cf}
+      \strng{authornamehash}{be93e0fa795c4b18d01aa5535c5d4a67}
+      \strng{authorfullhash}{2815f530878e7a8d97d155b3a30078cf}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Behaviour Research and Therapy}
+      \field{title}{Changes in cognitive processes and coping strategies precede changes in symptoms during cognitive therapy for posttraumatic stress disorder}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1016/j.brat.2023.104407
+      \endverb
+      \keyw{peer-reviewed}
+    \endentry
     \entry{R-paper-lcsm}{article}{}
       \name{author}{4}{}{%
         {{hash=79f9418865efd4fd17e103c064d27f75}{%
@@ -48,14 +111,15 @@
       \strng{authorbibnamehash}{871fa8db48d937e49bb5e8395cbf6df9}
       \strng{authornamehash}{be93e0fa795c4b18d01aa5535c5d4a67}
       \strng{authorfullhash}{871fa8db48d937e49bb5e8395cbf6df9}
-      \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{{Wellcome} {Open} {Research}}
       \field{title}{{lcsm}: {An} {R} package and tutorial on latent change score modelling}
       \field{year}{2022}
+      \true{nocite}
       \verb{doi}
       \verb https://doi.org/10.12688/wellcomeopenres.17536.1
       \endverb
@@ -90,14 +154,15 @@
       \strng{authorbibnamehash}{70ef2a1e394332ad755bf4232c33ea8c}
       \strng{authornamehash}{be93e0fa795c4b18d01aa5535c5d4a67}
       \strng{authorfullhash}{70ef2a1e394332ad755bf4232c33ea8c}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{{PLOS} {ONE}}
       \field{title}{{suddengains}: {An} {R} package to identify sudden gains in longitudinal data}
       \field{year}{2020}
+      \true{nocite}
       \verb{doi}
       \verb 10.1371/journal.pone.0230276
       \endverb
@@ -157,14 +222,15 @@
       \strng{authorbibnamehash}{80a976f6d03246eba270011260019187}
       \strng{authornamehash}{be93e0fa795c4b18d01aa5535c5d4a67}
       \strng{authorfullhash}{80a976f6d03246eba270011260019187}
-      \field{extraname}{3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extraname}{4}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Consulting and Clinical Psychology}
       \field{title}{Cognitive processes associated with sudden gains in cognitive therapy for posttraumatic stress disorder in routine care}
       \field{year}{2020}
+      \true{nocite}
       \verb{doi}
       \verb 10.1037/ccp0000488
       \endverb
@@ -339,13 +405,14 @@
       \strng{authorbibnamehash}{aa064c1fb54be707e0cfdb1e3eba7a80}
       \strng{authornamehash}{c0c4a976407ff7d1d322abcebf7de33e}
       \strng{authorfullhash}{aa064c1fb54be707e0cfdb1e3eba7a80}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{British Journal of General Practice}
       \field{title}{OpenSAFELY NHS Service Restoration Observatory 2: changes in primary care activity across six clinical areas during the COVID-19 pandemic}
       \field{year}{2022}
+      \true{nocite}
       \verb{doi}
       \verb 10.3399/BJGP.2022.0301
       \endverb
@@ -573,8 +640,8 @@
       \strng{authorbibnamehash}{d9067edc4cb60625093a0a5db85501ca}
       \strng{authornamehash}{31ba6d62ba3b3b73133814e21305804b}
       \strng{authorfullhash}{d9067edc4cb60625093a0a5db85501ca}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{BMJ Medicine}
@@ -582,6 +649,7 @@
       \field{title}{Trends, variation, and clinical characteristics of recipients of antiviral drugs and neutralising monoclonal antibodies for covid-19 in community settings: retrospective, descriptive cohort study of 23.4 million people in OpenSAFELY}
       \field{volume}{2}
       \field{year}{2023}
+      \true{nocite}
       \verb{doi}
       \verb 10.1136/bmjmed-2022-000276
       \endverb
@@ -644,14 +712,15 @@
       \strng{authorbibnamehash}{c30274376e9b9d6b831fce8d8550df5c}
       \strng{authornamehash}{93a23830ec57d1d0eeda4082341f9c59}
       \strng{authorfullhash}{c30274376e9b9d6b831fce8d8550df5c}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Frontiers in Psychiatry}
       \field{title}{The relationship between working alliance and symptom improvement in cognitive therapy for posttraumatic stress disorder}
       \field{volume}{12}
       \field{year}{2021}
+      \true{nocite}
       \verb{doi}
       \verb 10.3389/fpsyt.2021.602648
       \endverb
@@ -702,13 +771,14 @@
       \strng{authornamehash}{2d4c57939b1db8d6d136a5fd4c42360f}
       \strng{authorfullhash}{cbab87301b664a391dc03b5e782b0bf6}
       \field{extraname}{1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cancer}
       \field{title}{What was the impact of COVID-19 on Adolescent and Young Adult cancer care and their wellbeing? Results from a cross-sectional online survey conducted in the early stages of the pandemic}
       \field{year}{2020}
+      \true{nocite}
       \verb{doi}
       \verb 10.1002/cncr.33098
       \endverb
@@ -744,14 +814,15 @@
       \strng{authornamehash}{2d4c57939b1db8d6d136a5fd4c42360f}
       \strng{authorfullhash}{6bee26f25242c0cee39b37d277ece4dd}
       \field{extraname}{2}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cancer Reports}
       \field{title}{Psychiatric disorders in adolescent cancer survivors: {A} systematic review of prevalence and predictors}
       \field{year}{2019}
       \field{dateera}{ce}
+      \true{nocite}
       \field{pages}{e1168}
       \range{pages}{-1}
       \verb{doi}
@@ -789,14 +860,15 @@
       \strng{authornamehash}{2d4c57939b1db8d6d136a5fd4c42360f}
       \strng{authorfullhash}{6bee26f25242c0cee39b37d277ece4dd}
       \field{extraname}{3}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Adolescent and Young Adult Oncology}
       \field{title}{Cognitive Mechanisms in Adolescent and Young Adult Cancer Patients and Survivors: Feasibility and Preliminary Insights from the Cognitions and Affect in Cancer Resiliency Study}
       \field{year}{2019}
       \field{dateera}{ce}
+      \true{nocite}
       \verb{doi}
       \verb 10.1089/jayao.2019.0127
       \endverb
@@ -876,6 +948,7 @@
       \field{volume}{7}
       \field{year}{2016}
       \field{dateera}{ce}
+      \true{nocite}
       \verb{doi}
       \verb 10.3402/ejpt.v7.31019
       \endverb
@@ -1079,6 +1152,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Impact of COVID-19 on recorded blood pressure screening and hypertension management in England: An analysis of monthly changes in Quality and Outcomes Framework indicators in OpenSAFELY}
       \field{year}{2023}
+      \true{nocite}
       \verb{doi}
       \verb 10.1101/2023.07.20.23292883
       \endverb
@@ -1322,6 +1396,7 @@
       \field{labeltitlesource}{title}
       \field{title}{Effectiveness of BNT162b2 booster doses in England: an observational study in OpenSAFELY-TPP}
       \field{year}{2022}
+      \true{nocite}
       \verb{doi}
       \verb 10.1101/2022.06.06.22276026
       \endverb
@@ -1583,6 +1658,7 @@
       \field{journaltitle}{medRxiv}
       \field{title}{Eleven key measures for monitoring general practice clinical activity during COVID-19 using federated analytics on 48 million adults’ primary care records through OpenSAFELY}
       \field{year}{2022}
+      \true{nocite}
       \verb{doi}
       \verb 10.1101/2022.10.17.22281058
       \endverb
@@ -1627,6 +1703,7 @@
       \field{journaltitle}{PsyArXiv}
       \field{title}{A permutation test to probe the statistical significance of sudden gain frequency: An application to patterns of change in cognitive and interpersonal therapy for depression}
       \field{year}{2020}
+      \true{nocite}
       \verb{doi}
       \verb 10.31234/osf.io/jbzw3
       \endverb
@@ -1642,6 +1719,7 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{title}{{lcsm}: {An} {R} package and tutorial on latent change score modelling.}
+      \true{nocite}
       \verb{urlraw}
       \verb https://milanwiedemann.github.io/lcsm/
       \endverb
@@ -1655,6 +1733,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{title}{{suddengains}: {An} {R} package to identify sudden gains in longitudinal data.}
+      \true{nocite}
       \verb{urlraw}
       \verb https://milanwiedemann.github.io/suddengains
       \endverb
@@ -1667,7 +1746,8 @@
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
-      \field{title}{{ehrQL}: An electronic health records query language and command line interface.}
+      \field{title}{{ehrQL}: An electronic health records query language.}
+      \true{nocite}
       \verb{urlraw}
       \verb https://github.com/opensafely-core/ehrql/
       \endverb
