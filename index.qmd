@@ -1,9 +1,23 @@
 ---
 title: "Milan Wiedemann"
+image: profile.png
 about:
-  template: jolla
-  image: profile.png
+  image-width: 70%
+  template: trestles
+  links:
+    - icon: github
+      text: ""
+      href: https://github.com/milanwiedemann
+    - icon: mastodon
+      text: ""
+      href: https://fosstodon.org/@milanwiedemann
+    - icon: google
+      text: ""
+      href: https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en
 ---
 
 I'm a researcher and health data scientist at the [Bennett Institute for Applied Data Science](https://www.bennett.ox.ac.uk/) at the University of Oxford.
-I enjoy developing open-source tools that help to analyse clinical data and bring evidence into practice.
+I enjoy developing tools in R and Python that help to analyse clinical data and bring evidence into practice:
+
+- [*ehrQL*](https://github.com/opensafely-core/ehrql) is a query language written in Python that our team designed to make it easy to work with electronic health records
+- [*suddengains*](https://milanwiedemann.github.io/suddengains/) and [*lcsm*](https://milanwiedemann.github.io/lcsm/) are R packages that my colleagues and I developed to understand changes in clinical measures during psychological therapy
