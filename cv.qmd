@@ -1,10 +1,35 @@
+---
+nocite: |
+  @Wiedemann2023a, @Wiedemann2023, @Curtis2023, @Fisher2023,
+  @Hulme2022,
+  @Wiedemann2022, @Beierl2021,
+  @Wiedemann2020, @Wiedemann2020a,
+  @LorenzoLuaces2020, @Kosir2020,
+  @Kosir2019a, @Kosir2019b,
+  @Wild2016
+bibliography: publications.bib
+csl: nature-no-et-al.csl  
+---
 
+## Education
 
-```{r}
-#| out-width: 100%
-#| out-height: 835px
-#| fig-align: center
-#| echo: false
+**DPhil in Experimental Psychology**, University of Oxford, *Oct 2016 -- Feb 2021*
 
-knitr::include_graphics(here::here("cv/cv-milanwiedemann.pdf"))
-```
+**MSc in Psychology**, Technische Universität Braunschweig, *Aug 2013 -- Sep 2015*
+
+**BSc in Psychology**, Technische Universität Braunschweig, *Sep 2010 -- Aug 2013*
+
+## Experience
+
+Researcher, Bennett Institute for Applied Data Science, University of Oxford, *Oct 2021 -- present*
+
+Data Scientist, Nottinghamshire Healthcare NHS Foundation Trust, *Oct 2020 -- Sep 2021*
+
+Tutor / Demonstrator, Department of Experimental Psychology, University of Oxford, *Hilary Terms 2018, 2020*
+
+Researche Assistant, University of Oxford, OxCADAT, *Apr 2015 -- Oct 2020*
+
+## Publications
+
+::: {#refs}
+:::
