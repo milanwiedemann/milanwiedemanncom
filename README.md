@@ -1,3 +1,1 @@
 # milanwiedemann.com
-
-Personal website
