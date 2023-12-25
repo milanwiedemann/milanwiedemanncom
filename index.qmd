@@ -17,7 +17,7 @@ about:
 ---
 
 I'm a researcher at the [Bennett Institute for Applied Data Science](https://www.bennett.ox.ac.uk/) at the University of Oxford.
-I enjoy developing tools that make it easier and more fun to work with clinical data and bring evidence into practice:
+I enjoy developing tools that make it easier and more fun to work with clinical data:
 
 - [*suddengains*](https://milanwiedemann.github.io/suddengains/) and [*lcsm*](https://milanwiedemann.github.io/lcsm/) are R packages that my colleagues and I developed to understand changes in clinical measures during psychological therapy
 - [*ehrQL*](https://github.com/opensafely-core/ehrql) is a query language written in Python that our team designed to make it easy to work with electronic health records
