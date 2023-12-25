@@ -1,35 +1,18 @@
----
-nocite: |
-  @Wiedemann2023a, @Wiedemann2023, @Curtis2023, @Fisher2023,
-  @Hulme2022,
-  @Wiedemann2022, @Beierl2021,
-  @Wiedemann2020, @Wiedemann2020a,
-  @LorenzoLuaces2020, @Kosir2020,
-  @Kosir2019a, @Kosir2019b,
-  @Wild2016
-bibliography: publications.bib
-csl: nature-no-et-al.csl  
----
-
 ## Education
 
-**DPhil in Experimental Psychology**, University of Oxford, *Oct 2016 -- Feb 2021*
+**DPhil in Experimental Psychology**, [University of Oxford](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma), *Oct 2016 -- Feb 2021*
 
-**MSc in Psychology**, Technische Universität Braunschweig, *Aug 2013 -- Sep 2015*
+**MSc in Psychology**, [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/), *Aug 2013 -- Sep 2015*
 
-**BSc in Psychology**, Technische Universität Braunschweig, *Sep 2010 -- Aug 2013*
+**BSc in Psychology**, [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/), *Sep 2010 -- Aug 2013*
 
 ## Experience
 
-Researcher, Bennett Institute for Applied Data Science, University of Oxford, *Oct 2021 -- present*
+**Researcher & Software Developer**, [Bennett Institute for Applied Data Science](https://www.bennett.ox.ac.uk/), University of Oxford, *Oct 2021 - * 🚀
 
-Data Scientist, Nottinghamshire Healthcare NHS Foundation Trust, *Oct 2020 -- Sep 2021*
+**Data Scientist**, [Nottinghamshire Healthcare NHS Foundation Trust](https://www.nottinghamshirehealthcare.nhs.uk/), *Oct 2020 -- Sep 2021*
 
-Tutor / Demonstrator, Department of Experimental Psychology, University of Oxford, *Hilary Terms 2018, 2020*
+**Tutor / Demonstrator**, [Department of Experimental Psychology](https://www.psy.ox.ac.uk/), University of Oxford, *Hilary Terms 2018, 2020*
 
-Researche Assistant, University of Oxford, OxCADAT, *Apr 2015 -- Oct 2020*
+**Researche Assistant**, [University of Oxford, OxCADAT](https://www.psy.ox.ac.uk/research/oxford-centre-for-anxiety-disorders-and-trauma), *Apr 2015 -- Oct 2020*
 
-## Publications
-
-::: {#refs}
-:::
