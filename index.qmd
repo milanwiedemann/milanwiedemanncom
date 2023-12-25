@@ -23,4 +23,4 @@ I enjoy developing tools that make it easier and more fun to work with clinical 
 - [*ehrQL*](https://github.com/opensafely-core/ehrql) is a query language written in Python that our team designed to make it easy to work with electronic health records
 
 
-My work involves using these tools to study changes in cognitive and behavioural measures during psychological therapies ^[1](https://doi.org/10.1016/j.brat.2023.104407)^ ^[2](https://doi.org/10.1037/ccp0000488)^ and to analyse and evaluate quality of care indicators ^[3](https://www.medrxiv.org/content/10.1101/2023.07.20.23292883v2)^.
+My work involves using these tools to study changes in clinical measures during psychological therapies ^[1](https://doi.org/10.1016/j.brat.2023.104407)^ ^[2](https://doi.org/10.1037/ccp0000488)^ and to evaluate the quality of clinical care using electronic health records ^[3](https://www.medrxiv.org/content/10.1101/2023.07.20.23292883v2)^.
