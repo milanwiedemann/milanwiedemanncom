@@ -18,13 +18,13 @@
     "href": "cv.html#education",
     "title": "",
     "section": "Education",
-    "text": "Education\nDPhil in Experimental Psychology, University of Oxford, Oct 2016 – Feb 2021\nMSc in Psychology, Technische Universität Braunschweig, Aug 2013 – Sep 2015\nBSc in Psychology, Technische Universität Braunschweig, Sep 2010 – Aug 2013\n\nAacademic CV"
+    "text": "Education\nDPhil in Experimental Psychology, University of Oxford, Oct 2016 – Feb 2021\nMSc in Psychology, Technische Universität Braunschweig, Aug 2013 – Sep 2015\nBSc in Psychology, Technische Universität Braunschweig, Sep 2010 – Aug 2013"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Milan Wiedemann",
     "section": "",
-    "text": "I’m a researcher at the Bennett Institute for Applied Data Science at the University of Oxford. I enjoy developing tools that make it easier and more fun to work with clinical data:\n\nsuddengains and lcsm are R packages that my colleagues and I developed to understand changes in clinical measures during psychological therapy\nehrQL is a query language written in Python that our team designed to make it easy to work with electronic health records\n\nMy work involves using these tools to study changes in clinical measures during psychological therapies 1 2 and to evaluate the quality of clinical care using electronic health records 3."
+    "text": "I’m a researcher at the Bennett Institute for Applied Data Science at the University of Oxford. I enjoy developing tools that make it easier and more fun to work with clinical data:\n\nsuddengains and lcsm are R packages that my colleagues and I developed to understand changes in clinical measures during psychological therapy\nehrQL is a query language written in Python that our team designed to make it easy to work with electronic health records\n\nMy work involves using and improving these tools to study changes in clinical measures during psychological therapies 1 2 and to evaluate the quality of clinical care using electronic health records 3."
   }
 ]
