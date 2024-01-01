@@ -1,0 +1,25 @@
+---
+title: "Milan Wiedemann"
+image: profile.png
+about:
+  image-width: 60%
+  template: trestles
+  links:
+    - icon: ""
+      text: "GitHub"
+      href: https://github.com/milanwiedemann
+    - icon: ""
+      text: "Google Scholar"
+      href: https://scholar.google.co.uk/citations?user=MlR2ow4AAAAJ&hl=en
+    - icon: ""
+      text: "Email"
+      href: mailto:milan.wiedemann@gmail.com
+---
+
+I'm a researcher at the [Bennett Institute for Applied Data Science](https://www.bennett.ox.ac.uk/) at the University of Oxford.
+I enjoy developing tools that make it easier and more fun to work with clinical data:
+
+- [*suddengains*](https://milanwiedemann.github.io/suddengains/) and [*lcsm*](https://milanwiedemann.github.io/lcsm/) are R packages that my colleagues and I developed to understand changes in clinical measures during psychological therapy
+- [*ehrQL*](https://github.com/opensafely-core/ehrql) is a query language written in Python that our team designed to make it easier to work with electronic health records
+
+My work involves using these tools to study changes in clinical measures during psychological therapies ^[1](https://doi.org/10.1016/j.brat.2023.104407)^ ^[2](https://doi.org/10.1037/ccp0000488)^ and to evaluate the quality of clinical care using electronic health records ^[3](https://www.medrxiv.org/content/10.1101/2023.07.20.23292883v2)^.

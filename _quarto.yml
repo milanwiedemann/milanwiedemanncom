@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  site-url: https://milanwiedemann.com
+  title: ""
+  navbar: 
+    search: false
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
