@@ -1399,9 +1399,6 @@
            given={Brian},
            giveni={B\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {medRxiv}%
-      }
       \strng{namehash}{be93e0fa795c4b18d01aa5535c5d4a67}
       \strng{fullhash}{f71d58ef53e6ca588d11f5de029889f6}
       \strng{bibnamehash}{f71d58ef53e6ca588d11f5de029889f6}
@@ -1412,6 +1409,7 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{medRxiv}
       \field{title}{Impact of COVID-19 on recorded blood pressure screening and hypertension management in England: An analysis of monthly changes in Quality and Outcomes Framework indicators in OpenSAFELY}
       \field{year}{2023}
       \true{nocite}
@@ -1658,9 +1656,9 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{eprinttype}{OSF}
+      \field{journaltitle}{OSF Preprints}
       \field{title}{{{OpenSAFELY}}: {{A}} Platform for Analysing Electronic Health Records Designed for Reproducible Research}
-      \field{year}{2024-02-14}
+      \field{year}{2024}
       \true{nocite}
       \verb{doi}
       \verb 10.31219/osf.io/hj2sg
@@ -1890,9 +1888,6 @@
            given={Ben},
            giveni={B\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {medRxiv}%
-      }
       \strng{namehash}{c3c245cf0fa5ee708798f06c2234bdcf}
       \strng{fullhash}{e3ef69269a06e527f4262f705e25dbe7}
       \strng{bibnamehash}{e3ef69269a06e527f4262f705e25dbe7}
@@ -1903,6 +1898,7 @@
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{journaltitle}{medRxiv}
       \field{title}{Effectiveness of BNT162b2 booster doses in England: an observational study in OpenSAFELY-TPP}
       \field{year}{2022}
       \true{nocite}
