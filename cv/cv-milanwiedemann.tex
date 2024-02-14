@@ -17,6 +17,9 @@
 \usepackage{orcidlink}
 \usepackage{fontawesome5}
 
+\usepackage[sfdefault,light]{roboto}  %% Option 'sfdefault' only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+
 % https://tex.stackexchange.com/questions/151217/remove-parentheses-for-empty-year-field-biblatex-ieee-style
 \usepackage{xpatch}
 \xpatchbibdriver{online}
@@ -138,8 +141,8 @@
 \begin{rSection}{Employment}
 
 \begin{rSubsection}{University of Oxford}{October 2021 - Present}{Research Associate, \href{https://www.bennett.ox.ac.uk/}{Bennett Institute for Applied Data Science}}{Oxford, UK}
-  \item Developing software in Python to improve research with electronic health records.
-  \item Conducting research to evaluate quality of care indicators in the National Health Service.
+  \item Evaluating quality of care indicators in the National Health Service.
+  \item Developing software in Python to make it easier to work with electronic health records.
 \end{rSubsection}
 
 \begin{rSubsection}{Nottinghamshire Healthcare NHS Foundation Trust}{October 2020 - September 2021}{Data Scientist, \href{https://www.nottinghamshirehealthcare.nhs.uk/}{Clinical Development Unit}}{Nottingham, UK}
@@ -172,7 +175,7 @@
 \end{rSubsection}
 
 \begin{rSubsection}{Technische Universit{\"a}t Braunschweig}{September 2012 - March 2015}{Teaching Assistant, Institutes of \href{https://www.tu-braunschweig.de/psychologie/klinische}{Clinical Psychology} and \href{https://www.tu-braunschweig.de/psychologie/methoden}{Methodology}}{Braunschweig, GER}
-  \item Modules: Practical Course of Psychological Diagnostics, Fundamentals of Psychological Diagnostics, Laboratory Experience and Analysis with Statistical Software
+  \item Modules: Psychological Diagnostics, Analysis with Statistical Software
 \end{rSubsection}
 
 \end{rSection}
@@ -265,6 +268,7 @@
 \nocite{R-paper-lcsm}
 \nocite{R-paper-suddengains}
 \nocite{Wiedememann2020}
+\nocite{Fisher2023}
 \nocite{Curtis2023}
 \nocite{Green2023}
 \nocite{Beierl2021}
@@ -279,8 +283,8 @@
 \begin{refsection}
 \printbibliography[keyword={preprint}, title={Preprints}]
 \nocite{Wiedemann2023}
+\nocite{Nab2024}
 \nocite{Hulme2022}
-\nocite{Fisher2023}
 \nocite{LorenzoLuaces2020}
 % Add preprints here
 \end{refsection}
